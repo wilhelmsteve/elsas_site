@@ -1,4 +1,4 @@
-resourcesources perfumes = [];// global
+let perfumes = [];// global
 
 // JSON LADEN
 async function loadPerfumes() {

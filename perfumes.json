@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Forever Yours",
+    "number": "145",
+    "sex": "Damen",
+    "sizes": ["30ml", "70ml"],
+    "prices": ["18€", "35€"],
+    "description": "Süß und elegant.",
+    "olfactory_group": ["Blumig", "Orientalisch"],
+    "links": ["#", "#"]
+  },
+  {
+    "name": "Dark Wood",
+    "number": "200",
+    "sex": "Herren",
+    "sizes": ["50ml"],
+    "prices": ["29€"],
+    "description": "Maskulin und tief.",
+    "olfactory_group": ["Holzig"],
+    "links": ["#"]
+  }
+]

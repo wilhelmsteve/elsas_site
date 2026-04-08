@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Elsas Beautykompass</title>
+
+<!-- CSS -->
+<link rel="stylesheet" href="styles/style.css">
+</head>
+
+<body>
+
+<div class="header">Elsas Beautykompass ✨</div>
+
+<div class="navbar">
+  <button onclick="showPage('home')">Startseite</button>
+  <button onclick="showPage('finder')">Parfümfinder</button>
+</div>
+
+<div class="content">
+
+<!-- STARTSEITE -->
+<div id="home">
+  <div class="card">
+    <h2>Willkommen 💖</h2>
+    <p>
+      Willkommen auf meiner Seite „Elsas Beautykompass“!  
+      Hier helfe ich dir, den perfekten Duft für dich zu finden.
+    </p>
+
+    <!-- DEIN BILD -->
+    <img src="resources/elsa.jpg" class="hero-img">
+
+    <h3>Über mich</h3>
+    <p>
+      Ich liebe Düfte und alles rund um Beauty.  
+      Mein Ziel ist es, dir Orientierung zu geben und dir zu helfen,
+      deinen persönlichen Lieblingsduft zu entdecken.
+    </p>
+  </div>
+</div>
+
+<!-- PARFÜMFINDER -->
+<div id="finder" style="display:none;">
+
+  <div class="card">
+    <h2>Finde jetzt deinen passenden Duft!</h2>
+  </div>
+
+  <div class="filters">
+
+    <h3>Geschlecht</h3>
+    <label><input type="checkbox" value="Damen" data-group="sex" onchange="filter()"> Damen</label>
+    <label><input type="checkbox" value="Herren" data-group="sex" onchange="filter()"> Herren</label>
+    <label><input type="checkbox" value="Unisex" data-group="sex" onchange="filter()"> Unisex</label>
+
+    <br><br>
+
+    <h3>Duftgruppe</h3>
+    <label><input type="checkbox" value="Blumig" data-group="group" onchange="filter()"> Blumig</label>
+    <label><input type="checkbox" value="Holzig" data-group="group" onchange="filter()"> Holzig</label>
+    <label><input type="checkbox" value="Orientalisch" data-group="group" onchange="filter()"> Orientalisch</label>
+    <label><input type="checkbox" value="Fruchtig" data-group="group" onchange="filter()"> Fruchtig</label>
+
+    <br><br>
+
+    <button class="reset" onclick="resetFilter()">Zurücksetzen</button>
+  </div>
+
+  <div id="results"></div>
+
+</div>
+
+</div>
+
+<!-- JAVASCRIPT -->
+<script src="scripts/script.js"></script>
+
+</body>
+</html>

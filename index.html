@@ -42,32 +42,22 @@
 
 <!-- PARFÜMFINDER -->
 <div id="finder" style="display:none;">
-
   <div class="card">
     <h2>Finde jetzt deinen passenden Duft!</h2>
   </div>
 
   <div class="filters">
-
     <h3>Geschlecht</h3>
-    <label><input type="checkbox" value="Damen" data-group="sex" onchange="filter()"> Damen</label>
-    <label><input type="checkbox" value="Herren" data-group="sex" onchange="filter()"> Herren</label>
-    <label><input type="checkbox" value="Unisex" data-group="sex" onchange="filter()"> Unisex</label>
-
-    <br><br>
-
+    <div id="filter-sex"></div>
+    
     <h3>Duftfamilie</h3>
-    <label><input type="checkbox" value="Aromatisch" data-group="group" onchange="filter()"> Aromatisch</label>
-    <label><input type="checkbox" value="Holzig" data-group="group" onchange="filter()"> Holzig</label>
-
-    <br><br>
-
+    <div id="filter-group"></div>
+    
+    <br>
     <button class="reset" onclick="resetFilter()">Zurücksetzen</button>
   </div>
 
   <div id="results"></div>
-
-</div>
 
 </div>
 

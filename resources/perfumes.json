@@ -4,7 +4,7 @@
     "number": "148W",
     "sex": "Damen",
     "sizes": ["30ml"],
-    "prices": ["18€"],
+    "prices": ["18,00€"],
     "description": "Ein strahlender, verführerischer Damenduft, der Vanille in einer modernen Komposition zelebriert. Mit seinem warmen, gourmandigen Charakter hüllt er die Trägerin in eine goldene Duftspur voller Sinnlichkeit und ist Ausdruck einer selbstbewussten, faszinierenden Persönlichkeit.",
     "olfactory_group": ["Aromatisch"],
     "links": ["https://www.chogangroupspa.com/chogangroup/productDetail/11298"]
@@ -14,9 +14,39 @@
     "number": "61M",
     "sex": "Herren",
     "sizes": ["30ml"],
-    "prices": ["18€"],
+    "prices": ["18,00€"],
     "description": "Ein frischer, sinnlicher und sportlicher Duft, der eine moderne Vision von Männlichkeit verkörpert. Die aufregende Frische der Kopfnote kontrastiert mit der holzigen Sinnlichkeit der Basisnote.",
     "olfactory_group": ["Holzig"],
     "links": ["https://www.chogangroupspa.com/chogangroup/productDetail/12351"]
+  },
+  {
+    "name": "Revenant Intense",
+    "number": "94M",
+    "sex": "Herren",
+    "sizes": ["30ml"],
+    "prices": ["25,50€"],
+    "description": "Ein Duft, der die Essenz eines Mannes einfängt – jenseits von Trends, losgelöst von der Zeit. Ungezähmt, bewusst und ganz im Einklang mit seiner eigenen Identität.",
+    "olfactory_group": ["Aromatisch"],
+    "links": ["https://www.chogangroupspa.com/chogangroup/productDetail/12711"]
+  },
+  {
+    "name": "Cupid",
+    "number": "140M",
+    "sex": "Herren",
+    "sizes": ["30ml"],
+    "prices": ["18,00€"],
+    "description": "Ein ausgesprochen frischer Duft, der mit seinen aromatischen Noten Kraft und Leidenschaft vermittelt. Er umhüllt seinen Träger mit einer sinnlichen, maskulinen Ausstrahlung und ist damit perfekt für den Mann, der nicht unbemerkt bleiben möchte.",
+    "olfactory_group": ["Aromatisch"],
+    "links": ["https://www.chogangroupspa.com/chogangroup/productDetail/12936"]
+  },
+  {
+    "name": "Indigo",
+    "number": "84M",
+    "sex": "Herren",
+    "sizes": ["30ml"],
+    "prices": ["18,00€"],
+    "description": "Unerbittliche Kraft und Leidenschaft, unaufhaltsam wie die Wellen des Meeres: Ein Duft, der mit den sinnlichen Noten des Mittelmeers überrascht und unwiderstehliche, aromatische Akkorde vereint.",
+    "olfactory_group": ["Aromatisch"],
+    "links": ["https://www.chogangroupspa.com/chogangroup/productDetail/12576"]
   }
 ]

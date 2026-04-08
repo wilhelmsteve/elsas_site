@@ -1,0 +1,103 @@
+/* ===== BASIS ===== */
+body {
+  margin: 0;
+  font-family: "Georgia", serif;
+  background: #faf9f6;
+  color: #1a1a1a;
+}
+
+/* ===== HEADER ===== */
+.header {
+  background: linear-gradient(90deg, #1a1a1a, #3a2c2c, #d4af37);
+  color: #f5e6c8;
+  text-align: center;
+  padding: 40px 10px;
+  font-size: 32px;
+  letter-spacing: 2px;
+}
+
+/* ===== NAVIGATION ===== */
+.navbar {
+  background: #1a1a1a;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar button {
+  background: none;
+  border: none;
+  color: #d4af37;
+  padding: 15px 25px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.navbar button:hover {
+  background: rgba(212,175,55,0.2);
+}
+
+/* ===== CONTENT ===== */
+.content {
+  padding: 20px;
+}
+
+/* ===== CARD ===== */
+.card {
+  background: white;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 500px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+/* ===== HERO IMAGE ===== */
+.hero-img {
+  width: 100%;
+  border-radius: 12px;
+  margin: 15px 0;
+}
+
+/* ===== TAGS ===== */
+.tags span {
+  display: inline-block;
+  background: #f0e6d2;
+  padding: 5px 10px;
+  margin: 3px;
+  border-radius: 20px;
+  font-size: 12px;
+}
+
+/* ===== FILTER ===== */
+.filters {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.filters label {
+  margin: 8px;
+  cursor: pointer;
+}
+
+/* ausgegraute Optionen */
+.filters input:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* ===== BUTTON ===== */
+button.reset {
+  margin-top: 10px;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  background: #1a1a1a;
+  color: #d4af37;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button.reset:hover {
+  background: #333;
+}

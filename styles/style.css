@@ -49,6 +49,7 @@ body {
   margin: 20px auto;
   max-width: 500px;
   border-radius: 12px;
+  box-sizing: border-box;
   box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 }
 
@@ -80,8 +81,17 @@ body {
 }
 
 .filters label {
-  margin: 8px;
-  cursor: pointer;
+    padding: 12px;           /* Größere Klickfläche für den Daumen */
+    background: #f4f4f4;    /* Leichter Hintergrund zur Abhebung */
+    margin: 5px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+}
+
+.filters input[type="checkbox"] {
+    transform: scale(1.5);   /* Macht die Checkbox selbst etwas größer */
+    margin-right: 15px;
+    margin-bottom: 15px;
 }
 
 /* ausgegraute Optionen */
@@ -90,18 +100,26 @@ body {
   cursor: not-allowed;
 }
 
-/* ===== BUTTON ===== */
+/* ===== OPTIMIERTER RESET BUTTON ===== */
 button.reset {
-  margin-top: 10px;
-  padding: 8px 15px;
+  display: block;          /* Nimmt eine eigene Zeile ein */
+  width: 100%;             /* Volle Breite auf dem Handy */
+  max-width: 200px;        /* Aber nicht zu breit auf dem PC */
+  margin: 20px auto;       /* Zentriert mit Abstand nach oben/unten */
+  padding: 15px 20px;      /* Deutlich größeres Padding für den Daumen */
+  font-size: 16px;         /* Größere Schrift */
+  font-weight: bold;
+  text-transform: uppercase;
   border: none;
-  border-radius: 5px;
+  border-radius: 8px;
   background: #1a1a1a;
   color: #d4af37;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
   cursor: pointer;
   transition: 0.3s;
 }
 
 button.reset:hover {
-  background: #333;
+  background: #d4af37;
+  color: #1a1a1a;
 }

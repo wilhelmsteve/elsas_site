@@ -3,11 +3,13 @@ let perfumes = [];// global
 // JSON LADEN
 async function loadPerfumes() {
   try {
-    const response = await fetch("resources/perfumes.json");
-    perfumes = await response.json();
-    render(perfumes);
+    //const response = await fetch("resources/perfumes.json");
+    //perfumes = await response.json();
+    
+    createFilters(perfumes); // Zuerst die Filter aus den Daten bauen...
+    render(perfumes); // ...dann alle Parfüme anzeigen
   } catch (error) {
-    console.error("Fehler beim Laden der Parfums:", error);
+    console.error("Fehler beim Laden:", error);
   }
 }
 
@@ -26,8 +28,13 @@ function render(list) {
     container.innerHTML = "<p>Kein Duft gefunden</p>";
     return;
   }
+  
+  // Sortierung aufsteigend nach Nummer
+  const sortedList = [...list].sort((a, b) => 
+    a.number.localeCompare(b.number, undefined, { numeric: true, sensitivity: 'base' })
+  );
 
-  container.innerHTML = list.map(p => {
+  container.innerHTML = sortedList.map(p => {
     const links = p.sizes.map((s,i) =>
       `<a href="${p.links[i] || '#'}">Produkt (${s}) ${p.prices[i] || ''}</a><br>`
     ).join("");
@@ -46,6 +53,29 @@ function render(list) {
 }
 
 // FILTER
+function createFilters(list) {
+  const sexContainer = document.getElementById("filter-sex");
+  const groupContainer = document.getElementById("filter-group");
+
+  // Alle vorhandenen Werte sammeln (Sets verhindern Duplikate)
+  const sexes = [...new Set(list.map(p => p.sex))];
+  const groups = [...new Set(list.flatMap(p => p.olfactory_group))];
+
+  // Checkboxen für Geschlecht bauen
+  sexContainer.innerHTML = sexes.map(s => `
+    <label>
+      <input type="checkbox" value="${s}" data-group="sex" onchange="filter()"> ${s}
+    </label>
+  `).join("");
+
+  // Checkboxen für Duftfamilien bauen
+  groupContainer.innerHTML = groups.sort().map(g => `
+    <label>
+      <input type="checkbox" value="${g}" data-group="group" onchange="filter()"> ${g}
+    </label>
+  `).join("");
+}
+
 function filter() {
   const inputs = document.querySelectorAll("input[type=checkbox]");
 

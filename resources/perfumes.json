@@ -1,22 +1,22 @@
 [
   {
-    "name": "Forever Yours",
-    "number": "145",
+    "name": "Divine Aura",
+    "number": "148W",
     "sex": "Damen",
-    "sizes": ["30ml", "70ml"],
-    "prices": ["18€", "35€"],
-    "description": "Süß und elegant.",
-    "olfactory_group": ["Blumig", "Orientalisch"],
-    "links": ["#", "#"]
+    "sizes": ["30ml"],
+    "prices": ["18€"],
+    "description": "Ein strahlender, verführerischer Damenduft, der Vanille in einer modernen Komposition zelebriert. Mit seinem warmen, gourmandigen Charakter hüllt er die Trägerin in eine goldene Duftspur voller Sinnlichkeit und ist Ausdruck einer selbstbewussten, faszinierenden Persönlichkeit.",
+    "olfactory_group": ["Aromatisch"],
+    "links": ["https://www.chogangroupspa.com/chogangroup/productDetail/11298"]
   },
   {
-    "name": "Dark Wood",
-    "number": "200",
+    "name": "Triumph",
+    "number": "61M",
     "sex": "Herren",
-    "sizes": ["50ml"],
-    "prices": ["29€"],
-    "description": "Maskulin und tief.",
+    "sizes": ["30ml"],
+    "prices": ["18€"],
+    "description": "Ein frischer, sinnlicher und sportlicher Duft, der eine moderne Vision von Männlichkeit verkörpert. Die aufregende Frische der Kopfnote kontrastiert mit der holzigen Sinnlichkeit der Basisnote.",
     "olfactory_group": ["Holzig"],
-    "links": ["#"]
+    "links": ["https://www.chogangroupspa.com/chogangroup/productDetail/12351"]
   }
 ]

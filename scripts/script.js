@@ -1,9 +1,9 @@
-let perfumes = [];// global
+resourcesources perfumes = [];// global
 
 // JSON LADEN
 async function loadPerfumes() {
   try {
-    const response = await fetch("/resources/perfumes.json");
+    const response = await fetch("resources/perfumes.json");
     perfumes = await response.json();
     render(perfumes);
   } catch (error) {

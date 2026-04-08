@@ -52,6 +52,10 @@ body {
   box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 }
 
+.card h2 {
+  text-align: center;
+}
+
 /* ===== HERO IMAGE ===== */
 .hero-img {
   width: 100%;

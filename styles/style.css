@@ -80,18 +80,31 @@ body {
   margin-bottom: 20px;
 }
 
+/* Der Container, der die Checkboxen umschließt */
+#filter-sex, #filter-group {
+  display: flex;
+  flex-wrap: wrap;       /* Erlaubt das Umspringen in die nächste Zeile */
+  justify-content: center; /* Zentriert die Filter */
+  gap: 10px;             /* Abstand zwischen den Filtern */
+  padding: 10px 0;
+}
+
+/* Die einzelnen Filter-Labels */
 .filters label {
-    padding: 12px;           /* Größere Klickfläche für den Daumen */
-    background: #f4f4f4;    /* Leichter Hintergrund zur Abhebung */
-    margin: 5px;
-    border-radius: 8px;
-    border: 1px solid #ddd;
+  display: flex;         /* Checkbox und Text bleiben immer in einer Zeile */
+  align-items: center;   /* Mittig ausrichten */
+  background: #f4f4f4;
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  white-space: nowrap;   /* VERHINDERT den Umbruch innerhalb des Labels! */
+  cursor: pointer;
+  flex-shrink: 0;        /* Label darf nicht zusammengestaucht werden */
 }
 
 .filters input[type="checkbox"] {
-    transform: scale(1.5);   /* Macht die Checkbox selbst etwas größer */
-    margin-right: 15px;
-    margin-bottom: 15px;
+  margin-right: 10px;    /* Abstand zum Text */
+  transform: scale(1.2); /* Etwas moderater vergrößert */
 }
 
 /* ausgegraute Optionen */
@@ -106,6 +119,23 @@ button.reset {
   width: 100%;             /* Volle Breite auf dem Handy */
   max-width: 200px;        /* Aber nicht zu breit auf dem PC */
   margin: 20px auto;       /* Zentriert mit Abstand nach oben/unten */
+  padding: 15px 20px;      /* Deutlich größeres Padding für den Daumen */
+  font-size: 16px;         /* Größere Schrift */
+  font-weight: bold;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 8px;
+  background: #1a1a1a;
+  color: #d4af37;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button.reset:hover {
+  background: #d4af37;
+  color: #1a1a1a;
+}  margin: 20px auto;       /* Zentriert mit Abstand nach oben/unten */
   padding: 15px 20px;      /* Deutlich größeres Padding für den Daumen */
   font-size: 16px;         /* Größere Schrift */
   font-weight: bold;

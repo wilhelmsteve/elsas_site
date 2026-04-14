@@ -1,5 +1,77 @@
 [
   {
+    "name": "Deep Blue For Him",
+    "number": "02M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Leicht und frisch, tief und raffiniert – Ein Duft, der von der Insel Pantelleria inspiriert ist. Ein intensiv maskuliner Duft, der mit seiner mineralischen Frische die Begegnung von Meer und Fels symbolisiert.",
+    "olfactory_group": [
+      "Aromatisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Jasmin", "Limette", "Mandarinorange", "Neroli", "Orange", "Zitrone"
+      ],
+      "heart": [
+        "Alpenveilchen", "Calone", "Freesie", "Hyazinthe", "Jasmin", "Koriander", "marine Noten", "Muskat", "Pfirsich", "Reseda", "Rose", "Rosmarin", "Veilchen"
+      ],
+      "base": [
+        "Ambra", "Eichenmoos", "Moschus", "Patschuli", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/999",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8756",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11711"
+    ]
+  },
+  {
+    "name": "Fireborn",
+    "number": "03M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft voller Widersprüche: frisch und doch kraftvoll, wie die Begegnung von Wasser und Feuer.",
+    "olfactory_group": [
+      "Aromatisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Hagedorn", "Kamille", "Lavendel", "Mandarinorange", "Muskat", "Zitronatzitrone", "Zitrone"
+      ],
+      "heart": [
+        "Geißblatt", "Jasmin", "Maiglöckchen", "Muskat", "Nelke", "Sandelholz", "Veilchenblatt", "Zitronatzitrone"
+      ],
+      "base": [
+        "Ambra", "Leder", "Moschus", "Patschuli", "Tonkabohne", "Vetiver"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/1033",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11731",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8906"
+    ]
+  },
+  {
     "name": "Revenant",
     "number": "12M",
     "sex": "Herren",
@@ -33,6 +105,42 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/930",
       "https://www.chogangroupspa.com/chogangroup/productDetail/8924",
       "https://www.chogangroupspa.com/chogangroup/productDetail/11821"
+    ]
+  },
+  {
+    "name": "Aqua Soul For Him",
+    "number": "21M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft, der die zeitlose Sinnlichkeit des Mittelmeers einfängt, eines Ortes, der seit jeher die ideale Kulisse für Verführung war und immer sein wird.",
+    "olfactory_group": [
+      "Aromatisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Mandarinorange", "Pink Grapefruit", "Wacholder"
+      ],
+      "heart": [
+        "brasilianisches Rosenholz", "Pfeffer", "Rosmarin"
+      ],
+      "base": [
+        "Eichenmoos", "Moschus", "Weihrauch"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/1037",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8895",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8894"
     ]
   },
   {
@@ -149,17 +257,34 @@
     "sex": "Herren",
     "class": "Normal",
     "sizes": [
-      "30ml"
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
     ],
     "prices": [
-      "18,00€"
+      "11,90€",
+      "18,00€",
+      "35,00€"
     ],
     "description": "Ein frischer, sinnlicher und sportlicher Duft, der eine moderne Vision von Männlichkeit verkörpert. Die aufregende Frische der Kopfnote kontrastiert mit der holzigen Sinnlichkeit der Basisnote.",
     "olfactory_group": [
       "Holzig"
     ],
+    "pyramid": {
+      "top": [
+        "Mandarinorange", "marine Noten", "Pink Grapefruit"
+      ],
+      "heart": [
+        "Jasmin, Lorbeer"
+      ],
+      "base": [
+        "Ambergris", "Eichenmoos", "Guajakholz", "Patschuli"
+      ]
+    },
     "links": [
-      "https://www.chogangroupspa.com/chogangroup/productDetail/12351"
+      "https://www.chogangroupspa.com/chogangroup/productDetail/1092",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12351",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12346"
     ]
   },
   {
@@ -199,6 +324,42 @@
     ]
   },
   {
+    "name": "Seaside",
+    "number": "69M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft, der eindeutig vom Meer inspiriert ist, riecht nach Salz und Urlaub. Ein einziger Sprühstoß ist wie eine Reise durch das Mittelmeer: Kreta, Sardinien, die Äolischen Inseln. Seine einzigartige Komposition macht diesen Duft zu etwas Besonderem, verführerisch, berauschend, fast unbeschreiblich.",
+    "olfactory_group": [
+      "Aromatisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Meersalz", "Myrte"
+      ],
+      "heart": [
+        "Algae"
+      ],
+      "base": [
+        "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/1710",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9058",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9057"
+    ]
+  },
+  {
     "name": "Essence Noire",
     "number": "74M",
     "sex": "Herren",
@@ -233,7 +394,7 @@
   },
   {
     "name": "So True",
-    "number": "84M",
+    "number": "79M",
     "sex": "Herren",
     "class": "Normal",
     "sizes": [
@@ -340,6 +501,42 @@
     ]
   },
   {
+    "name": "Bond",
+    "number": "91M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Dieser Duft zelebriert Lebensfreude, echte Emotionen und den Wert des Austauschs. Er steht für Aufbruch – eine Welle der Freiheit, die an die Frische des Wassers und das azurblaue Glitzern des Meeres erinnert. In ihm schwingt eine moderne Leichtigkeit mit, die belebende Energie verströmt.",
+    "olfactory_group": [
+      "Aromatisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Ananas", "Bergamotte", "Neroli", "Rosmarin", "Zitrone"
+      ],
+      "heart": [
+        "Alpenveilchen", "Eichenmoos", "Koriander", "Nachtjasmin"
+      ],
+      "base": [
+        "brasilianisches Rosenholz", "Eichenmoos", "Kardamom", "Moschus", "Sandelholz", "Tonkabohne", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/2083",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9003",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9002"
+    ]
+  },
+  {
     "name": "Revenant Intense",
     "number": "94M",
     "sex": "Herren",
@@ -409,6 +606,39 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/2988",
       "https://www.chogangroupspa.com/chogangroup/productDetail/12771",
       "https://www.chogangroupspa.com/chogangroup/productDetail/9109"
+    ]
+  },
+  {
+    "name": "Riviera",
+    "number": "112U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Ein frischer, lebendiger Duft, der an die Aromen der Meeresbrise erinnert. Zitrische, aromatische und blumige Akkorde rufen Bilder von kristallklarem Wasser und der üppigen Vegetation der italienischen Küste hervor.",
+    "olfactory_group": [
+      "Aromatisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Bitterorange", "Lavendel", "Mandarinorange", "Myrte", "Rosmarin", "Zitrone"
+      ],
+      "heart": [
+        "Jasmin", "Klebsamen", "Neroli", "Orangenblüte"
+      ],
+      "base": [
+        "Ambra", "Ambrette oder Moschusmalve", "Engelswurz"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8475",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/4415"
     ]
   },
   {
@@ -484,18 +714,32 @@
     "name": "Sicilian Garden",
     "number": "137U",
     "sex": "Unisex",
-    "class": "Normal",
+    "class": "Luxus",
     "sizes": [
+      "15ml Nachfüllflakon",
       "50ml"
     ],
     "prices": [
+      "19,90€",
       "52,00€"
     ],
     "description": "Ein üppriger Duft, der Tradition und Moderne verbindet und ein lebendiges olfaktorisches Porträt Siziliens und des Mittelmeers zeichnet. Frische Zitrusnoten verbinden sich darin mit würzigen und blumigen Noten zu einem unwiderstehlich sinnlichen Duft, der die jahrhundertealte Kultur Siziliens erzählt.",
     "olfactory_group": [
       "Zitrus"
     ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Lavendel", "Zitrone"
+      ],
+      "heart": [
+        "Cashmeran", "Honig", "Jasmin", "Zimt"
+      ],
+      "base": [
+        "Tabakblüte", "Tonkabohne", "Vanille"
+      ]
+    },
     "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/13911",
       "https://www.chogangroupspa.com/chogangroup/productDetail/13141"
     ]
   },
@@ -536,22 +780,147 @@
     ]
   },
   {
+    "name": "Dark Nectar",
+    "number": "147M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein intensiver, magnetischer Herrenduft, der Männern mit starken, charismatischen Persönlichkeiten gewidmet ist. Der rauchig-warme Auftakt geht über in ein harziges Herz und ruht schließlich auf einer kostbaren, beständigen Basis. Er wurde für Männer kreiert, die aus der Masse herausstechen möchten – mit einer Duftspur voller zeitloser Eleganz und unwiderstehlicher Ausstrahlung.",
+    "olfactory_group": [
+      "Aromatisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Leder", "Weihrauch"
+      ],
+      "heart": [
+        "Myrrhe", "Patschuli"
+      ],
+      "base": [
+        "Davana", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11313",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11283",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11278"
+    ]
+  },
+  {
     "name": "Divine Aura",
     "number": "148W",
     "sex": "Damen",
     "class": "Normal",
     "sizes": [
-      "30ml"
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
     ],
     "prices": [
-      "18,00€"
+      "11,90€",
+      "18,00€",
+      "35,00€"
     ],
     "description": "Ein strahlender, verführerischer Damenduft, der Vanille in einer modernen Komposition zelebriert. Mit seinem warmen, gourmandigen Charakter hüllt er die Trägerin in eine goldene Duftspur voller Sinnlichkeit und ist Ausdruck einer selbstbewussten, faszinierenden Persönlichkeit.",
     "olfactory_group": [
       "Aromatisch"
     ],
+    "pyramid": {
+      "top": [
+        "Ingwer", "Kakao", "Lavendel", "Vanille"
+      ],
+      "heart": [
+        "Vanillekaviar"
+      ],
+      "base": [
+        "Vanille Absolue"
+      ]
+    },
     "links": [
-      "https://www.chogangroupspa.com/chogangroup/productDetail/11298"
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11308",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11298",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11293"
+    ]
+  },
+  {
+    "name": "Unbending Man",
+    "number": "150M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Die fruchtigen Duftessenzen von frischen Äpfeln und Zitrusfrüchten in der Kopfnote unterstreichen die Einzigartigkeit jedes Mannes. Blumige Akkorde von Nelke, Jasmin und Geranie verleihen dem Duft Sex-Appeal, der in der Basisnote aus Fichte, Zedernholz und Patschuli eindrucksvoll vertieft wird.",
+    "olfactory_group": [
+      "Aromatisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Apfel", "Basilikum", "Lavendel", "Minze", "Pink Grapefruit"
+      ],
+      "heart": [
+        "Geranie", "Jasmin", "Nelke", "Salbei"
+      ],
+      "base": [
+        "Balsamtanne", "Patschuli", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11213",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11088",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11083"
+    ]
+  },
+  {
+    "name": "To The Edge For Him",
+    "number": "152M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein verführerische und sinnliche Duft für den selbstbewussten, unkonventionellen Mann von heute – sexy, jung und maskulin.",
+    "olfactory_group": [
+      "Aromatisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Lavendel", "Zitrone"
+      ],
+      "heart": [
+        "Orangenblüte"
+      ],
+      "base": [
+        "Patschuli", "Vanille", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11178",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11043",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11038"
     ]
   },
   {
@@ -574,10 +943,57 @@
       "Aromatisch",
       "Zitrus"
     ],
+    "pyramid": {
+      "top": [
+        "Ananas", "Bergamotte", "Grüne Noten", "Kardamom", "Mandarinorange", "Papaya", "Zitrone"
+      ],
+      "heart": [
+        "Freesie", "Iriswurzel", "Jasmin", "Maiglöckchen", "Muskat", "Rose", "Veilchen"
+      ],
+      "base": [
+        "Ambra", "Eichenmoos", "Grüne Noten", "Moschus", "Sandelholz", "Tee", "Zitronatzitrone"
+      ]
+    },
     "links": [
       "https://www.chogangroupspa.com/chogangroup/productDetail/11138",
       "https://www.chogangroupspa.com/chogangroup/productDetail/10983",
       "https://www.chogangroupspa.com/chogangroup/productDetail/10978"
+    ]
+  },
+  {
+    "name": "Aftertouch",
+    "number": "157M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Dieser Duft ist ein Bekenntnis zu Eleganz und Verführung – perfekt für den Mann, der seine Erfolge immer zelebriert. Fesselnd und sinnlich, entfaltet er eine fast aphrodisierende Wirkung und besticht durch seine unwiderstehlichen, beständigen Noten.",
+    "olfactory_group": [
+      "Aromatisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Ingwerblüte", "Mandarinorange"
+      ],
+      "heart": [
+        "Lavendel", "Maninka"
+      ],
+      "base": [
+        "holzige Noten", "Leder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11218",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11103",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11098"
     ]
   }
 ]

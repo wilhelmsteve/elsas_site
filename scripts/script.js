@@ -23,7 +23,13 @@ function showPage(page) {
 // RENDER
 function render(list) {
   const container = document.getElementById("results");
+  const counter = document.getElementById("counter"); // Den Counter greifen
 
+  // Anzeige aktualisieren
+  if (counter) {
+    counter.innerText = `Zeige ${list.length} von ${perfumes.length} Düften`;
+  }
+  
   if (!list.length) {
     container.innerHTML = "<p>Kein Duft gefunden</p>";
     return;
@@ -36,7 +42,7 @@ function render(list) {
 
   container.innerHTML = sortedList.map(p => {
     const links = p.sizes.map((s,i) =>
-      `<a href="${p.links[i] || '#'}">Produkt (${s}) ${p.prices[i] || ''}</a><br>`
+      `<a href="${p.links[i] || '#'}">Zum Produkt: ${s} (${p.prices[i] || ''})</a><br>`
     ).join("");
 
     return `

@@ -30,6 +30,36 @@
     ]
   },
   {
+    "name": "Medusa",
+    "number": "MEDUSA",
+    "sex": "Damen",
+    "class": "Mytologik",
+    "sizes": [
+      "100ml"
+    ],
+    "prices": [
+      "299,00€"
+    ],
+    "description": "Inspiriert vom Mythos der jungen Frau, die durch ein tragisches Schicksal in ein Ungeheuer verwandelt wurde, ist Medusa by MΨTΟLOGIK ein Damenduft, der ein Bild einer kraftvollen und rachsüchtigen Weiblichkeit verkörpert. Dieser Duft startet mit einer salzigen Note, die an das Reich des Meeres erinnert, in dem die Gorgo verwurzelt ist. Die blumige Herznote erzählt von ihrer verlorenen Schönheit. Die intensive und fesselnde Basisnote lässt an den unerbittlichen Blick der Kreatur denken, der selbst den tapfersten Krieger zu Stein erstarren lässt.",
+    "olfactory_group": [
+      "Zitrus"
+    ],
+    "pyramid": {
+      "top": [
+        "Algae", "Meersalz", "Passionsfrucht", "Yuzu", "Zitrone"
+      ],
+      "heart": [
+        "Lotus", "Maiglöckchen", "Nelke", "Wasserlilie"
+      ],
+      "base": [
+        "Ambra", "Moschus", "Sandelholz", "Vetiver"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9943"
+    ]
+  },
+  {
     "name": "Astral24",
     "number": "ASTRAL24",
     "sex": "Damen",
@@ -250,7 +280,7 @@
     ],
     "description": "Ein zeitloser Klassiker, der in seiner Kühnheit revolutionär bleibt. Ein perfektes Gleichgewicht zwischen Frische, Kraft und Intensität. Dieser große Klassiker der Herrenparfümerie mit seinem modernen und entschlossenen Charakter steht für das Gleichgewicht zwischen Einfachheit, Natürlichkeit und Einzigartigkeit.",
     "olfactory_group": [
-      "Aromatisch"
+      "Aromatisch", "Zitrus"
     ],
     "pyramid": {
       "top": [
@@ -394,7 +424,7 @@
     ],
     "description": "Ein Duft, der die zeitlose Sinnlichkeit des Mittelmeers einfängt, eines Ortes, der seit jeher die ideale Kulisse für Verführung war und immer sein wird.",
     "olfactory_group": [
-      "Aromatisch"
+      "Aromatisch", "Zitrus"
     ],
     "pyramid": {
       "top": [
@@ -1264,7 +1294,7 @@
     ],
     "description": "Dieser Duft zelebriert Lebensfreude, echte Emotionen und den Wert des Austauschs. Er steht für Aufbruch – eine Welle der Freiheit, die an die Frische des Wassers und das azurblaue Glitzern des Meeres erinnert. In ihm schwingt eine moderne Leichtigkeit mit, die belebende Energie verströmt.",
     "olfactory_group": [
-      "Aromatisch"
+      "Aromatisch", "Zitrus"
     ],
     "pyramid": {
       "top": [
@@ -1583,7 +1613,7 @@
     ],
     "description": "Ein frischer, lebendiger Duft, der an die Aromen der Meeresbrise erinnert. Zitrische, aromatische und blumige Akkorde rufen Bilder von kristallklarem Wasser und der üppigen Vegetation der italienischen Küste hervor.",
     "olfactory_group": [
-      "Aromatisch"
+      "Aromatisch", "Zitrus"
     ],
     "pyramid": {
       "top": [
@@ -1618,7 +1648,7 @@
     ],
     "description": "Ein Duft mit frischen Nuancen, der das Gefühl von Wind auf der Haut und Wasserspritzern im Gesicht wachruft. Zitrusfrüchte und Pfeffer fesseln die Sinne mit ihren prickelnden Noten, während grüne Akkorde den Duft von frisch gemähtem Gras heraufbeschwören. Warme, holzige Noten runden den Duft intensiv ab.",
     "olfactory_group": [
-      "Aromatisch"
+      "Aromatisch", "Zitrus"
     ],
     "pyramid": {
       "top": [
@@ -1776,6 +1806,39 @@
     "links": [
       "https://www.chogangroupspa.com/chogangroup/productDetail/8426",
       "https://www.chogangroupspa.com/chogangroup/productDetail/13146"
+    ]
+  },
+  {
+    "name": "Mediterraneo",
+    "number": "125U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Ein Duft, der das traumhafte Flair der italienischen Küsten mit einer Explosion zitrischer Noten heraufbeschwört. Das mediterrane Idyll und die sonnige Leichtigkeit spiegeln sich in Orangenblüte, Jasmin und Maiglöckchen wider – sie verleihen der Komposition Strahlkraft und Luftigkeit. Die Duftkomposition klingt mit moschusartigen Noten aus, die auf der Haut eine intensive, sinnliche Spur hinterlassen.",
+    "olfactory_group": [
+      "Zitrus"
+    ],
+    "pyramid": {
+      "top": [
+        "Mandarinorange", "Pomeranze"
+      ],
+      "heart": [
+        "Jasmin", "Maiglöckchen", "Orangenblüte", "Shiso", "Ylang-Ylang"
+      ],
+      "base": [
+        "Eichenmoos", "Moschus", "Sandelholz"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8427",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/7394"
     ]
   },
   {
@@ -2149,8 +2212,7 @@
     ],
     "description": "Ein Duft mit minimalistischer Seele, androgyn und inspiriert von den Werten der Gleichberechtigung. Für Männer und Frauen gleichermaßen geschaffen, zelebriert er zwischenmenschliche Beziehungen und Austausch.",
     "olfactory_group": [
-      "Aromatisch",
-      "Zitrus"
+      "Aromatisch", "Zitrus"
     ],
     "pyramid": {
       "top": [

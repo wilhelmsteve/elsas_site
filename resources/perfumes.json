@@ -1188,6 +1188,39 @@
     ]
   },
   {
+    "name": "Rebel Icon",
+    "number": "106U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Ein Duft aus der Familie Ambra-Leder – dekadent, kraftvoll und von betörender Intensität. Mit seinem starken Charakter verführt er die Sinne und entführt in eine Welt, in der Sehnsüchte greifbar werden.",
+    "olfactory_group": [
+      "Leder"
+    ],
+    "pyramid": {
+      "top": [
+        "Lavendel", "Muskatellersalbei"
+      ],
+      "heart": [
+        "Iris", "Leder", "Mandel", "Vanille"
+      ],
+      "base": [
+        "Ambra", "Cashmeran", "holzige Noten", "Leder", "Tonkabohne"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8218",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/3696"
+    ]
+  },
+  {
     "name": "Mystic Spell",
     "number": "110U",
     "sex": "Unisex",
@@ -1533,6 +1566,42 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/8056",
       "https://www.chogangroupspa.com/chogangroup/productDetail/12936",
       "https://www.chogangroupspa.com/chogangroup/productDetail/12931"
+    ]
+  },
+  {
+    "name": "Dark Eclipse",
+    "number": "142U",
+    "sex": "Unisex",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "17,90€",
+      "29,50€",
+      "57,00€"
+    ],
+    "description": "Ein intensiver und suggestiver Unisex-Duft, der mit seinen ledrigen Noten den wilden Geist einsamer Cowboys einfängt. Kräftig und langanhaltend, für starke und leidenschaftliche Männer und Frauen, die mutig das Leben und ihre Grenzen erkunden.",
+    "olfactory_group": [
+      "Leder"
+    ],
+    "pyramid": {
+      "top": [
+        "Kardamom"
+      ],
+      "heart": [
+        "Jasmin", "Leder"
+      ],
+      "base": [
+        "Ambra", "Moos", "Patschuli"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8494",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/13211",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8888"
     ]
   },
   {

@@ -180,6 +180,42 @@
     ]
   },
   {
+    "name": "Darling",
+    "number": "39W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Wie ein Spiel auf einer blühenden Frühlingswiese ist dieser Duft frisch, zart, verspielt, spontan, spritzig. Er drückt die ganze Lebensfreude eines Mädchens oder einer Frau aus, unbekümmert, elegant, aber immer frei, fröhlich und manchmal ein wenig frech.",
+    "olfactory_group": [
+      "Chypre"
+    ],
+    "pyramid": {
+      "top": [
+        "Ananas", "Mandarinorange", "wilde Erdbeere"
+      ],
+      "heart": [
+        "Jasmin", "Rose"
+      ],
+      "base": [
+        "Ambra", "Eichenmoos", "Patschuli", "Sandelholz", "Vetiver"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/901",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12141",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12136"
+    ]
+  },
+  {
     "name": "Frozen Crest",
     "number": "44U",
     "sex": "Unisex",
@@ -324,6 +360,42 @@
     ]
   },
   {
+    "name": "Glory For Him",
+    "number": "68M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "17,90€",
+      "29,50€",
+      "57,00€"
+    ],
+    "description": "Ein entschlossener, anziehender und kühner Duft. Er strahlt die Kraft einer selbstbewussten Person aus, die sich nicht scheut, ihre Einzigartigkeit zu behaupten.",
+    "olfactory_group": [
+      "Chypre"
+    ],
+    "pyramid": {
+      "top": [
+        "Ananas", "Apfel", "Bergamotte", "schwarze Johannisbeere"
+      ],
+      "heart": [
+        "Birke", "Jasmin", "Patschuli", "Rose"
+      ],
+      "base": [
+        "Ambergris", "Eichenmoos", "Moschus", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/14201",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8768",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8767"
+    ]
+  },
+  {
     "name": "Seaside",
     "number": "69M",
     "sex": "Herren",
@@ -429,6 +501,42 @@
     ]
   },
   {
+    "name": "Absolutely",
+    "number": "80W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Eine Hommage an die moderne Weiblichkeit: eine unwiderstehliche Kombination aus Stärke und Unabhängigkeit. Dieser Duft drückt Weiblichkeit, Anmut und Geheimnis aus: ein moderner Chypre, elegant, üppig, intensiv und süß zugleich. Eine Kombination aus drei Akkorden: Nektar der schwarzen Johannisbeere, Chypre und leicht moschusartigem Holz.",
+    "olfactory_group": [
+      "Chypre"
+    ],
+    "pyramid": {
+      "top": [
+        "schwarze Johannisbeere"
+      ],
+      "heart": [
+        "Freesie", "Rose"
+      ],
+      "base": [
+        "Ambroxan", "holzige Noten", "Patschuli", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/14266",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12531",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12526"
+    ]
+  },
+  {
     "name": "Indigo",
     "number": "84M",
     "sex": "Herren",
@@ -462,6 +570,42 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/2064",
       "https://www.chogangroupspa.com/chogangroup/productDetail/12576",
       "https://www.chogangroupspa.com/chogangroup/productDetail/9075"
+    ]
+  },
+  {
+    "name": "Serendipity",
+    "number": "85W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Dieser Duft verzaubert und überrascht mit blumigen und vanilleartigen Noten. Er ist perfekt für Frauen, die sich nicht mit herkömmlichen Parfüms zufriedengeben. die sich einen seltenen und kostbaren Duft wünschen und die immer ihr Bestes geben möchten.",
+    "olfactory_group": [
+      "Chypre"
+    ],
+    "pyramid": {
+      "top": [
+        "Ananas", "Hyazinthe", "Iris", "Patschuli", "rosa Pfeffer"
+      ],
+      "heart": [
+        "Jasmin", "Rose", "Zitrone"
+      ],
+      "base": [
+        "Moschus", "Patschuli", "Vanille", "Vetiver"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/2175",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12591",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9077"
     ]
   },
   {
@@ -501,6 +645,42 @@
     ]
   },
   {
+    "name": "Ville Lumière",
+    "number": "89W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein femininer, sinnlicher und charmanter Duft, der von einer atemberaubenden Liebesgeschichte in der Stadt der Romantik inspiriert wurde: Paris.",
+    "olfactory_group": [
+      "Chypre"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Birne", "Calone", "Himbeere", "Orange", "Tangerine", "wilde Erdbeere"
+      ],
+      "heart": [
+        "Jasmin", "Orangenblüte", "Pfingstrose", "Stechapfelblüte"
+      ],
+      "base": [
+        "Eichenmoos", "Moschus", "Patschuli", "Vanille", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/2094",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9001",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9000"
+    ]
+  },
+  {
     "name": "Bond",
     "number": "91M",
     "sex": "Herren",
@@ -534,6 +714,42 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/2083",
       "https://www.chogangroupspa.com/chogangroup/productDetail/9003",
       "https://www.chogangroupspa.com/chogangroup/productDetail/9002"
+    ]
+  },
+  {
+    "name": "Glory For Her",
+    "number": "93W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "17,90€",
+      "29,50€",
+      "57,00€"
+    ],
+    "description": "Ein neuer, exklusiver Duft, der für die moderne Frau entwickelt wurde – selbstbewusst und gleichzeitig voller Anmut und femininer Ausstrahlung.",
+    "olfactory_group": [
+      "Chypre"
+    ],
+    "pyramid": {
+      "top": [
+        "Apfel", "Bergamotte", "Patschuli", "rosa Pfeffer", "Veilchen", "Zitrone"
+      ],
+      "heart": [
+        "Moschus", "Rose", "Sandelholz", "Styrax"
+      ],
+      "base": [
+        "Ambra", "Flieder", "Pfirsich", "schwarze Johannisbeere", "Ylang-Ylang"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/2237",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9018",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9017"
     ]
   },
   {
@@ -609,6 +825,42 @@
     ]
   },
   {
+    "name": "Mystic Spell",
+    "number": "110U",
+    "sex": "Unisex",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "14,90€",
+      "25,50€",
+      "48,00€"
+    ],
+    "description": "Ein sinnlicher Unisexparfüm, das mit seinen intensiven Akkorden die Sinne betört. Süße, saftige Früchte, sonnige Sandnoten und ein Hauch von Maiglöckchen, Moschus und duftenden Hölzern erwecken die Atmosphäre einer Insel außerhalb der Zeit. Sobald sich der Duft entfaltet, enthüllen seine Noten den Zauber dieses fernen, verwunschenen Ortes.",
+    "olfactory_group": [
+      "Chypre"
+    ],
+    "pyramid": {
+      "top": [
+        "Birne", "Himbeere", "Passionsfrucht", "Pfirsich", "Sand", "schwarze Johannisbeere"
+      ],
+      "heart": [
+        "Maiglöckchen"
+      ],
+      "base": [
+        "Heliotrop", "Moschus", "Patschuli", "Sandelholz", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/14356",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/13301",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/13296"
+    ]
+  },
+  {
     "name": "Riviera",
     "number": "112U",
     "sex": "Unisex",
@@ -675,6 +927,78 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/4403",
       "https://www.chogangroupspa.com/chogangroup/productDetail/9112",
       "https://www.chogangroupspa.com/chogangroup/productDetail/13036"
+    ]
+  },
+  {
+    "name": "Icon",
+    "number": "115W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein sanfter, aber intensiver Duft für starke, ehrliche Frauen mit großen Träumen. Er ist den Führungspersönlichkeiten von morgen gewidmet, die ihre eigenen Grenzen herausfordern und sich neue Horizonte erschließen.",
+    "olfactory_group": [
+      "Chypre"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Birne", "rosa Pfeffer"
+      ],
+      "heart": [
+        "Jasmin", "Rose"
+      ],
+      "base": [
+        "Moschus", "Patschuli", "Vanille", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/6289",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9094",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12781"
+    ]
+  },
+  {
+    "name": "Dark Affair",
+    "number": "119W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Dieser Duft ist den weltoffenen Frauen gewidmet, die weniger vorhersehbar sind und ihre geheimnisvolle Ausstrahlung zu einer erfolgreichen Waffe machen. Die unwiderstehliche Duftspur macht ihre Trägerin faszinierend – ohne dass sie ein Wort sagen muss.",
+    "olfactory_group": [
+      "Chypre"
+    ],
+    "pyramid": {
+      "top": [
+        "Blutorange", "Mandarinorange"
+      ],
+      "heart": [
+        "Gardenie", "Honig", "Jasmin", "Orangenblüte", "Pfirsich"
+      ],
+      "base": [
+        "Bienenwachs", "Karamell", "Lakritz", "Patschuli"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/6491",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12816",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12811"
     ]
   },
   {
@@ -994,6 +1318,42 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/11218",
       "https://www.chogangroupspa.com/chogangroup/productDetail/11103",
       "https://www.chogangroupspa.com/chogangroup/productDetail/11098"
+    ]
+  },
+  {
+    "name": "British Charm For Him",
+    "number": "160M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Die Verkörperung des modernen britischen Geistes: elegant, leidenschaftlich, sexy und lässig.",
+    "olfactory_group": [
+      "Chypre"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Lavendel", "Minze", "Thymian"
+      ],
+      "heart": [
+        "Eichenmoos", "Geranie", "Jasmin", "Sandelholz", "Zeder"
+      ],
+      "base": [
+        "Ambra", "Moschus", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11118",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/10963",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/10953"
     ]
   }
 ]

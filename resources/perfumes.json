@@ -182,7 +182,7 @@
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Birne", "Magnolie", "Mandarinorange", "Melone", "Quandong Wüstenpfirsich"
+        "Bergamotte", "Birne", "Magnolie", "Mandarinorange", "Melone", "Quandong oder Wüstenpfirsich"
       ],
       "heart": [
         "Freesie", "Jasmin", "Maiglöckchen", "Pflaume", "Rose", "Tuberose", "Veilchen", "wilde Orchidee"
@@ -306,6 +306,42 @@
     ]
   },
   {
+    "name": "Revelation",
+    "number": "18M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Die glühende Frische der Kopfnote entfaltet sich kraftvoll mit Basilikumknospen, Bergamotte und einem Hauch von Grapefruit. Die blumige Herznote enthüllt ein reiches Bouquet von Jasmin, Wacholder und Heliotrop, während die Basisnote die absolute Kraft der Leidenschaft, Sinnlichkeit und Magie von Patchouli, Sandel- und Zedernholz bewahrt.",
+    "olfactory_group": [
+      "Moschus"
+    ],
+    "pyramid": {
+      "top": [
+        "Beifuß", "Bergamotte", "Birke", "Bitterorange", "Kümmel", "Koriander", "Mandarinorange", "Neroli"
+      ],
+      "heart": [
+        "Ingwerblüte", "Iris", "Iriswurzel", "Jasmin", "Kardamom", "Pfeffer", "Wacholder", "Zimt"
+      ],
+      "base": [
+        "Ambra", "Eichenmoos", "Leder", "Tee", "Vetiver", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/992",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9028",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11861"
+    ]
+  },
+  {
     "name": "Prestige For Her",
     "number": "19W",
     "sex": "Damen",
@@ -375,6 +411,42 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/1037",
       "https://www.chogangroupspa.com/chogangroup/productDetail/8895",
       "https://www.chogangroupspa.com/chogangroup/productDetail/8894"
+    ]
+  },
+  {
+    "name": "Her Secret",
+    "number": "25W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Der Moschus in der Herznote macht den Duft besonders langanhaltend und mildert die Süße von Orangenblüte und Vanille zu einem umhüllenden, raffinierten und einzigartigen Duft.",
+    "olfactory_group": [
+      "Moschus"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Orangenblüte", "Osmanthus"
+      ],
+      "heart": [
+        "Ambra", "Moschus"
+      ],
+      "base": [
+        "Patschuli", "Vanille", "Vetiver"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/1096",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9014",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9013"
     ]
   },
   {
@@ -522,6 +594,30 @@
     ]
   },
   {
+    "name": "Baby Boy - Parfüm für Jungen",
+    "number": "45B",
+    "sex": "Kinder",
+    "class": "Normal",
+    "sizes": [
+      "30ml"
+    ],
+    "prices": [
+      "29,00€"
+    ],
+    "description": "Das Parfüm für Jungen zeichnet sich durch eine Mischung aus frischen und sanften holzigen Noten aus, die es einzigartig, angenehm und sowohl für Kinder als auch für Mütter geeignet machen. Die langanhaltende Formel ist hypoallergen, frei von Parabenen und künstlichen Farbstoffen und somit sanft zur Kinderhaut. Der minimalistische und elegante Flakon ist nicht nur praktisch, sondern auch schön.",
+    "olfactory_group": [
+      "Moschus"
+    ],
+    "pyramid": {
+      "top": [],
+      "heart": [],
+      "base": []
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/2186"
+    ]
+  },
+  {
     "name": "Arabian Mirage",
     "number": "52M",
     "sex": "Herren",
@@ -558,6 +654,78 @@
     ]
   },
   {
+    "name": "Vanité",
+    "number": "53W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft, der das Geheimnis der Anziehungskraft enthüllt. Die blumige Kopfnote verbindet sich mit einem sinnlichen Herzen aus Ambra und Moschus und trifft auf die natürliche Eleganz der Hölzer zu einem sinnlichen Duft.",
+    "olfactory_group": [
+      "Moschus"
+    ],
+    "pyramid": {
+      "top": [
+        "Bulgarische Rose", "Gardenie"
+      ],
+      "heart": [
+        "Moschus"
+      ],
+      "base": [
+        "Vetiver", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/1140",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12276",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12271"
+    ]
+  },
+  {
+    "name": "Pure Purple",
+    "number": "57W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein verspielter und raffinierter Duft, der an die modernsten und auffälligsten Schmuckstücke erinnert, sowie an die farbenfrohen und duftenden Noten, aus denen sich seine Duftpyramide zusammensetzt: eine wahre Sinnesreise, von den Zitrusnoten in der Kopfnote über die unverwechselbare Rose in der Herznote bis hin zur raffinierten holzigen Basisnote.",
+    "olfactory_group": [
+      "Moschus"
+    ],
+    "pyramid": {
+      "top": [
+        "Grüne Noten", "Pink Grapefruit"
+      ],
+      "heart": [
+        "Iris", "Rose"
+      ],
+      "base": [
+        "Heliotrop", "holzige Noten"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/1141",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9048",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9047"
+    ]
+  },
+  {
     "name": "Baby Girl - Parfüm für Mädchen",
     "number": "58B",
     "sex": "Kinder",
@@ -579,6 +747,42 @@
     },
     "links": [
       "https://www.chogangroupspa.com/chogangroup/productDetail/2187"
+    ]
+  },
+  {
+    "name": "Majesty",
+    "number": "60M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "14,90€",
+      "25,50€",
+      "48,00€"
+    ],
+    "description": "Ein warmer, romantischer und unvergesslicher Duft. Er wurde aus den edelsten Essenzen hergestellt und zeichnet sich durch eine Vielzahl natürlicher Elemente in seinen Noten aus. Zusammen enthüllen sie eine märchenhafte Welt, einen Abend voller berauschender und köstlicher Düfte in einem prächtigen Palast.",
+    "olfactory_group": [
+      "Moschus"
+    ],
+    "pyramid": {
+      "top": [
+        "fruchtige Noten", "Meersalz"
+      ],
+      "heart": [
+        "Bergamotte", "Iris", "Mandarinorange", "Zitrone"
+      ],
+      "base": [
+        "holzige Noten", "marine Noten", "Moschus"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/1371",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9050",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9049"
     ]
   },
   {
@@ -1152,6 +1356,42 @@
     ]
   },
   {
+    "name": "Euphoria",
+    "number": "98W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Bouquet, das ein einzigartiges Gefühl der Freude verströmt und ein olfaktorisches Abbild des Lichts erschafft. Ein Duft voller Nuancen und Facetten – lebendig, strahlend und voller Lebensfreude.",
+    "olfactory_group": [
+      "Moschus"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Mandarinorange"
+      ],
+      "heart": [
+        "Jasmin", "Pfirsich", "Rose", "schwarze Johannisbeere"
+      ],
+      "base": [
+        "Benzoeharz", "Moschus", "Patschuli", "Sandelholz", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/3707",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9090",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9089"
+    ]
+  },
+  {
     "name": "Orange Sun",
     "number": "99U",
     "sex": "Unisex",
@@ -1188,6 +1428,42 @@
     ]
   },
   {
+    "name": "Mystic Woods",
+    "number": "100U",
+    "sex": "Unisex",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft, der sich auf der Haut mit der Zartheit der Rose, der sinnlichen Kraft von Gewürzen und der weichen Süße von Agarholz entfaltet. Ein Hauch von Vanille rundet die cremige Basisnote aus Ambra und Sandelholz sanft ab – dezent und niemals aufdringlich.",
+    "olfactory_group": [
+      "Moschus"
+    ],
+    "pyramid": {
+      "top": [
+        "Agarholz", "Kardamom", "Rose", "Safran"
+      ],
+      "heart": [
+        "Jasmin", "Patschuli", "Sandelholz"
+      ],
+      "base": [
+        "Ambra", "Ladanharz", "Vanille", "Vetiver"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/3640",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9092",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9091"
+    ]
+  },
+  {
     "name": "Rebel Icon",
     "number": "106U",
     "sex": "Unisex",
@@ -1218,6 +1494,42 @@
     "links": [
       "https://www.chogangroupspa.com/chogangroup/productDetail/8218",
       "https://www.chogangroupspa.com/chogangroup/productDetail/3696"
+    ]
+  },
+  {
+    "name": "Emerald Meadow",
+    "number": "108M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "14,90€",
+      "25,50€",
+      "48,00€"
+    ],
+    "description": "Grün und strahlend wie die irische Landschaft, elegant wie der Anzug eines englischen Gentlemans. Der Geist dieses Duftes wird durch diese beiden Bilder verkörpert, die zwar gegensätzlich sind, aber perfekt zusammenpassen, um etwas Einzigartiges und Unvergessliches zu schaffen.",
+    "olfactory_group": [
+      "Moschus"
+    ],
+    "pyramid": {
+      "top": [
+        "Iris", "Zitronenverbene"
+      ],
+      "heart": [
+        "Veilchenblatt"
+      ],
+      "base": [
+        "Ambergris", "Sandelholz"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/4399",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8893",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8892"
     ]
   },
   {
@@ -1497,6 +1809,78 @@
     "links": [
       "https://www.chogangroupspa.com/chogangroup/productDetail/13876",
       "https://www.chogangroupspa.com/chogangroup/productDetail/13111"
+    ]
+  },
+  {
+    "name": "Mystic Forest",
+    "number": "135U",
+    "sex": "Unisex",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "17,90€",
+      "29,50€",
+      "57,00€"
+    ],
+    "description": "Ein betäubender, geheimnisvoller Duft voller Kontraste. Ein Duft, der der Person, die ihn trägt, Energie, Sinnlichkeit und Charme verleiht. Er verführt mit der Eleganz der Iris und der Sinnlichkeit der Basisnote.",
+    "olfactory_group": [
+      "Moschus"
+    ],
+    "pyramid": {
+      "top": [
+        "Iris", "Wacholderbeeren", "Zypresse"
+      ],
+      "heart": [
+        "Myrrhe", "Patschuli"
+      ],
+      "base": [
+        "Ambra", "Harze", "holzige Noten", "Honig", "Leder", "Moschus", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/7523",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9114",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9113"
+    ]
+  },
+  {
+    "name": "Modern Man",
+    "number": "136M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "13,90€",
+      "23,50€",
+      "45,00€"
+    ],
+    "description": "Ein raffinierter und feiner, manchmal üppiger Duft. Die olfaktorische Intensität der Iris wird durch langanhaltende Lavendelnoten in der Kopfnote angekündigt. Die Herznote wird durch Ambrettesamen und eine süße Birnennote bereichert und mündet in eine Basisnote aus Zedernholz und Vetiver.",
+    "olfactory_group": [
+      "Moschus"
+    ],
+    "pyramid": {
+      "top": [
+        "Lavendel"
+      ],
+      "heart": [
+        "Ambrette oder Moschusmalve", "Birne", "Iris"
+      ],
+      "base": [
+        "Vetiver", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/7532",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8901",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12916"
     ]
   },
   {

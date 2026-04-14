@@ -1,6 +1,6 @@
 [
   {
-    "name": "APOLLO",
+    "name": "Apollo",
     "number": "APOLLO",
     "sex": "Herren",
     "class": "Mytologik",
@@ -27,6 +27,66 @@
     },
     "links": [
       "https://www.chogangroupspa.com/chogangroup/productDetail/9923"
+    ]
+  },
+  {
+    "name": "Astral24",
+    "number": "ASTRAL24",
+    "sex": "Damen",
+    "class": "Luxus",
+    "sizes": [
+      "50ml"
+    ],
+    "prices": [
+      "60,00€"
+    ],
+    "description": "Ein Parfüm für Frauen, die es wagen, groß zu träumen, die die Sternen betrachten, um ihre Zukunft zu lesen. Ein Duft, der von einer interstellaren Reise erzählt und vom Stolz derer inspiriert ist, die ihr inneres Licht einfangen und sich immer als kleiner Teil von etwas Großem fühlen.",
+    "olfactory_group": [
+      "Fruchtig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Champagner", "Zitrone"
+      ],
+      "heart": [
+        "Jasmin", "Neroli", "Osmanthus", "Pfingstrose", "Pfirsich", "Pfirsichblüte"
+      ],
+      "base": [
+        "Ambra", "holzige Noten", "Weißer Moschus"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8656"
+    ]
+  },
+  {
+    "name": "Séduction",
+    "number": "EVENT23W",
+    "sex": "Damen",
+    "class": "Luxus",
+    "sizes": [
+      "50ml"
+    ],
+    "prices": [
+      "60,00€"
+    ],
+    "description": "Séduction ist ein Damenparfüm, das die verschiedenen Momente der Verführung in Szene setzt. Die Kopfnote erinnert an die Faszination des Anfangs, eine verträumte und absolute Phase, die durch die umhüllende Süße saftiger Früchte perfekt verkörpert wird. Die holzige und magnetische Herznote repräsentiert die Phase der wahren Anziehung, die reif, bewusst und frech ist. Vanille- und Moschusakkorde lassen die Sinne schließlich im Strudel der Verführung völlig versinken.",
+    "olfactory_group": [
+      "Fruchtig"
+    ],
+    "pyramid": {
+      "top": [
+        "Himbeere", "Passionsfrucht", "Pfirsich", "Pflaume", "rosa Pfeffer", "Veilchen"
+      ],
+      "heart": [
+        "Heliotrop", "Kaschmirholz", "Maiglöckchen", "Pfirsich", "Rose", "Sandelholz", "Weißer Ambra"
+      ],
+      "base": [
+        "Ambergris", "Ambra", "Benzoeharz", "Gourmand Accord", "Moschus", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/7907"
     ]
   },
   {
@@ -102,6 +162,78 @@
     ]
   },
   {
+    "name": "Pure Gold",
+    "number": "07W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Die Essenz von Luxus und absoluter Weiblichkeit, die inzwischen zur Legende geworden ist. Das Gefühl, das sich beim Tragen dieses Parfüms einstellt, ist kaum zu beschreiben: Wie ein Spaziergang auf einer intensiv duftenden Blumenwiese, wie das Eintauchen in einen „Blumenstrauß“.",
+    "olfactory_group": [
+      "Fruchtig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Birne", "Magnolie", "Mandarinorange", "Melone", "Quandong Wüstenpfirsich"
+      ],
+      "heart": [
+        "Freesie", "Jasmin", "Maiglöckchen", "Pflaume", "Rose", "Tuberose", "Veilchen", "wilde Orchidee"
+      ],
+      "base": [
+        "Brombeere", "Moschus", "Vanille", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/13981",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11776",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11766"
+    ]
+  },
+  {
+    "name": "Aqua Soul For Her",
+    "number": "11W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft, der die zeitlose Sinnlichkeit des Mittelmeers einfängt, eines Ortes, der seit jeher die ideale Kulisse für Verführung war und immer sein wird.",
+    "olfactory_group": [
+      "Fruchtig"
+    ],
+    "pyramid": {
+      "top": [
+        "Apfel", "Glockenblume", "Zitronatzitrone", "Zitrone"
+      ],
+      "heart": [
+        "Bambus", "Jasmin", "Rose"
+      ],
+      "base": [
+        "Ambra", "Moschus", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/1135",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11801",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9023"
+    ]
+  },
+  {
     "name": "Revenant",
     "number": "12M",
     "sex": "Herren",
@@ -171,6 +303,42 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/911",
       "https://www.chogangroupspa.com/chogangroup/productDetail/11866",
       "https://www.chogangroupspa.com/chogangroup/productDetail/11851"
+    ]
+  },
+  {
+    "name": "Prestige For Her",
+    "number": "19W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein üppiger, sinnlicher Duft, der mit der Frische von Neroli beginnt und sich mit der Intensität der Amalfi-Zitrone vermischt, belebt durch einen knackigen Hauch von Himbeere. Die Herznote ist ein blumiger Triumph von Orangenblüte, Jasmin und Gardenie. In der Herznote mildern die Süße von Honig und Ambra die Noten von Patschuli.",
+    "olfactory_group": [
+      "Fruchtig"
+    ],
+    "pyramid": {
+      "top": [
+        "Himbeere", "Neroli", "Zitrone"
+      ],
+      "heart": [
+        "Gardenie", "Jasmin", "Orangenblüte"
+      ],
+      "base": [
+        "Ambra", "Honig", "Patschuli"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/973",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11896",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11886"
     ]
   },
   {
@@ -262,7 +430,7 @@
     ],
     "description": "Wie ein Spiel auf einer blühenden Frühlingswiese ist dieser Duft frisch, zart, verspielt, spontan, spritzig. Er drückt die ganze Lebensfreude eines Mädchens oder einer Frau aus, unbekümmert, elegant, aber immer frei, fröhlich und manchmal ein wenig frech.",
     "olfactory_group": [
-      "Chypre"
+      "Chypre", "Fruchtig"
     ],
     "pyramid": {
       "top": [
@@ -279,6 +447,42 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/901",
       "https://www.chogangroupspa.com/chogangroup/productDetail/12141",
       "https://www.chogangroupspa.com/chogangroup/productDetail/12136"
+    ]
+  },
+  {
+    "name": "Bonheur Supreme",
+    "number": "42W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft, der Anmut, Licht und Freiheit ausstrahlt und die „Quintessenz des Lächelns“ verkörpert - ideal für intelligente, kultivierte und charmante Frauen. Wie ein „Funke des Lebens“ strahlt der Duft Lebendigkeit aus und wurde für anspruchsvolle Frauen kreiert, die an die schönen Dinge des Lebens glauben.",
+    "olfactory_group": [
+      "Fruchtig"
+    ],
+    "pyramid": {
+      "top": [
+        "Birne", "schwarze Johannisbeere"
+      ],
+      "heart": [
+        "Iris", "Jasmin", "Orangenblüte"
+      ],
+      "base": [
+        "Patschuli", "Praline", "Tonkabohne", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/1137",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12176",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12166"
     ]
   },
   {
@@ -351,6 +555,30 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/890",
       "https://www.chogangroupspa.com/chogangroup/productDetail/12261",
       "https://www.chogangroupspa.com/chogangroup/productDetail/9045"
+    ]
+  },
+  {
+    "name": "Baby Girl - Parfüm für Mädchen",
+    "number": "58B",
+    "sex": "Kinder",
+    "class": "Normal",
+    "sizes": [
+      "30ml"
+    ],
+    "prices": [
+      "29,00€"
+    ],
+    "description": "Das Parfüm zeichnet sich durch eine Kombination aus frischen, blumigen und fruchtigen Noten aus, die es einzigartig und angenehm machen. Der Duft eignet sich für alle kleinen Mädchen, aber auch für Mütter. Die langanhaltende Formel ist hypoallergen, frei von Parabenen und künstlichen Farbstoffen und somit sanft zur Kinderhaut. Der minimalistische und elegante Flakon ist nicht nur praktisch, sondern auch schön.",
+    "olfactory_group": [
+      "Fruchtig"
+    ],
+    "pyramid": {
+      "top": [],
+      "heart": [],
+      "base": []
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/2187"
     ]
   },
   {
@@ -442,7 +670,7 @@
     ],
     "description": "Ein entschlossener, anziehender und kühner Duft. Er strahlt die Kraft einer selbstbewussten Person aus, die sich nicht scheut, ihre Einzigartigkeit zu behaupten.",
     "olfactory_group": [
-      "Chypre"
+      "Chypre", "Fruchtig"
     ],
     "pyramid": {
       "top": [
@@ -616,7 +844,7 @@
     ],
     "description": "Eine Hommage an die moderne Weiblichkeit: eine unwiderstehliche Kombination aus Stärke und Unabhängigkeit. Dieser Duft drückt Weiblichkeit, Anmut und Geheimnis aus: ein moderner Chypre, elegant, üppig, intensiv und süß zugleich. Eine Kombination aus drei Akkorden: Nektar der schwarzen Johannisbeere, Chypre und leicht moschusartigem Holz.",
     "olfactory_group": [
-      "Chypre"
+      "Chypre", "Fruchtig"
     ],
     "pyramid": {
       "top": [
@@ -633,6 +861,42 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/14266",
       "https://www.chogangroupspa.com/chogangroup/productDetail/12531",
       "https://www.chogangroupspa.com/chogangroup/productDetail/12526"
+    ]
+  },
+  {
+    "name": "Jeunesse",
+    "number": "82W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein femininer Duft, der die lebhaften Noten von rosa Pfeffer mit blumigen Akkorden von Jasmin und Rose sowie der zarten Süße von Panna Cotta vereint.",
+    "olfactory_group": [
+      "Fruchtig"
+    ],
+    "pyramid": {
+      "top": [
+        "rosa Pfeffer", "rote Johannisbeere"
+      ],
+      "heart": [
+        "Jasmin", "Pfingstrose", "Rose"
+      ],
+      "base": [
+        "Moschus", "Patschuli"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/2093",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9074",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9073"
     ]
   },
   {
@@ -760,7 +1024,7 @@
     ],
     "description": "Ein femininer, sinnlicher und charmanter Duft, der von einer atemberaubenden Liebesgeschichte in der Stadt der Romantik inspiriert wurde: Paris.",
     "olfactory_group": [
-      "Chypre"
+      "Chypre", "Fruchtig"
     ],
     "pyramid": {
       "top": [
@@ -832,7 +1096,7 @@
     ],
     "description": "Ein neuer, exklusiver Duft, der für die moderne Frau entwickelt wurde – selbstbewusst und gleichzeitig voller Anmut und femininer Ausstrahlung.",
     "olfactory_group": [
-      "Chypre"
+      "Chypre", "Fruchtig"
     ],
     "pyramid": {
       "top": [
@@ -940,7 +1204,7 @@
     ],
     "description": "Ein sinnlicher Unisexparfüm, das mit seinen intensiven Akkorden die Sinne betört. Süße, saftige Früchte, sonnige Sandnoten und ein Hauch von Maiglöckchen, Moschus und duftenden Hölzern erwecken die Atmosphäre einer Insel außerhalb der Zeit. Sobald sich der Duft entfaltet, enthüllen seine Noten den Zauber dieses fernen, verwunschenen Ortes.",
     "olfactory_group": [
-      "Chypre"
+      "Chypre", "Fruchtig"
     ],
     "pyramid": {
       "top": [
@@ -1134,6 +1398,39 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/13841",
       "https://www.chogangroupspa.com/chogangroup/productDetail/12861",
       "https://www.chogangroupspa.com/chogangroup/productDetail/12856"
+    ]
+  },
+  {
+    "name": "Sweet Rebel",
+    "number": "123W",
+    "sex": "Damen",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Ein Duft voller Sinnlichkeit, der zarte, unschuldige Nuancen mit sinnlich-verführerischen Akkorden vereint. Er ist ideal für Frauen, die schüchtern und sinnlich zugleich ist – zurückhaltend, doch voller Anziehungskraft.",
+    "olfactory_group": [
+      "Fruchtig"
+    ],
+    "pyramid": {
+      "top": [
+        "Jasmin", "Osmanthus", "Rose"
+      ],
+      "heart": [
+        "Narzisse", "Tuberose"
+      ],
+      "base": [
+        "Ambra", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8426",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/13146"
     ]
   },
   {
@@ -1420,6 +1717,42 @@
     ]
   },
   {
+    "name": "Unbending Woman",
+    "number": "156W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Samtig, suggestiv, strahlend und süß, manchmal geheimnisvoll: – ein Duft, der das Licht heraufbeschwört und eine Hommage an die Frau von heute ist. Sie ist ewig und modern zugleich, eine Frau mit strahlender Aura. Ihre Gefühle erheben sie, ihr Duft verzaubert.",
+    "olfactory_group": [
+      "Fruchtig"
+    ],
+    "pyramid": {
+      "top": [
+        "Alpenveilchen", "Apfel", "Eichenmoos", "Melone", "Papaya", "Pfirsich", "schwarze Johannisbeere"
+      ],
+      "heart": [
+        "Iriswurzel", "Jasmin", "Lilie", "Wasserhyazinthe"
+      ],
+      "base": [
+        "Ambra", "Harze", "Sandelholz", "Vanille", "wilde Orchidee", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11198",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11073",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11068"
+    ]
+  },
+  {
     "name": "Aftertouch",
     "number": "157M",
     "sex": "Herren",
@@ -1453,6 +1786,42 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/11218",
       "https://www.chogangroupspa.com/chogangroup/productDetail/11103",
       "https://www.chogangroupspa.com/chogangroup/productDetail/11098"
+    ]
+  },
+  {
+    "name": "British Charm For Her",
+    "number": "159W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Dieser Duft verkörpert die britische Liebe zur Tradition ebenso wie den unverwechselbaren Charme Londons. Elegant, zeitlos und mit luxuriösen Nuancen passt er sich perfekt der Persönlichkeit seiner Trägerin an.",
+    "olfactory_group": [
+      "Fruchtig"
+    ],
+    "pyramid": {
+      "top": [
+        "Aprikose", "Birne", "grüner Apfel", "Pfirsich", "schwarze Johannisbeere"
+      ],
+      "heart": [
+        "Jasmin", "Moos", "Sandelholz"
+      ],
+      "base": [
+        "Moschus", "Vanille", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11128",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/10958",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/10948"
     ]
   },
   {

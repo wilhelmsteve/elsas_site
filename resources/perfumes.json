@@ -586,7 +586,7 @@
     ],
     "description": "Dieser Duft erzählt eine Geschichte von Verführung, Intensität und gewagter Sinnlichkeit. Für den attraktiven, geheimnisvollen Mann, der mit seinem unwiderstehlichen Charme und seiner Verführungskraft alles andere auslöscht, wenn er vorbeikommt.",
     "olfactory_group": [
-      "Würzig"
+      "Holzig", "Würzig"
     ],
     "pyramid": {
       "top": [
@@ -658,7 +658,7 @@
     ],
     "description": "Dieses Parfum erzählt die Geschichte der mythischen Elemente der Antike und der Natur, eine Geschichte der Verwandlung, eine Reise zu den Elementen durch Erde, Luft und Wasser.",
     "olfactory_group": [
-      "Würzig"
+      "Holzig", "Würzig"
     ],
     "pyramid": {
       "top": [
@@ -714,6 +714,42 @@
     ]
   },
   {
+    "name": "Maverick",
+    "number": "30M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein lebendiger und spontaner Duft mit der Energie des Rock&Roll: für den individualistischen Mann, besonders geeignet für den Abend und besondere Anlässe.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Salbei", "Zitrone"
+      ],
+      "heart": [
+        "Kardamom", "Praline", "Tolubalsam", "Zimt"
+      ],
+      "base": [
+        "Ambergris", "brasilianisches Rosenholz", "Patschuli"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/865",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12066",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8904"
+    ]
+  },
+  {
     "name": "Real Man",
     "number": "31M",
     "sex": "Herren",
@@ -766,7 +802,7 @@
     ],
     "description": "Ein Duft für geheimnisvolle Männer voller Gegensätze, schwer zu fassen und frei von Konventionen. Charismatische Verführer, die alle Klischees hinter sich lassen, dabei raffiniert und sexy bleiben und eine natürliche Eleganz verkörpern, die im Einklang mit ihrer Zeit steht.",
     "olfactory_group": [
-      "Würzig"
+      "Holzig", "Würzig"
     ],
     "pyramid": {
       "top": [
@@ -838,7 +874,7 @@
     ],
     "description": "Ein Duft für Männer, die sich weigern, vorgegebenen Mustern zu folgen und sich von allen Konventionen befreien. Diese Duftkomposition offenbart eine männliche Seele, die unabhängig und entschlossen ihr eigenes Schicksal bestimmt: Ein unerwartet starker Charakter.",
     "olfactory_group": [
-      "Aromatisch"
+      "Aromatisch", "Holzig"
     ],
     "pyramid": {
       "top": [
@@ -990,6 +1026,42 @@
     ]
   },
   {
+    "name": "Sublime For Him",
+    "number": "52M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein intensiver, entschlossener und zugleich frischer Duft, der mit seinem Charme die Persönlichkeit des Trägers und seine natürliche Ausstrahlung unterstreicht. Ein einzigartiger Duft, unaussprechlich und schwer zu fassen, der den Mann verkörpert, der sich selbst treu bleibt.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Ingwerblüte", "Lavendel", "Mandarinorange", "Pfirsich", "Zitrone"
+      ],
+      "heart": [
+        "Anis", "brasilianisches Rosenholz", "Freesie", "Gardenie", "Jasmin", "Patschuli", "Pfeffer", "Rose", "Vetiver", "Zeder"
+      ],
+      "base": [
+        "Ambra", "Benzoeharz", "Eichenmoos", "Kokosnuss", "Leder", "Moschus", "Sandelholz", "Tonkabohne", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/943",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8926",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12206"
+    ]
+  },
+  {
     "name": "Arabian Mirage",
     "number": "52M",
     "sex": "Herren",
@@ -1006,7 +1078,7 @@
     ],
     "description": "Ein edler Duft, der sich um einen Fougère-Akkord entwickelt. Ihn zu wählen bedeutet, sich einen Duft zu gönnen, der die Gelassenheit der Eleganz und die Kraft der Verführung besitzt.",
     "olfactory_group": [
-      "Aromatisch"
+      "Aromatisch", "Holzig"
     ],
     "pyramid": {
       "top": [
@@ -1042,7 +1114,7 @@
     ],
     "description": "Ein Duft, der das Geheimnis der Anziehungskraft enthüllt. Die blumige Kopfnote verbindet sich mit einem sinnlichen Herzen aus Ambra und Moschus und trifft auf die natürliche Eleganz der Hölzer zu einem sinnlichen Duft.",
     "olfactory_group": [
-      "Moschus"
+      "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
@@ -1210,7 +1282,7 @@
     ],
     "description": "Dieser holzig-aromatische Duft ist Instinkt pur und drückt die Kraft eines entschlossenen Mannes aus, dessen Herz in der Tradition verwurzelt ist, der sich aber den Herausforderungen der modernen Welt zu stellen weiß.",
     "olfactory_group": [
-      "Aromatisch"
+      "Aromatisch", "Holzig"
     ],
     "pyramid": {
       "top": [
@@ -1302,6 +1374,42 @@
     ]
   },
   {
+    "name": "Earth Memory",
+    "number": "72U",
+    "sex": "Unisex",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein vielseitiger Duft für Männer und Frauen, der verträumte Freiheit und dekonstruierte Eleganz im Bohème-Stil vermittelt.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Zitronatzitrone"
+      ],
+      "heart": [
+        "Patschuli", "Sandelholz", "Vetiver"
+      ],
+      "base": [
+        "Ladanharz", "Moschus", "Tolubalsam", "Tonkabohne", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/1886",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12471",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12466"
+    ]
+  },
+  {
     "name": "Essence Noire",
     "number": "74M",
     "sex": "Herren",
@@ -1316,7 +1424,7 @@
     ],
     "description": "Ein intensiver und hypnotischer Herrenduft mit holzigen und rauchigen Noten. Ein Duft für Männer mit starker Persönlichkeit, der mit seinen unwiderstehlichen Noten von Tabak, Cannabis und Kaffee fast süchtig macht.",
     "olfactory_group": [
-      "Aromatisch"
+      "Aromatisch", "Holzig"
     ],
     "pyramid": {
       "top": [
@@ -1600,7 +1708,7 @@
     ],
     "description": "Dieser Duft ist für den mutigen, großzügigen und verführerischen Mann, der frei in seinen Lebensentscheidungen ist. Ein holziger Duft, der verführt und Begehren ausdrückt. Sein charismatisches und unwiderstehliches Aroma zelebriert das Leben mit Intensität und Mut.",
     "olfactory_group": [
-      "Würzig"
+      "Holzig", "Würzig"
     ],
     "pyramid": {
       "top": [
@@ -2338,7 +2446,7 @@
     ],
     "description": "Ein raffinierter und feiner, manchmal üppiger Duft. Die olfaktorische Intensität der Iris wird durch langanhaltende Lavendelnoten in der Kopfnote angekündigt. Die Herznote wird durch Ambrettesamen und eine süße Birnennote bereichert und mündet in eine Basisnote aus Zedernholz und Vetiver.",
     "olfactory_group": [
-      "Moschus"
+      "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
@@ -2427,6 +2535,39 @@
     ]
   },
   {
+    "name": "Sands Of Time",
+    "number": "141U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "22,90€",
+      "65,00€"
+    ],
+    "description": "Ein facettenreicher und stimmungsvoller Unisex-Duft, der durch die geschickte Kombination seiner Noten den Zauber und die verträumte Atmosphäre orientalischer Nächte heraufbeschwört. Fruchtige, würzige und holzige Akkorde verschmelzen und verführen die Sinne mit der mutigen Komplexität und Faszination einer geheimnisvollen, jahrtausendealten Geschichte, die in der Wüste geschrieben wurde.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Ananas", "Apfel", "Bergamotte", "Candied Fruits", "Damaszener Rose", "Erdbeere", "Gewürznoten", "Kaffee", "Kardamom", "Kokosnuss", "Kreuzkümmel", "Pfeffer", "Pfirsich", "rosa Pfeffer", "Süßorange", "schwarze Johannisbeere", "Trockenfrüchte", "Zimt"
+      ],
+      "heart": [
+        "Agarholz", "Amyris Balsamifera", "Iris", "Jasmin", "Koriander", "Maiglöckchen", "Nagarmotha", "Rose", "Safran", "Sandelholz", "Veilchen", "Zeder"
+      ],
+      "base": [
+        "Ambergris", "Ambra", "Eichenmoos", "Guajakholz", "Ladanharz", "Leder", "Moos", "Patschuli", "Perubalsam", "Sandelholz", "Smoke", "Tolubalsam", "Vanille", "Vetiver", "Weißer Moschus", "Weihrauch", "Zibet"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/13931",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8421"
+    ]
+  },
+  {
     "name": "Dark Eclipse",
     "number": "142U",
     "sex": "Unisex",
@@ -2460,6 +2601,39 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/8494",
       "https://www.chogangroupspa.com/chogangroup/productDetail/13211",
       "https://www.chogangroupspa.com/chogangroup/productDetail/8888"
+    ]
+  },
+  {
+    "name": "Sweet Dust",
+    "number": "143U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Verspielt und lebendig – Ein Duft für alle, die sich gerne mit süßen und lebhaften Düften verwöhnen. Mit seinen köstlichen Vanille-Akkorden verführt dieser Duft die Sinne mit seinen unwiderstehlichen Gourmand-Noten.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Coconut Powder", "Heliotrop"
+      ],
+      "heart": [
+        "Vanille"
+      ],
+      "base": [
+        "Kokosnuss", "Lactone", "Moschus", "Palo Santo", "Vanille Absolue", "Weißer Moschus"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/13936",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/13176"
     ]
   },
   {

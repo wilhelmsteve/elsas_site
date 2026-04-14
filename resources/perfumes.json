@@ -30,6 +30,36 @@
     ]
   },
   {
+    "name": "Ermes",
+    "number": "ERMES",
+    "sex": "Herren",
+    "class": "Mytologik",
+    "sizes": [
+      "100ml"
+    ],
+    "prices": [
+      "299,00€"
+    ],
+    "description": "Inspiriert von dem faszinierenden griechischen Götterboten und Schutzgott der Reisenden, verkörpert dieser Duft List und Schnelligkeit. Ermes by MΨTΟLOGIK ist ein evokativer Herrenduft, der an geflüsterte Geheimnisse und abenteuerliche Reisen erinnert. Der Duft beginnt mit einer leicht prickelnden Kopfnote aus zitrischen Akkorden und einer exotischen Note von Papaya. Die komplexe und fesselnde Herznote ist eine Hommage an den Einfallsreichtum des Gottes, während die erdige und moschusartige Basisnote Bilder von fernen, noch unbekannten Orten heraufbeschwört.",
+    "olfactory_group": [
+      "Würzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Papaya", "Zitrone"
+      ],
+      "heart": [
+        "Kardamom", "Nelke", "Trüffel", "Walnuss", "Zimt"
+      ],
+      "base": [
+        "Ambra", "Moschus", "Tonkabohne", "Vetiver", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9913"
+    ]
+  },
+  {
     "name": "Medusa",
     "number": "MEDUSA",
     "sex": "Damen",
@@ -87,6 +117,66 @@
     },
     "links": [
       "https://www.chogangroupspa.com/chogangroup/productDetail/8656"
+    ]
+  },
+  {
+    "name": "Multiverse",
+    "number": "MULTIVERSE",
+    "sex": "Herren",
+    "class": "Luxus",
+    "sizes": [
+      "50ml"
+    ],
+    "prices": [
+      "60,00€"
+    ],
+    "description": "Ein Parfüm für Männer, die die unendlichen Möglichkeiten der Zukunft entschlossen angehen. Ein Duft, der von einer Reise durch parallele Dimensionen erzählt und vom Mut derer inspiriert ist, die die Grenzen der Realität herausfordern und mutig das Unbekannte erforschen.",
+    "olfactory_group": [
+      "Würzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Kardamom", "Zimt"
+      ],
+      "heart": [
+        "Guajakholz", "holzige Noten", "Orangenblüte", "Praline"
+      ],
+      "base": [
+        "Ambra", "Moschus", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8654"
+    ]
+  },
+  {
+    "name": "Mystère",
+    "number": "EVENT23M",
+    "sex": "Herren",
+    "class": "Luxus",
+    "sizes": [
+      "50ml"
+    ],
+    "prices": [
+      "60,00€"
+    ],
+    "description": "Mystère ist ein Herrenparfüm, das durch seine Kontraste herausfordert, egal wie ein Rätsel, das es zu lösen gilt, ein Duft, der den Träger in eine geheimnisvolle Aura hüllt. Ein überraschender Duft, der dazu einlädt, seine Geheimnisse zu entdecken: Der Auftakt verbindet die Lebendigkeit von Zitrusfrüchten mit der Intensität von Lavendel; Die Herznote verbindet die Süße von Früchten mit der Würze von Kardamom; Die Basisnote schließlich enthüllt einen zweifachen Duft, der zugleich süß und sinnlich ist.",
+    "olfactory_group": [
+      "Würzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Birne", "Ingwerblüte", "Lavendel", "marine Noten", "Minze", "Orange", "Zitrone"
+      ],
+      "heart": [
+        "Apfel", "Geranie", "Ingwerblüte", "Kardamom", "Lavendel", "Melone", "Pfirsich", "Wacholder"
+      ],
+      "base": [
+        "Ambra", "Moschus", "Tonkabohne", "Vanille", "Vetiver", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/7905"
     ]
   },
   {
@@ -189,6 +279,78 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/1033",
       "https://www.chogangroupspa.com/chogangroup/productDetail/11731",
       "https://www.chogangroupspa.com/chogangroup/productDetail/8906"
+    ]
+  },
+  {
+    "name": "Pure Ego For Him",
+    "number": "04M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft, der moderne Eleganz verkörpert und den galanten, selbstbewussten Mann anspricht, der sich nichts zu beweisen braucht. Ein holzig-würziger Duft mit einem Kopfakkord aus Grapefruit und Koriander.",
+    "olfactory_group": [
+      "Würzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Basilikum", "Koriander", "Pink Grapefruit"
+      ],
+      "heart": [
+        "Ingwerblüte", "Kardamom", "Orangenblüte"
+      ],
+      "base": [
+        "Ambra", "Tabakblüte", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/1034",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11746",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8902"
+    ]
+  },
+  {
+    "name": "Addiction",
+    "number": "06W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Mehr als nur ein Duft: eine üppige, verführerische, unnachahmliche Spur. Ein Ticket zu einem symbolischen, geheimnisvollen Anderswo. Eine imaginäre Reise in ein Traumland von ungeahnter Magie. Ein Duft, der die Fülle des Lebens spürbar macht und eine Tür öffnet, die in eine imaginäre, außergewöhnliche und geheimnisvolle Welt voller Empfindungen und Gefühle führt.",
+    "olfactory_group": [
+      "Würzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Maiglöckchen", "Mandarinorange"
+      ],
+      "heart": [
+        "Jasmin", "Myrrhe"
+      ],
+      "base": [
+        "Ambra", "Patschuli", "somalischer Opopanax", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/1041",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11761",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9021"
     ]
   },
   {
@@ -408,6 +570,42 @@
     ]
   },
   {
+    "name": "Obscuro",
+    "number": "20M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Dieser Duft erzählt eine Geschichte von Verführung, Intensität und gewagter Sinnlichkeit. Für den attraktiven, geheimnisvollen Mann, der mit seinem unwiderstehlichen Charme und seiner Verführungskraft alles andere auslöscht, wenn er vorbeikommt.",
+    "olfactory_group": [
+      "Würzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Kardamom"
+      ],
+      "heart": [
+        "Bergamotte", "Lavendel", "Zitronatzitrone"
+      ],
+      "base": [
+        "Kümmel", "Vetiver"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/14016",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8760",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11906"
+    ]
+  },
+  {
     "name": "Aqua Soul For Him",
     "number": "21M",
     "sex": "Herren",
@@ -444,6 +642,42 @@
     ]
   },
   {
+    "name": "Elemental",
+    "number": "22M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Dieses Parfum erzählt die Geschichte der mythischen Elemente der Antike und der Natur, eine Geschichte der Verwandlung, eine Reise zu den Elementen durch Erde, Luft und Wasser.",
+    "olfactory_group": [
+      "Würzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Orange", "Pink Grapefruit"
+      ],
+      "heart": [
+        "Flint", "Pelargonie", "Pfeffer"
+      ],
+      "base": [
+        "Benzoeharz", "Patschuli", "Vetiver", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/1079",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11936",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11926"
+    ]
+  },
+  {
     "name": "Her Secret",
     "number": "25W",
     "sex": "Damen",
@@ -477,6 +711,114 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/1096",
       "https://www.chogangroupspa.com/chogangroup/productDetail/9014",
       "https://www.chogangroupspa.com/chogangroup/productDetail/9013"
+    ]
+  },
+  {
+    "name": "Real Man",
+    "number": "31M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Die perfekte Kombination aus Kraft und Frische, die eine einzigartige Symphonie ergibt. Ein Duft, der dich in den fernen Orient entführt, um dich plötzlich mitten in eine Metropole zu versetzen, in der das Rascheln der eleganten Anzüge der Geschäftswelt den Takt angibt.",
+    "olfactory_group": [
+      "Würzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Kardamom", "Sandelholz"
+      ],
+      "heart": [
+        "Galgant", "Ingwerblüte", "Wacholder"
+      ],
+      "base": [
+        "Grüne Noten", "Tabakblüte", "Teakholz"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/1038",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9034",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9033"
+    ]
+  },
+  {
+    "name": "Explosive",
+    "number": "32M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft für geheimnisvolle Männer voller Gegensätze, schwer zu fassen und frei von Konventionen. Charismatische Verführer, die alle Klischees hinter sich lassen, dabei raffiniert und sexy bleiben und eine natürliche Eleganz verkörpern, die im Einklang mit ihrer Zeit steht.",
+    "olfactory_group": [
+      "Würzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Elemiharz", "Pink Grapefruit", "rosa Pfeffer"
+      ],
+      "heart": [
+        "Piment", "Safran", "Zimt"
+      ],
+      "base": [
+        "Leder", "Tabakblüte", "Vetiver"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/860",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9036",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12076"
+    ]
+  },
+  {
+    "name": "Nightfall",
+    "number": "33M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Natürlicher Charme und fesselndes Geheimnis. Eine verführerische Seele für den selbstbewussten Mann. Magnetische und moderne Verführung ist die Philosophie hinter diesem Duft.",
+    "olfactory_group": [
+      "Würzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Zitrone"
+      ],
+      "heart": [
+        "Guajakholz", "Olivenblüte", "Sternanis"
+      ],
+      "base": [
+        "Leder", "Tabakblüte", "Tonkabohne"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/1039",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12096",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8761"
     ]
   },
   {
@@ -1242,6 +1584,42 @@
     ]
   },
   {
+    "name": "Wildman",
+    "number": "87M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Dieser Duft ist für den mutigen, großzügigen und verführerischen Mann, der frei in seinen Lebensentscheidungen ist. Ein holziger Duft, der verführt und Begehren ausdrückt. Sein charismatisches und unwiderstehliches Aroma zelebriert das Leben mit Intensität und Mut.",
+    "olfactory_group": [
+      "Würzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Ingwerblüte", "Lavendel", "Minze", "Zitrone"
+      ],
+      "heart": [
+        "Apfel", "Geranie", "Kardamom", "Wacholder"
+      ],
+      "base": [
+        "Amberwood", "Tonkabohne", "Vetiver"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/2183",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8899",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12616"
+    ]
+  },
+  {
     "name": "Ville Lumière",
     "number": "89W",
     "sex": "Damen",
@@ -1701,6 +2079,39 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/6289",
       "https://www.chogangroupspa.com/chogangroup/productDetail/9094",
       "https://www.chogangroupspa.com/chogangroup/productDetail/12781"
+    ]
+  },
+  {
+    "name": "Velvet Smoke",
+    "number": "117U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Ein opulenter, warmer und ikonischer Duft – eine moderne Interpretation der Gentlemen's Clubs vergangener Zeiten. Der weiche orientalische Auftakt eröffnet mit würzigen und krautigen Nuancen. In der Herznote entfalten sich opulente Akkorde von Tabakblüte, Tonkabohne, Kakao und Vanille. Abgerundet wird die Komposition durch eine Basis aus Trockenfrüchten und edlen Hölzern.",
+    "olfactory_group": [
+      "Würzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Gewürze", "Tabakblüte"
+      ],
+      "heart": [
+        "Kakaofrucht", "Tonkabohne", "Vanille"
+      ],
+      "base": [
+        "holzige Noten", "Trockenfrüchte"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8474",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/13066"
     ]
   },
   {
@@ -2284,7 +2695,7 @@
     ],
     "description": "Dieser Duft ist ein Bekenntnis zu Eleganz und Verführung – perfekt für den Mann, der seine Erfolge immer zelebriert. Fesselnd und sinnlich, entfaltet er eine fast aphrodisierende Wirkung und besticht durch seine unwiderstehlichen, beständigen Noten.",
     "olfactory_group": [
-      "Aromatisch"
+      "Aromatisch", "Würzig"
     ],
     "pyramid": {
       "top": [

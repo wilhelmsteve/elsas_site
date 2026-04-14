@@ -1,5 +1,35 @@
 [
   {
+    "name": "APOLLO",
+    "number": "APOLLO",
+    "sex": "Herren",
+    "class": "Mytologik",
+    "sizes": [
+      "100ml"
+    ],
+    "prices": [
+      "299,00€"
+    ],
+    "description": "Inspiriert vom griechischen Gott der Sonne und der Musik, ist Apollo by MΨTΟLOGIK ein Herrenduft, der Vitalität, Schönheit und Wissen zelebriert. Die strahlende Energie des Gottes spiegelt sich in jeder Note der Duftkomposition wider. Die zitrisch-aromatische Kopfnote verkörpert die lebendige und strahlende Essenz des Gottes. Das Herz des Duftes enthüllt Noten von Weihrauch, Tabakblüte und Myrrhe, die an die Prophezeiungen erinnern, die von der Gottheit inspiriert wurden. Die warme Basisnote spiegelt die Urkraft der Sonne wider, die Quelle des Lebens und der Inspiration.",
+    "olfactory_group": [
+      "Fougère"
+    ],
+    "pyramid": {
+      "top": [
+        "Ananas", "Bergamotte", "Lavendel", "Orangenblüte"
+      ],
+      "heart": [
+        "Benzoeharz", "Freesie", "Jasmin", "Myrrhe", "Tabakblüte", "Weihrauch Olibanum"
+      ],
+      "base": [
+        "Ambra", "bulgarischer Tabak", "Moschus", "Nagarmotha", "Patschuli", "Praline", "Vanille", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/9923"
+    ]
+  },
+  {
     "name": "Deep Blue For Him",
     "number": "02M",
     "sex": "Herren",
@@ -52,7 +82,7 @@
     ],
     "description": "Ein Duft voller Widersprüche: frisch und doch kraftvoll, wie die Begegnung von Wasser und Feuer.",
     "olfactory_group": [
-      "Aromatisch"
+      "Aromatisch", "Fougère"
     ],
     "pyramid": {
       "top": [
@@ -105,6 +135,42 @@
       "https://www.chogangroupspa.com/chogangroup/productDetail/930",
       "https://www.chogangroupspa.com/chogangroup/productDetail/8924",
       "https://www.chogangroupspa.com/chogangroup/productDetail/11821"
+    ]
+  },
+  {
+    "name": "Sailor",
+    "number": "16M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Die perfekte Harmonie von Männlichkeit und Sinnlichkeit – ein Klassiker, der durch die Kombination von Lavendel und sinnlichen Vanillenoten neu erfunden wurde. Ein magnetischer Duft, der verführt: einzigartig, modern, süß, auf Kontrasten aufgebaut und absolut unwiderstehlich.",
+    "olfactory_group": [
+      "Fougère"
+    ],
+    "pyramid": {
+      "top": [
+        "Beifuß", "Bergamotte", "Kardamom", "Lavendel", "Minze"
+      ],
+      "heart": [
+        "Kümmel", "Orangenblüte", "Zimt"
+      ],
+      "base": [
+        "Ambra", "Sandelholz", "Tonkabohne", "Vanille", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/911",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11866",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/11851"
     ]
   },
   {
@@ -465,6 +531,39 @@
     ]
   },
   {
+    "name": "Xcellence",
+    "number": "75M",
+    "sex": "Herren",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Ein geheimnisvoller Herrenduft, der die Regeln der konventionellen Parfümerie mit Modernität und Exotik verbindet. Ein Must-Have für den abenteuerlustigen und starken Mann, ein zeitloser Duft, der eine unverwechselbare und lang anhaltende sinnliche Spur hinterlässt.",
+    "olfactory_group": [
+      "Fougère"
+    ],
+    "pyramid": {
+      "top": [
+        "Ananas", "Bergamotte", "Rhabarber"
+      ],
+      "heart": [
+        "Iris", "Jasmin", "Piment"
+      ],
+      "base": [
+        "Ambra", "Eichenmoos", "Ladanharz", "Styrax", "Vanille", "Vetiver", "Zimt", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/8425",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/1792"
+    ]
+  },
+  {
     "name": "So True",
     "number": "79M",
     "sex": "Herren",
@@ -553,7 +652,7 @@
     ],
     "description": "Unerbittliche Kraft und Leidenschaft, unaufhaltsam wie die Wellen des Meeres: Ein Duft, der mit den sinnlichen Noten des Mittelmeers überrascht und unwiderstehliche, aromatische Akkorde vereint.",
     "olfactory_group": [
-      "Aromatisch"
+      "Aromatisch", "Fougère"
     ],
     "pyramid": {
       "top": [
@@ -625,7 +724,7 @@
     ],
     "description": "Ein Duft, der die Essenz der Männlichkeit einfängt: Die richtige Wahl für den selbstbewussten Mann. Eine Duftkomposition, die Stärke und Zartheit, Spontaneität und Geheimnis ausdrückt – kreiert für den mutigen Mann, der seinen Gefühlen folgt.",
     "olfactory_group": [
-      "Aromatisch"
+      "Aromatisch", "Fougère"
     ],
     "pyramid": {
       "top": [
@@ -769,7 +868,7 @@
     ],
     "description": "Ein Duft, der die Essenz eines Mannes einfängt – jenseits von Trends, losgelöst von der Zeit. Ungezähmt, bewusst und ganz im Einklang mit seiner eigenen Identität.",
     "olfactory_group": [
-      "Aromatisch"
+      "Aromatisch", "Fougère"
     ],
     "pyramid": {
       "top": [
@@ -1002,6 +1101,42 @@
     ]
   },
   {
+    "name": "Volare",
+    "number": "122W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "14,90€",
+      "25,50€",
+      "48,00€"
+    ],
+    "description": "Ein einzigartiger und unwiderstehlicher Duft, der von einer rebellischen Frau erzählt, die nach ihren eigenen Regeln spielt und lebt. Ein Duft für eine mutige Frau, die keine Angst davor hat, Grenzen zu überschreiten und ihre Freiheit kompromisslos zu leben.",
+    "olfactory_group": [
+      "Fougère"
+    ],
+    "pyramid": {
+      "top": [
+        "Lavendel", "Mandarinorange", "Pomeranze", "schwarze Johannisbeere"
+      ],
+      "heart": [
+        "Jasmin", "Lavendel", "Orangenblüte"
+      ],
+      "base": [
+        "Ambergris", "Moschus", "Vanille", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/chogangroup/productDetail/13841",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12861",
+      "https://www.chogangroupspa.com/chogangroup/productDetail/12856"
+    ]
+  },
+  {
     "name": "Oceanic Pulse",
     "number": "130U",
     "sex": "Unisex",
@@ -1084,7 +1219,7 @@
     ],
     "description": "Ein ausgesprochen frischer Duft, der mit seinen aromatischen Noten Kraft und Leidenschaft vermittelt. Er umhüllt seinen Träger mit einer sinnlichen, maskulinen Ausstrahlung und ist damit perfekt für den Mann, der nicht unbemerkt bleiben möchte.",
     "olfactory_group": [
-      "Aromatisch"
+      "Aromatisch", "Fougère"
     ],
     "pyramid": {
       "top": [

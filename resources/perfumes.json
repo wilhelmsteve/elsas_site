@@ -330,6 +330,72 @@
     ]
   },
   {
+    "name": "Imperatrix",
+    "number": "IMPERATRIX",
+    "sex": "Damen",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "20,90€",
+      "60,00€"
+    ],
+    "description": "Imperatrix ist ein Damenduft mit königlicher Ausstrahlung. Seine blumigen Noten spiegeln eine erhabene Schönheit wider, während Gourmand-Akzente und ambrierte Nuancen eine unerwartete Sinnlichkeit offenbaren, die vor den Blicken des Hofes verborgen bleibt.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Brombeere", "Orange", "schwarze Johannisbeere", "Zitrone"
+      ],
+      "heart": [
+        "Jasmin", "Karamell", "Kokosnuss", "Maiglöckchen", "Milch", "Rose", "Veilchen"
+      ],
+      "base": [
+        "Ambra", "Moschus", "Tonkabohne", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/9868/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9858/ELS919337"
+    ]
+  },
+  {
+    "name": "Nadir",
+    "number": "NADIR",
+    "sex": "Herren",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "20,90€",
+      "60,00€"
+    ],
+    "description": "Nadir verkörpert einen stolzen und geheimnisvollen Mann, einen Gladiator, der die Erinnerung an ferne Länder und glorreiche Schlachten in sich trägt. Gewürze, Zitrusfrüchte und weiße Blüten verschmelzen zu einer perfekten Balance aus Kraft und Anziehung, die von sonnendurchfluteten Basaren und verborgenen Gärten widerhallt. Die warme, ambrierte Basis offenbart schließlich die sinnliche Menschlichkeit dieses unbesiegbaren Kriegers.",
+    "olfactory_group": [
+      "Würzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Koriander"
+      ],
+      "heart": [
+        "Jasmin", "Orangenblüte"
+      ],
+      "base": [
+        "Ambra", "Tonkabohne", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/9853/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9843/ELS919337"
+    ]
+  },
+  {
     "name": "Scented Love",
     "number": "LOVE22",
     "sex": "Damen",
@@ -417,72 +483,6 @@
     },
     "links": [
       "https://www.chogangroupspa.com/product_referral/7562/ELS919337"
-    ]
-  },
-  {
-    "name": "Imperatrix",
-    "number": "IMPERATRIX",
-    "sex": "Damen",
-    "class": "Luxus",
-    "sizes": [
-      "15ml Nachfüllflakon",
-      "50ml"
-    ],
-    "prices": [
-      "20,90€",
-      "60,00€"
-    ],
-    "description": "Imperatrix ist ein Damenduft mit königlicher Ausstrahlung. Seine blumigen Noten spiegeln eine erhabene Schönheit wider, während Gourmand-Akzente und ambrierte Nuancen eine unerwartete Sinnlichkeit offenbaren, die vor den Blicken des Hofes verborgen bleibt.",
-    "olfactory_group": [
-      "Blumig"
-    ],
-    "pyramid": {
-      "top": [
-        "Brombeere", "Orange", "schwarze Johannisbeere", "Zitrone"
-      ],
-      "heart": [
-        "Jasmin", "Karamell", "Kokosnuss", "Maiglöckchen", "Milch", "Rose", "Veilchen"
-      ],
-      "base": [
-        "Ambra", "Moschus", "Tonkabohne", "Vanille"
-      ]
-    },
-    "links": [
-      "https://www.chogangroupspa.com/product_referral/9868/ELS919337",
-      "https://www.chogangroupspa.com/product_referral/9858/ELS919337"
-    ]
-  },
-  {
-    "name": "Nadir",
-    "number": "NADIR",
-    "sex": "Herren",
-    "class": "Luxus",
-    "sizes": [
-      "15ml Nachfüllflakon",
-      "50ml"
-    ],
-    "prices": [
-      "20,90€",
-      "60,00€"
-    ],
-    "description": "Nadir verkörpert einen stolzen und geheimnisvollen Mann, einen Gladiator, der die Erinnerung an ferne Länder und glorreiche Schlachten in sich trägt. Gewürze, Zitrusfrüchte und weiße Blüten verschmelzen zu einer perfekten Balance aus Kraft und Anziehung, die von sonnendurchfluteten Basaren und verborgenen Gärten widerhallt. Die warme, ambrierte Basis offenbart schließlich die sinnliche Menschlichkeit dieses unbesiegbaren Kriegers.",
-    "olfactory_group": [
-      "Würzig"
-    ],
-    "pyramid": {
-      "top": [
-        "Bergamotte", "Koriander"
-      ],
-      "heart": [
-        "Jasmin", "Orangenblüte"
-      ],
-      "base": [
-        "Ambra", "Tonkabohne", "Vanille"
-      ]
-    },
-    "links": [
-      "https://www.chogangroupspa.com/product_referral/9853/ELS919337",
-      "https://www.chogangroupspa.com/product_referral/9843/ELS919337"
     ]
   },
   {

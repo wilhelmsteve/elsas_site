@@ -3,8 +3,8 @@ let perfumes = [];// global
 // JSON LADEN
 async function loadPerfumes() {
   try {
-    //const response = await fetch("resources/perfumes.json");
-    //perfumes = await response.json();
+    const response = await fetch("resources/perfumes.json");
+    perfumes = await response.json();
     
     createFilters(perfumes); // Zuerst die Filter aus den Daten bauen...
     render(perfumes); // ...dann alle Parfüme anzeigen

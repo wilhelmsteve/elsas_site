@@ -64,7 +64,7 @@ function createFilters(list) {
   const groupContainer = document.getElementById("filter-group");
   const sizeContainer = document.getElementById("filter-size");
 
-  const sexes = [...new Set(list.map(p => p.sex))].sort();
+  const sexes = [...new Set(list.map(p => p.sex))];
   const groups = [...new Set(list.flatMap(p => p.olfactory_group))].sort();
   const sizes = [...new Set(list.flatMap(p => p.sizes))].sort();
 

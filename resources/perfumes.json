@@ -12,7 +12,7 @@
     ],
     "description": "Inspiriert von der griechischen Göttin der Liebe und Schönheit, verkörpert dieser Duft die Kraft des Begehrens und die Macht, das Schicksal von Göttern und Menschen zu beeinflussen. Afrodite by MΨTΟLOGIK ist ein Damenduft, der eine Aura göttlicher Sinnlichkeit ausstrahlt. Die fruchtig-köstliche Kopfnote erinnert an die sinnliche Süße der Lust. In der Herznote dominieren elegante blumige Akkorde, die übermenschliche Schönheit zelebrieren. Die warme und verlockende Basisnote erzählt von der unwiderstehlichen Anziehungskraft der Leidenschaft.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -60,6 +60,36 @@
     ]
   },
   {
+    "name": "Ares",
+    "number": "ARES",
+    "sex": "Unisex",
+    "class": "Mytologik",
+    "sizes": [
+      "100ml"
+    ],
+    "prices": [
+      "299,00€"
+    ],
+    "description": "Inspiriert vom griechischen Gott des Krieges, verkörpert der Duft unbezähmbare Kraft und zeitlosen Mut. Ares by MΨTΟLOGIK ist ein Unisex-Duft, der innere Stärke und unvergängliche Tapferkeit zelebriert. Die zitrisch-würzige Kopfnote erinnert an den stolzen Geist des Gottes. Im Herzen entfalten sich warme, intensive Nuancen, die Leidenschaft und Kraft heraufbeschwören. Die Ledernote in der Basis verströmt die feierliche Anmut einer antiken Legende und hüllt die Luft in eine Aura von Macht und Unsterblichkeit.",
+    "olfactory_group": [
+      "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Orange", "Pfeffer"
+      ],
+      "heart": [
+        "Blutnote", "Jasmin", "Orangenblüte", "Ylang-Ylang"
+      ],
+      "base": [
+        "Ambra", "Moschus", "Leder", "Vanille", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/9903/ELS919337"
+    ]
+  },
+  {
     "name": "Artemide",
     "number": "ARTEMIDE",
     "sex": "Damen",
@@ -72,7 +102,7 @@
     ],
     "description": "Inspiriert von der griechischen Göttin der Jagd und des Waldes, verkörpert der Duft das Bild einer freien Weiblichkeit. Artemide by MΨTΟLOGIK ist ein Damenduft, der sich den Konventionen entzieht und für die explosive Kraft der Emanzipation steht. Der Duft startet mit krautigen und zitrischen Noten, die an die unberührten Wälder erinnern, die der Göttin so lieb sind. Die blumig-ledrige Herznote erinnert an ihre Doppelnatur als Jägerin und Beschützerin. Die holzige und moschusartige Basisnote symbolisiert ihre enge Verbindung zur Erde.",
     "olfactory_group": [
-      "Holzig"
+      "Holzig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -222,7 +252,7 @@
     ],
     "description": "Ein Parfüm für Männer, die die unendlichen Möglichkeiten der Zukunft entschlossen angehen. Ein Duft, der von einer Reise durch parallele Dimensionen erzählt und vom Mut derer inspiriert ist, die die Grenzen der Realität herausfordern und mutig das Unbekannte erforschen.",
     "olfactory_group": [
-      "Würzig"
+      "Orientalisch", "Würzig"
     ],
     "pyramid": {
       "top": [
@@ -252,7 +282,7 @@
     ],
     "description": "Mystère ist ein Herrenparfüm, das durch seine Kontraste herausfordert, egal wie ein Rätsel, das es zu lösen gilt, ein Duft, der den Träger in eine geheimnisvolle Aura hüllt. Ein überraschender Duft, der dazu einlädt, seine Geheimnisse zu entdecken: Der Auftakt verbindet die Lebendigkeit von Zitrusfrüchten mit der Intensität von Lavendel; Die Herznote verbindet die Süße von Früchten mit der Würze von Kardamom; Die Basisnote schließlich enthüllt einen zweifachen Duft, der zugleich süß und sinnlich ist.",
     "olfactory_group": [
-      "Holzig", "Würzig"
+      "Holzig", "Orientalisch", "Würzig"
     ],
     "pyramid": {
       "top": [
@@ -282,7 +312,7 @@
     ],
     "description": "Séduction ist ein Damenparfüm, das die verschiedenen Momente der Verführung in Szene setzt. Die Kopfnote erinnert an die Faszination des Anfangs, eine verträumte und absolute Phase, die durch die umhüllende Süße saftiger Früchte perfekt verkörpert wird. Die holzige und magnetische Herznote repräsentiert die Phase der wahren Anziehung, die reif, bewusst und frech ist. Vanille- und Moschusakkorde lassen die Sinne schließlich im Strudel der Verführung völlig versinken.",
     "olfactory_group": [
-      "Fruchtig", "Holzig"
+      "Fruchtig", "Holzig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -312,7 +342,7 @@
     ],
     "description": "Scented Love steht für wahre Liebe. Ein kostbarer Flakon in Herzform birgt einen unwiderstehlichen, süßen Duft – so einzigartig wie die Person, für die er bestimmt ist.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -342,7 +372,7 @@
     ],
     "description": "Scented Love steht für wahre Liebe. Ein kostbarer Flakon in Herzform birgt einen unwiderstehlichen, eleganten Duft – so einzigartig wie die Person, für die er bestimmt ist.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -357,6 +387,36 @@
     },
     "links": [
       "https://www.chogangroupspa.com/product_referral/7551/ELS919337"
+    ]
+  },
+  {
+    "name": "Scented Love",
+    "number": "LOVE25",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "25ml"
+    ],
+    "prices": [
+      "24,90€"
+    ],
+    "description": "Scented Love steht für wahre Liebe. Ein kostbarer Flakon in Herzform birgt einen unwiderstehlichen, intensiven Duft – so einzigartig wie die Person, für die er bestimmt ist.",
+    "olfactory_group": [
+      "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Aprikose", "Bitterorange", "Kokosnuss", "Pflaume", "Zitrone"
+      ],
+      "heart": [
+        "Jasmin", "Maiglöckchen", "Orangenblüte", "Rose", "Tuberose"
+      ],
+      "base": [
+        "Mandel", "Moschus", "Sandelholz", "Tonkabohne", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/7562/ELS919337"
     ]
   },
   {
@@ -3206,7 +3266,7 @@
     ],
     "description": "Ein edler, sinnlicher Duft, in dem sich die opulente Strahlkraft von Jasmin und Rose mit dem orientalischen Zauber von Vanille und Tonkabohne vereint. Jasmin verführt mit intensiven, umhüllenden Blütennoten, während die Rose ihre volle Kraft und Schönheit mit fast würzigen Nuancen entfaltet. Das Herz aus Vanille und Tonkabohne verführt mit süßer Tiefe, während die Basis mit warmen Noten von Ambra, französischem Labdanum und Patschuli sanft ausklingt.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -3485,7 +3545,7 @@
     ],
     "description": "Ein opulenter, warmer und ikonischer Duft – eine moderne Interpretation der Gentlemen's Clubs vergangener Zeiten. Der weiche orientalische Auftakt eröffnet mit würzigen und krautigen Nuancen. In der Herznote entfalten sich opulente Akkorde von Tabakblüte, Tonkabohne, Kakao und Vanille. Abgerundet wird die Komposition durch eine Basis aus Trockenfrüchten und edlen Hölzern.",
     "olfactory_group": [
-      "Würzig"
+      "Orientalisch", "Würzig"
     ],
     "pyramid": {
       "top": [
@@ -3518,7 +3578,7 @@
     ],
     "description": "Ein strahlender, komplexer und intensiver Duft, dessen Noten sich zu einer sinnlichen und reinen Harmonie vereinen: Perfekt für Liebhaberinnen und Liebhaber süßer und umhüllender Düfte. Der Duft verwöhnt die Haut mit blumigen, ambrierten Noten und einem Hauch von Holz. Eine poetische Alchimie, in der sich die Zartheit des Jasmins mit den mineralischen Nuancen von Ambergris und den holzigen Akkorden frisch geschnittener Zeder verbindet.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -3678,6 +3738,39 @@
     ]
   },
   {
+    "name": "Everlasting",
+    "number": "124U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Ein kraftvoller Duft, der die Weite des Universums in sich trägt und umarmt. Eine grenzenlose Komposition – perfekt für Frauen und Männer gleichermaßen. Ein Duft mit tiefem, geheimnisvollem Charakter, der den Fluss der Zeit und das Werden der Dinge einfängt.",
+    "olfactory_group": [
+      "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Kakaofrucht"
+      ],
+      "heart": [
+        "Ambergris"
+      ],
+      "base": [
+        "Mandel"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/8477/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/13086/ELS919337"
+    ]
+  },
+  {
     "name": "Mediterraneo",
     "number": "125U",
     "sex": "Unisex",
@@ -3774,6 +3867,72 @@
     "links": [
       "https://www.chogangroupspa.com/product_referral/8473/ELS919337",
       "https://www.chogangroupspa.com/product_referral/6765/ELS919337"
+    ]
+  },
+  {
+    "name": "Sugar Poison",
+    "number": "128U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Ein verführerischer, geheimnisvoller Duft voller Kontraste. Die Duftkomposition eröffnet mit frischen Zitrusnoten, intensiviert durch Rum, Myrrhe und Weihrauch. Im Herzen treffen florale Akzente von Narzisse, Frangipani und Rose auf kräftige Noten von Kaffee und Gerste. Die Basisnote umhüllt die Sinne mit der intensiven Nuancen von Tabak, Wildleder und Eichenmoos.",
+    "olfactory_group": [
+      "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Koriander", "Limette", "Myrrhe", "Orange", "Rum", "Safran", "Weihrauch Olibanum"
+      ],
+      "heart": [
+        "Barley", "Beifuß", "Frangipani", "Kaffee", "Narzisse", "Pflaume", "Rose"
+      ],
+      "base": [
+        "Eichenmoos", "Mahagoni", "Patschuli", "Tabakblüte", "Vanille", "Veilchen", "Wildleder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/8468/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/13121/ELS919337"
+    ]
+  },
+  {
+    "name": "Chlorophyll",
+    "number": "129U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Ein neuer orientalischer Duft, der lebendige und frische mediterrane Noten mit verträumten und sinnlichen Noten von Amber und Vanille verbindet. Ein Duft für Damen und Herren, der die Sinne verwöhnt und pure Lebensfreude schenkt.",
+    "olfactory_group": [
+      "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Orange", "Zitrone"
+      ],
+      "heart": [
+        "fruchtige Noten"
+      ],
+      "base": [
+        "Ambra", "Moschus", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/8004/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/13331/ELS919337"
     ]
   },
   {
@@ -3915,6 +4074,39 @@
       "https://www.chogangroupspa.com/product_referral/13891/ELS919337",
       "https://www.chogangroupspa.com/product_referral/12876/ELS919337",
       "https://www.chogangroupspa.com/product_referral/12871/ELS919337"
+    ]
+  },
+  {
+    "name": "Orange Nectar",
+    "number": "134U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,50€"
+    ],
+    "description": "Ein berauschender, warmer und fruchtiger Duft, in dem saftiger Pfirsich auf eine sinnliche Herznote aus Jasmin und alkoholischen Nuancen von Rum und Cognac trifft. Die abschließende Duftwelle aus Patschuli, Sandelholz, Cashmeran und Vetiver betört die Sinne und verbindet sich harmonisch mit den süßen Noten von Vanille und Tonkabohne.",
+    "olfactory_group": [
+      "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Blutorange", "Heliotrop", "Kardamom", "Pfirsich"
+      ],
+      "heart": [
+        "Cognac", "Davana", "Jasmin", "Rum"
+      ],
+      "base": [
+        "Benzoeharz", "Cashmeran", "Ladanharz", "Patschuli", "Sandelholz", "Styrax", "Tonkabohne", "Vanille", "Vetiver"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/13896/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/7435/ELS919337"
     ]
   },
   {
@@ -4070,7 +4262,7 @@
     ],
     "description": "Ein frischer und zugleich intensiver Unisex-Duft, der zarte und raffinierte florale Akkorde mit der sinnlichen Intensität von Agarholz verbindet. Er zeichnet sich durch wunderbare Kontraste aus und erinnert an den Zauber ferner Oasen, die Reisende mit den orientalischen Noten edler Hölzer und eleganter Nuancen von Rose verführen.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -4139,7 +4331,7 @@
     ],
     "description": "Ein facettenreicher und stimmungsvoller Unisex-Duft, der durch die geschickte Kombination seiner Noten den Zauber und die verträumte Atmosphäre orientalischer Nächte heraufbeschwört. Fruchtige, würzige und holzige Akkorde verschmelzen und verführen die Sinne mit der mutigen Komplexität und Faszination einer geheimnisvollen, jahrtausendealten Geschichte, die in der Wüste geschrieben wurde.",
     "olfactory_group": [
-      "Holzig"
+      "Holzig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -4224,6 +4416,39 @@
     "links": [
       "https://www.chogangroupspa.com/product_referral/13936/ELS919337",
       "https://www.chogangroupspa.com/product_referral/13176/ELS919337"
+    ]
+  },
+  {
+    "name": "Creamy Dream",
+    "number": "144U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Ein Duft wie eine sanfte Umarmung: Gourmandige, intensive Duftnuancen erinnern an die unwiderstehliche Cremigkeit von Milch. Liebhaber/innen süßer, langanhaltender Düfte werden von seinem ausgeprägten Gourmand-Charakter begeistert sein.",
+    "olfactory_group": [
+      "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Karamell"
+      ],
+      "heart": [
+        "Honig", "Kumarin"
+      ],
+      "base": [
+        "Vanille", "Weißer Moschus"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/8866/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/13181/ELS919337"
     ]
   },
   {

@@ -44,6 +44,13 @@
 <div id="finder" style="display:none;">
   <div class="card">
     <h2>Finde jetzt deinen passenden Duft!</h2>
+    
+    <div class="search-wrapper">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="search-input" placeholder="Name oder Nummer..." oninput="filter()">
+      <button id="clear-search" onclick="clearSearchInput()">×</button>
+    </div>
+    
   </div>
 
   <div class="filters">

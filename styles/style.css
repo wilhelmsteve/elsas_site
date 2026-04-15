@@ -77,7 +77,8 @@ body {
 /* ===== FILTER ===== */
 .filters {
   text-align: center;
-  margin-bottom: 20px;
+  margin: 0 auto 20px auto;
+  max-width: 500px;
 }
 
 /* Der Container, der die Checkboxen umschließt */

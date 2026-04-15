@@ -82,7 +82,7 @@ function createFilters(list) {
     </label>
   `).join("");
   
-  // Checkboxen für Duftfamilien bauen
+  // Checkboxen für Parfümgrößen bauen
   sizeContainer.innerHTML = sizes.map(s => `
     <label>
       <input type="checkbox" value="${s}" data-group="size" onchange="filter()"> ${s}

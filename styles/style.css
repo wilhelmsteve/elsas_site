@@ -149,3 +149,51 @@ button.reset:hover {
   display: block;
   width: fit-content;
 }
+
+/* Container für das Suchfeld */
+.search-wrapper {
+  position: relative;
+  max-width: 400px;
+  margin: 20px auto;
+}
+
+/* Die Lupe links */
+.search-icon {
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #d4af37;
+  pointer-events: none; /* Man kann nicht aus Versehen auf die Lupe klicken */
+}
+
+/* Das Eingabefeld mit Platz für Icon und X */
+#search-input {
+  width: 100%;
+  padding: 12px 40px 12px 40px; /* Rechts und links Platz für Icons lassen */
+  font-size: 16px;
+  border: 2px solid #d4af37;
+  border-radius: 25px;
+  outline: none;
+  box-sizing: border-box;
+}
+
+/* Der Löschen-Button (X) rechts */
+#clear-search {
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  font-size: 22px;
+  color: #999;
+  cursor: pointer;
+  z-index: 5; /* Stellt sicher, dass das X oben auf liegt */
+  padding: 5px;
+  line-height: 1;
+}
+
+#clear-search:hover {
+  color: #1a1a1a;
+}

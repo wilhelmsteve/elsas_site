@@ -580,7 +580,7 @@
     ],
     "description": "Mehr als nur ein Duft: eine üppige, verführerische, unnachahmliche Spur. Ein Ticket zu einem symbolischen, geheimnisvollen Anderswo. Eine imaginäre Reise in ein Traumland von ungeahnter Magie. Ein Duft, der die Fülle des Lebens spürbar macht und eine Tür öffnet, die in eine imaginäre, außergewöhnliche und geheimnisvolle Welt voller Empfindungen und Gefühle führt.",
     "olfactory_group": [
-      "Würzig"
+      "Orientalisch", "Würzig"
     ],
     "pyramid": {
       "top": [
@@ -652,7 +652,7 @@
     ],
     "description": "Ein Duft, der eine geheimnisvolle Aura verströmt: ein magisches Elixier, das Energie und Sinnlichkeit ausstrahlt.",
     "olfactory_group": [
-      "Holzig"
+      "Holzig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -760,7 +760,7 @@
     ],
     "description": "Ein sinnlicher, umhüllender und unvergesslicher Duft, der Frauen inspiriert, ihre Freiheit zu ergreifen, mutig voranzuschreiten, sich zu behaupten und ihre eigene Weiblichkeit zum Ausdruck zu bringen. Der Frau gewidmet, die ihre Wünsche mit Kühnheit und Intuition verwirklicht.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -796,7 +796,7 @@
     ],
     "description": "Ein Duft, inspiriert von ewiger Schönheit, der verzaubert und immer wieder neue Emotionen weckt. Warm, sinnlich, geheimnisvoll.",
     "olfactory_group": [
-      "Holzig"
+      "Holzig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -832,7 +832,7 @@
     ],
     "description": "Die perfekte Harmonie von Männlichkeit und Sinnlichkeit – ein Klassiker, der durch die Kombination von Lavendel und sinnlichen Vanillenoten neu erfunden wurde. Ein magnetischer Duft, der verführt: einzigartig, modern, süß, auf Kontrasten aufgebaut und absolut unwiderstehlich.",
     "olfactory_group": [
-      "Fougère"
+      "Fougère", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -1032,6 +1032,42 @@
     ]
   },
   {
+    "name": "Fatale",
+    "number": "23W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Mit seinen betäubenden Noten ist dieser Duft ein wahrer Zaubertrank, der die Sinne derer betört, die ihn wahrnehmen. Für verführerische Frauen, die sich gerne mit Aufmerksamkeit umgeben.",
+    "olfactory_group": [
+      "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Aprikose", "Kokosnuss", "Pflaume"
+      ],
+      "heart": [
+        "brasilianisches Rosenholz", "Jasmin", "Kümmel", "Maiglöckchen", "Rose", "Tuberose"
+      ],
+      "base": [
+        "Mandel", "Moschus", "Sandelholz", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/14031/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11956/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11941/ELS919337"
+    ]
+  },
+  {
     "name": "The Essence",
     "number": "24W",
     "sex": "Damen",
@@ -1120,7 +1156,7 @@
     ],
     "description": "Ein dezenter Duft, der sich mit süßen Noten von Weißdorn und schwarzer Johannisbeere öffnet und in eine blumige Herznote aus Rose, Jasmin und Veilchen mündet. Abgerundet wird die Herznote durch eine Basisnote aus intensiver Vanille und weißem Moschus.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -1156,7 +1192,7 @@
     ],
     "description": "Dieser Duft löst einen Wirbelsturm der Gefühle und Erinnerungen aus. Ein Duft, der mit warmen orientalischen und frischen blumigen Noten umhüllt: Unter ihnen triumphiert die Rose, Symbol für alle Formen der Liebe.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -1173,6 +1209,42 @@
       "https://www.chogangroupspa.com/product_referral/969/ELS919337",
       "https://www.chogangroupspa.com/product_referral/12021/ELS919337",
       "https://www.chogangroupspa.com/product_referral/12016/ELS919337"
+    ]
+  },
+  {
+    "name": "Etherea",
+    "number": "28W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein gewagter Duft, denn er ist der erste, der typisch orientalische Noten wie Vanille und Patschuli mit köstlichen Schokoladen- und Karamellnoten sowie frischen Fruchtnoten kombiniert.",
+    "olfactory_group": [
+      "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Ananas", "Bergamotte", "Jasmin", "Kokosnuss", "Mandarinorange", "Melone", "schwarze Johannisbeere", "Zuckerwatte"
+      ],
+      "heart": [
+        "Aprikose", "Brombeere", "Honig", "Jasmin", "Kümmel", "Maiglöckchen", "Muskat", "Pfirsich", "Pflaume", "Rose", "rote Beeren", "wilde Orchidee"
+      ],
+      "base": [
+        "Ambra", "dunkle Schokolade", "Karamell", "Moschus", "Patschuli", "Sandelholz", "Tonkabohne", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/944/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9012/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9011/ELS919337"
     ]
   },
   {
@@ -1228,7 +1300,7 @@
     ],
     "description": "Ein lebendiger und spontaner Duft mit der Energie des Rock&Roll: für den individualistischen Mann, besonders geeignet für den Abend und besondere Anlässe.",
     "olfactory_group": [
-      "Holzig"
+      "Holzig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -1336,7 +1408,7 @@
     ],
     "description": "Natürlicher Charme und fesselndes Geheimnis. Eine verführerische Seele für den selbstbewussten Mann. Magnetische und moderne Verführung ist die Philosophie hinter diesem Duft.",
     "olfactory_group": [
-      "Würzig"
+      "Orientalisch", "Würzig"
     ],
     "pyramid": {
       "top": [
@@ -1372,7 +1444,7 @@
     ],
     "description": "Ein Duft, der die Welt der Herrendüfte neu definiert. Der Duft für den anspruchsvollen, entschlossenen und kreativen Mann. Die frischen und spritzigen Duftnoten verleihen dem Träger Modernität und Charakter.",
     "olfactory_group": [
-      "Holzig"
+      "Holzig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -1464,6 +1536,42 @@
     ]
   },
   {
+    "name": "Magnetic",
+    "number": "40W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Der Duft ist allen anspruchsvollen und eleganten Frauen gewidmet, die durch ihren Charme und die geheimnisvolle Aura, die sie umgibt, bezaubern.",
+    "olfactory_group": [
+      "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Passionsblüte"
+      ],
+      "heart": [
+        "Gardenie", "Jasmin"
+      ],
+      "base": [
+        "Vanille", "Vetiver"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/945/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12156/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9039/ELS919337"
+    ]
+  },
+  {
     "name": "Bonheur Supreme",
     "number": "42W",
     "sex": "Damen",
@@ -1480,7 +1588,7 @@
     ],
     "description": "Ein Duft, der Anmut, Licht und Freiheit ausstrahlt und die „Quintessenz des Lächelns“ verkörpert - ideal für intelligente, kultivierte und charmante Frauen. Wie ein „Funke des Lebens“ strahlt der Duft Lebendigkeit aus und wurde für anspruchsvolle Frauen kreiert, die an die schönen Dinge des Lebens glauben.",
     "olfactory_group": [
-      "Blumig", "Fruchtig"
+      "Blumig", "Fruchtig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -1576,7 +1684,7 @@
     ],
     "description": "Prachtvoll und exzentrisch, glamourös und doch ironisch: ein Duft für die sexy und selbstbewusste Frau, die erhobenen Hauptes geht. Ein Duft, der von der Pracht der Schleppe eines Abendkleides inspiriert ist.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -1612,7 +1720,7 @@
     ],
     "description": "Ein intensiver, entschlossener und zugleich frischer Duft, der mit seinem Charme die Persönlichkeit des Trägers und seine natürliche Ausstrahlung unterstreicht. Ein einzigartiger Duft, unaussprechlich und schwer zu fassen, der den Mann verkörpert, der sich selbst treu bleibt.",
     "olfactory_group": [
-      "Holzig"
+      "Holzig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -1684,7 +1792,7 @@
     ],
     "description": "Ein Duft, der so leicht und frisch ist wie ein Blütenblatt und gleichzeitig die tiefe Sinnlichkeit einer brillanten, etwas rebellischen Frau ausdrückt, die weiß, was sie will. Ein Duft, in dem blumige und orientalische Noten mit ihrer unglaublichen Frische und Lebensfreude dominieren.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -1792,7 +1900,7 @@
     ],
     "description": "Ein opulenter Duft für anspruchsvolle und faszinierende Persönlichkeiten. Ein Duft, der durch seine warmen und dunklen Noten besticht und einen modernen und doch zeitlosen Duft mit einer Herznote aus Orchidee kreiert.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -1812,6 +1920,42 @@
     ]
   },
   {
+    "name": "Black Addiction",
+    "number": "55W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft, inspiriert von einer einzigartigen und entschlossenen Frau: selbstbewusst, frei, glamourös, immer auf der Suche nach neuen Emotionen. Ein aufregender Duft, schwarz wie Kaffee, süchtig machend durch die exquisite Weiblichkeit von weißen Blüten und Vanille.",
+    "olfactory_group": [
+      "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Birne", "Orangenblüte", "rosa Pfeffer"
+      ],
+      "heart": [
+        "Jasmin", "Kaffee", "Lakritz", "Mandel"
+      ],
+      "base": [
+        "Kaschmirholz", "Patschuli", "Vanille", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/11138/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12306/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12301/ELS919337"
+    ]
+  },
+  {
     "name": "Light & Dark",
     "number": "56W",
     "sex": "Damen",
@@ -1828,7 +1972,7 @@
     ],
     "description": "Ein Duft, der neue Empfindungen offenbart und durch seine geheimnisvolle Vielseitigkeit verführt. Stark, charismatisch und orientalisch ist dieser Duft für die Frau, die es versteht, unschuldig und doch sinnlich zu sein.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -2056,7 +2200,7 @@
     ],
     "description": "Ein orientalischer Duft, der zu einem abenteuerlichen und magischen Erlebnis einlädt, eine olfaktorische Reise zu den Düften und Farben Indiens.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -2092,7 +2236,7 @@
     ],
     "description": "Der Duft strahlt Geheimnis und eine zeitlose Energie aus. Ein unnachahmliches Statement von Individualität und Verführung, die Essenz einer sehr unabhängigen Person, die keine Angst hat, ihre Einzigartigkeit zu behaupten.",
     "olfactory_group": [
-      "Holzig"
+      "Holzig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -2128,7 +2272,7 @@
     ],
     "description": "Ein Duft, der eine göttliche Spur hinterlässt, für starke Frauen, für moderne Kleopatras. Er drückt Stolz, Weiblichkeit und Zartheit aus.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -2236,7 +2380,7 @@
     ],
     "description": "Ein Duft mit den kontrastreichen, verführerischen und süßen Noten einer entschlossenen, lustvollen und leidenschaftlichen Frau, die es liebt, bewundert zu werden. Ein beständiger Duft, der beim Vorbeigehen eine deutliche Spur von Geheimnis und Verführung hinterlässt.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -2308,7 +2452,7 @@
     ],
     "description": "Ein vielseitiger Duft für Männer und Frauen, der verträumte Freiheit und dekonstruierte Eleganz im Bohème-Stil vermittelt.",
     "olfactory_group": [
-      "Holzig"
+      "Holzig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -2344,7 +2488,7 @@
     ],
     "description": "Die Wärme der holzigen Noten verbindet sich mit der Frische der Zitrusnoten und der tiefen Sinnlichkeit der Moschusnoten zu einem Duft, der Dynamik, den Wunsch nach Herausforderung und einen starken Charakter ausdrückt.",
     "olfactory_group": [
-      "Holzig"
+      "Holzig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -2411,7 +2555,7 @@
     ],
     "description": "Ein geheimnisvoller Herrenduft, der die Regeln der konventionellen Parfümerie mit Modernität und Exotik verbindet. Ein Must-Have für den abenteuerlustigen und starken Mann, ein zeitloser Duft, der eine unverwechselbare und lang anhaltende sinnliche Spur hinterlässt.",
     "olfactory_group": [
-      "Fougère"
+      "Fougère", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -2482,7 +2626,7 @@
     ],
     "description": "Ein maskuliner, intensiver und provokativer Duft, ideal für den starken Mann. Diese Charakterzüge spiegeln sich in der Kombination von frischen und würzigen Noten wie Minze, Pfeffer und Moschus wider.",
     "olfactory_group": [
-      "Holzig"
+      "Holzig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -2590,7 +2734,7 @@
     ],
     "description": "Dieses Parfüm bietet ein neues Dufterlebnis: ein explosiver und unwiderstehlicher Kontrast zwischen Duftnuancen von Schlagsahne, betörendem Jasmin und warmen Holznoten.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -2806,7 +2950,7 @@
     ],
     "description": "Mit seiner sinnlichen und innovativen orientalischen Note ist dieser Duft kühn, charismatisch und magnetisch anziehend, Ausdruck eines neuen Modells von Männlichkeit. Die warmen, intensiven und vielfältigen Noten fangen den stürmischen und geheimnisvollen Charakter des Feuers ein, Symbol für Kraft und Energie.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -2859,6 +3003,42 @@
       "https://www.chogangroupspa.com/product_referral/2094/ELS919337",
       "https://www.chogangroupspa.com/product_referral/9001/ELS919337",
       "https://www.chogangroupspa.com/product_referral/9000/ELS919337"
+    ]
+  },
+  {
+    "name": "Femme Fatale",
+    "number": "90W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft für eine moderne, freie und unkonventionelle Generation junger Frauen, die ihren Träumen folgt und mit einem Hauch von Sinnlichkeit und Frechheit verführt. Er ist eine köstliche Falle, ein Gift, das süchtig macht.",
+    "olfactory_group": [
+      "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Bitterorange", "Zitrone"
+      ],
+      "heart": [
+        "Orangenblüte", "Rose"
+      ],
+      "base": [
+        "Cashmeran", "Heliotrop", "Mandel", "Sandelholz", "Tolubalsam", "Tonkabohne", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/2129/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12666/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9083/ELS919337"
     ]
   },
   {
@@ -3022,7 +3202,7 @@
     ],
     "description": "Ein Duft, der moderne Weiblichkeit verkörpert – jung, mutig und voller Lebensfreude. Gewidmet einer neugierigen, leidenschaftlichen Frau, die den Augenblick liebt und jede Erfahrung mit Spontaneität und Entschlossenheit lebt. Ein opulenter, selbstbewusster Duft – so unvergesslich wie die Momente, die ihn begleiten.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -3150,6 +3330,39 @@
     ]
   },
   {
+    "name": "Soft Caress",
+    "number": "101U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Diese orientalische und ambrierte Duftkomposition vereint die feine Palette mediterraner Aromen mit den süßen, balsamischen Noten Arabiens. Wie kostbare Moiré-Seide entfaltet sich dieser geheimnisvolle Duft Schicht für Schicht: ambrierte und purpurne Noten. Lebendige italienische Bergamotte taucht die aromatische Frische von Lavendel in ein strahlendes Licht, sodass goldene Zitrusfrüchte und malvenfarbene Blüten an italienische Landschaften erinnern. In der Herznote sorgt Ladanharz für den bräunlichen Effekt von weichem Leder. Wie in der Abenddämmerung legt sich ein pudriger Hauch von frischer Iris über eine Mischung orientalischer Harze. Die süßen Noten von Opopanax und die anziehenden Noten von Myrrhe bringen Licht und Wärme in einen raffinierten Ausklang aus ambrierten Hölzern.",
+    "olfactory_group": [
+      "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Lavendel", "Seidenblüte", "Zitrusfrüchte"
+      ],
+      "heart": [
+        "Harze", "Iris", "Jasmin", "Ladanharz", "Leder", "Rose"
+      ],
+      "base": [
+        "Amberwood", "Gewürznelken", "Honig", "Myrrhe", "somalischer Opopanax", "Tolubalsam", "Vanille", "Zimt"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/8480/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/3643/ELS919337"
+    ]
+  },
+  {
     "name": "Soft Rays",
     "number": "102U",
     "sex": "Unisex",
@@ -3164,7 +3377,7 @@
     ],
     "description": "Der Amber-Akkord, die wahre Essenz der orientalischen Duftfamilie, wird in diesem Duft neu interpretiert. Wie ein warmer Hauch aus dem Orient entfaltet das goldgelbe Ylang-Ylang seine exotische Kraft auf einem sinnlichen Amber-Akkord aus Vanille und Ladanharz. Der Duft entwickelt sich weiter mit der Cremigkeit von Sandelholz, das von einem zarten Schleier süßer, rauchiger Noten durchzogen ist. Die Basisnote ist weich und anhaltend, geprägt von Harzen und ambrierten Hölzern.",
     "olfactory_group": [
-      "Holzig"
+      "Holzig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -3180,6 +3393,42 @@
     "links": [
       "https://www.chogangroupspa.com/product_referral/8479/ELS919337",
       "https://www.chogangroupspa.com/product_referral/3644/ELS919337"
+    ]
+  },
+  {
+    "name": "Expresso",
+    "number": "105U",
+    "sex": "Unisex",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "In dieser Duftkomposition steht die Gourmand-Note von Kaffee im Mittelpunkt. Die Kopfnote ist ein Triumph blumiger Akzente, die auf eine unverwechselbare Herznote aus zarter Rose und schwarzem Arabica-Kaffee hindeuten. In der Basisnote offenbaren sich Nuancen von Ambra, Vanille und weißem Moschus.",
+    "olfactory_group": [
+      "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Blumige Noten"
+      ],
+      "heart": [
+        "Kaffee", "Rose"
+      ],
+      "base": [
+        "Ambra", "Moschus", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/14351/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/8776/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/13021/ELS919337"
     ]
   },
   {
@@ -3335,7 +3584,7 @@
     ],
     "description": "Ein vielschichtiger Duft, in dem die Süße saftiger Kirschen auf die Tiefe von Likör und die markante Bittermandel trifft. In der Herznote verschmelzen süß-säuerliche Kirschen mit betörend-blumigen Nuancen von türkischer Rose und Jasmin. Die Basisnote ist warm, üppig, süß und würzig.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -3439,7 +3688,7 @@
     ],
     "description": "Ein Duft, der in die Ferne entführt, irgendwo zwischen orientalischen Parfüms und gewundenen Dünen. Eine seltene und nuancierte Essenz, die einen auf eine Reise mitnimmt, bei der die Kraft und Stärke des Agarholzes deutlich hervortreten.",
     "olfactory_group": [
-      "Holzig"
+      "Holzig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -3511,7 +3760,7 @@
     ],
     "description": "Ein Duft für Frauen, die Kühnheit, Unabhängigkeit und Unternehmungslust zu ihren Charaktereigenschaften zählen. Er eignet sich sowohl für den Alltag als auch für besondere Anlässe. Die blumig-fruchtigen Noten machen den Duft äußerst sinnlich.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -3633,6 +3882,42 @@
     ]
   },
   {
+    "name": "Haute Couture",
+    "number": "120W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein bezaubernder und raffinierter Duft, der durch seine blumigen und fruchtigen Noten noch unwiderstehlicher wird. Der Duft unterstreicht die Eleganz seiner Trägerin mit sinnlichen Noten von Patschuli, Rose, Amarena und Tee.",
+    "olfactory_group": [
+      "Blumig", "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Mandel", "rote Beeren", "Sauerkirsche"
+      ],
+      "heart": [
+        "Lakritz", "Rose", "Taifrose", "Tee"
+      ],
+      "base": [
+        "Anis", "Iris", "Patschuli", "Tonkabohne", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/14381/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12831/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12826/ELS919337"
+    ]
+  },
+  {
     "name": "Secret Desire",
     "number": "121W",
     "sex": "Damen",
@@ -3649,7 +3934,7 @@
     ],
     "description": "Gewidmet den mutigsten Frauen, die den Tag lieben, aber keine Angst vor der Nacht haben. Sie lieben es, Regeln zu brechen, gegen den Strom zu schwimmen und dem Reiz des Verbotenen zu folgen.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -3685,7 +3970,7 @@
     ],
     "description": "Ein einzigartiger und unwiderstehlicher Duft, der von einer rebellischen Frau erzählt, die nach ihren eigenen Regeln spielt und lebt. Ein Duft für eine mutige Frau, die keine Angst davor hat, Grenzen zu überschreiten und ihre Freiheit kompromisslos zu leben.",
     "olfactory_group": [
-      "Fougère"
+      "Fougère", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -3818,7 +4103,7 @@
     ],
     "description": "Ein Duft, der das Bild entlegener, sonnenverwöhnter Inseln heraufbeschwört. Der Auftakt verbindet würzige Noten von Kardamom und Rosa Pfeffer mit der Frische von Bergamotte. Im Herzen entfaltet sich die sinnliche Blumigkeit von Jasmin, Tuberose und Ylang-Ylang. Die luxuriöse Basisnote besteht aus Benzoe, Tonkabohne, Ambra und Kokosnuss.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -3851,7 +4136,7 @@
     ],
     "description": "Ein seltener und exotischer Duft, geprägt vom kostbaren Aroma des Agarholzes (Oud). Die Kopfnote eröffnet mit würzigem Szechuanpfeffer, Kardamom und warmen Holznoten. Im Herzen stehen Agarholz, Sandelholz und Vetiver im Mittelpunkt. Der unwiderstehliche Ausklang vereint süße Noten von Vanille und Tonkabohne mit der sinnlichen Tiefe von Ambra.",
     "olfactory_group": [
-      "Holzig"
+      "Holzig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -3985,7 +4270,7 @@
     ],
     "description": "Ein gewagter Duft, der kontrastreiche Elemente vereint und so einen verführerischen Hell-Dunkel-Effekt schafft. Er besticht durch die blumige Eleganz von Sambacjasmin und Iris sowie durch die berauschenden Noten von Tonkabohne und Ambra. Ein komplexer Duft, der die facettenreiche Persönlichkeit der modernen Frau widerspiegelt.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -4021,7 +4306,7 @@
     ],
     "description": "Ein Duft für neugierige, mutige Frauen, die nach ihren eigenen Regeln leben und dabei Kompromisse eingehen.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -4057,7 +4342,7 @@
     ],
     "description": "Ein Parfüm für mutige Frauen mit einer einzigartigen Persönlichkeit, die sich über Konventionen hinwegsetzen und ihre eigene Komplexität umarmen. Dieser Duft bietet eine harmonische Kombination kontrastierender Elemente, die einen facettenreichen und faszinierenden Charakter widerspiegeln.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -4452,6 +4737,42 @@
     ]
   },
   {
+    "name": "Forever Yours",
+    "number": "145W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein süßer, verlockender Duft, der von lebendiger, strahlender Weiblichkeit erzählt. Eine Duftkomposition mit sonnigen und gourmandigen Noten, die die Freuden des Lebens, die verbindende Liebe und unsere tiefe Verbundenheit mit der Welt feiert.",
+    "olfactory_group": [
+      "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Kandierte Zitrone"
+      ],
+      "heart": [
+        "Orangenblüte", "Panna Cotta", "Rum"
+      ],
+      "base": [
+        "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/9139/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/13346/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9243/ELS919337"
+    ]
+  },
+  {
     "name": "Scarlet Flame",
     "number": "146U",
     "sex": "Unisex",
@@ -4609,7 +4930,7 @@
     ],
     "description": "Ein markanter, warmer Duft, der mit Mandarine und Rosa Pfeffer sofort alle Blicke auf sich zieht. Auf das samtige Herz aus Pfirsich, Flieder und Geranie folgt eine ambrierte Basis mit ausgeprägt femininem Charakter.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -4969,7 +5290,7 @@
     ],
     "description": "Eternal Love For Her ist ein raffinierter, intensiver Damenduft, der romantische und zugleich mutige Frauen zelebriert. Die elegante, umhüllende Komposition wärmt die Haut und hinterlässt eine sinnliche und unvergessliche Duftspur.",
     "olfactory_group": [
-      "Blumig"
+      "Blumig", "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -4986,6 +5307,42 @@
       "https://www.chogangroupspa.com/product_referral/11456/ELS919337",
       "https://www.chogangroupspa.com/product_referral/11486/ELS919337",
       "https://www.chogangroupspa.com/product_referral/11481/ELS919337"
+    ]
+  },
+  {
+    "name": "Eternal Love For Him",
+    "number": "162M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Eternal Love For Him ist ein frischer, sinnlicher Herrenduft, der romantische und zugleich mutige Männer zelebriert. Die beständige, umhüllende Komposition hinterlässt auf der Haut einen intensiven und unvergesslichen Duft.",
+    "olfactory_group": [
+      "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Vanille"
+      ],
+      "heart": [
+        "Lavendel"
+      ],
+      "base": [
+        "Vetiver"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/11461/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11471/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11466/ELS919337"
     ]
   }
 ]

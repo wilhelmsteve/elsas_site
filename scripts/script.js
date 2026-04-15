@@ -66,7 +66,12 @@ function createFilters(list) {
 
   const sexes = [...new Set(list.map(p => p.sex))].sort();
   const groups = [...new Set(list.flatMap(p => p.olfactory_group))].sort();
-  const sizes = [...new Set(list.flatMap(p => p.sizes))].sort();
+  const sizes = [...new Set(list.flatMap(p => p.sizes))].sort((a, b) => {
+    // Extrahiere die erste Zahl aus dem String (z.B. "15" aus "15ml Nachfüllflakon")
+    const numA = parseInt(a.match(/\d+/));
+    const numB = parseInt(b.match(/\d+/));
+    return numA - numB;
+  });
 
   // Checkboxen für Geschlecht bauen
   sexContainer.innerHTML = sexes.map(s => `

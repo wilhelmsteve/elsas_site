@@ -1,5 +1,35 @@
 [
   {
+    "name": "Afrodite",
+    "number": "AFRODITE",
+    "sex": "Damen",
+    "class": "Mytologik",
+    "sizes": [
+      "100ml"
+    ],
+    "prices": [
+      "299,00€"
+    ],
+    "description": "Inspiriert von der griechischen Göttin der Liebe und Schönheit, verkörpert dieser Duft die Kraft des Begehrens und die Macht, das Schicksal von Göttern und Menschen zu beeinflussen. Afrodite by MΨTΟLOGIK ist ein Damenduft, der eine Aura göttlicher Sinnlichkeit ausstrahlt. Die fruchtig-köstliche Kopfnote erinnert an die sinnliche Süße der Lust. In der Herznote dominieren elegante blumige Akkorde, die übermenschliche Schönheit zelebrieren. Die warme und verlockende Basisnote erzählt von der unwiderstehlichen Anziehungskraft der Leidenschaft.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Kakaobutter", "Haselnuss-Kakao-Aufstrich", "Kirsche", "schwarze Johannisbeere"
+      ],
+      "heart": [
+        "Jasmin", "rosa Pfeffer", "Rose", "Tuberose", "Zimt"
+      ],
+      "base": [
+        "Ambra", "Moschus", "Patschuli", "Sandelholz", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/9963/ELS919337"
+    ]
+  },
+  {
     "name": "Apollo",
     "number": "APOLLO",
     "sex": "Herren",
@@ -162,7 +192,7 @@
     ],
     "description": "Ein Parfüm für Frauen, die es wagen, groß zu träumen, die die Sternen betrachten, um ihre Zukunft zu lesen. Ein Duft, der von einer interstellaren Reise erzählt und vom Stolz derer inspiriert ist, die ihr inneres Licht einfangen und sich immer als kleiner Teil von etwas Großem fühlen.",
     "olfactory_group": [
-      "Fruchtig"
+      "Blumig", "Fruchtig"
     ],
     "pyramid": {
       "top": [
@@ -267,6 +297,66 @@
     },
     "links": [
       "https://www.chogangroupspa.com/product_referral/7907/ELS919337"
+    ]
+  },
+  {
+    "name": "Scented Love",
+    "number": "LOVE22",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "25ml"
+    ],
+    "prices": [
+      "19,90€"
+    ],
+    "description": "Scented Love steht für wahre Liebe. Ein kostbarer Flakon in Herzform birgt einen unwiderstehlichen, süßen Duft – so einzigartig wie die Person, für die er bestimmt ist.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Kirsche", "Mandel", "Sternanis"
+      ],
+      "heart": [
+        "Bulgarische Rose", "Lakritz", "Pfirsich", "Rose"
+      ],
+      "base": [
+        "Anis", "Moschus", "Tonkabohne", "Vanille", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/6961/ELS919337"
+    ]
+  },
+  {
+    "name": "Scented Love",
+    "number": "LOVE24",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "25ml"
+    ],
+    "prices": [
+      "24,90€"
+    ],
+    "description": "Scented Love steht für wahre Liebe. Ein kostbarer Flakon in Herzform birgt einen unwiderstehlichen, eleganten Duft – so einzigartig wie die Person, für die er bestimmt ist.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Himbeere", "Mandarinorange", "Osmanthus"
+      ],
+      "heart": [
+        "Ingwerblüte", "Jasmin", "Rose", "Tuberose"
+      ],
+      "base": [
+        "Ambra", "Karamell", "Lakritz", "Patschuli", "Sandelholz", "Vanille", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/7551/ELS919337"
     ]
   },
   {
@@ -466,7 +556,7 @@
     ],
     "description": "Die Essenz von Luxus und absoluter Weiblichkeit, die inzwischen zur Legende geworden ist. Das Gefühl, das sich beim Tragen dieses Parfüms einstellt, ist kaum zu beschreiben: Wie ein Spaziergang auf einer intensiv duftenden Blumenwiese, wie das Eintauchen in einen „Blumenstrauß“.",
     "olfactory_group": [
-      "Fruchtig"
+      "Blumig", "Fruchtig"
     ],
     "pyramid": {
       "top": [
@@ -538,7 +628,7 @@
     ],
     "description": "Ein Duft, der die zeitlose Sinnlichkeit des Mittelmeers einfängt, eines Ortes, der seit jeher die ideale Kulisse für Verführung war und immer sein wird.",
     "olfactory_group": [
-      "Fruchtig"
+      "Blumig", "Fruchtig"
     ],
     "pyramid": {
       "top": [
@@ -591,6 +681,42 @@
       "https://www.chogangroupspa.com/product_referral/930/ELS919337",
       "https://www.chogangroupspa.com/product_referral/8924/ELS919337",
       "https://www.chogangroupspa.com/product_referral/11821/ELS919337"
+    ]
+  },
+  {
+    "name": "Statement",
+    "number": "14W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein sinnlicher, umhüllender und unvergesslicher Duft, der Frauen inspiriert, ihre Freiheit zu ergreifen, mutig voranzuschreiten, sich zu behaupten und ihre eigene Weiblichkeit zum Ausdruck zu bringen. Der Frau gewidmet, die ihre Wünsche mit Kühnheit und Intuition verwirklicht.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "grüne Noten", "schwarze Johannisbeere"
+      ],
+      "heart": [
+        "Jasmin", "Maiglöckchen"
+      ],
+      "base": [
+        "Sandelholz", "Tonkabohne", "Vanille", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/972/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/8916/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/8915/ELS919337"
     ]
   },
   {
@@ -682,7 +808,7 @@
     ],
     "description": "Die glühende Frische der Kopfnote entfaltet sich kraftvoll mit Basilikumknospen, Bergamotte und einem Hauch von Grapefruit. Die blumige Herznote enthüllt ein reiches Bouquet von Jasmin, Wacholder und Heliotrop, während die Basisnote die absolute Kraft der Leidenschaft, Sinnlichkeit und Magie von Patchouli, Sandel- und Zedernholz bewahrt.",
     "olfactory_group": [
-      "Holzig", "Moschus"
+      "Blumig", "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
@@ -718,7 +844,7 @@
     ],
     "description": "Ein üppiger, sinnlicher Duft, der mit der Frische von Neroli beginnt und sich mit der Intensität der Amalfi-Zitrone vermischt, belebt durch einen knackigen Hauch von Himbeere. Die Herznote ist ein blumiger Triumph von Orangenblüte, Jasmin und Gardenie. In der Herznote mildern die Süße von Honig und Ambra die Noten von Patschuli.",
     "olfactory_group": [
-      "Fruchtig"
+      "Blumig", "Fruchtig"
     ],
     "pyramid": {
       "top": [
@@ -846,6 +972,42 @@
     ]
   },
   {
+    "name": "The Essence",
+    "number": "24W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein unverzichtbares, unvergessliches, unsichtbares Modeaccessoire, das die Ankunft der Trägerin ankündigt und ihren Abgang verzögert.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Aldehyde", "Bergamotte", "Neroli", "Ylang-Ylang", "Zitrone"
+      ],
+      "heart": [
+        "Iris", "Iriswurzel", "Jasmin", "Maiglöckchen", "Rose"
+      ],
+      "base": [
+        "Eichenmoos", "Patschuli", "Sandelholz", "Vanille", "Vetiver", "Zibet"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/1034/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11986/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11981/ELS919337"
+    ]
+  },
+  {
     "name": "Her Secret",
     "number": "25W",
     "sex": "Damen",
@@ -862,7 +1024,7 @@
     ],
     "description": "Der Moschus in der Herznote macht den Duft besonders langanhaltend und mildert die Süße von Orangenblüte und Vanille zu einem umhüllenden, raffinierten und einzigartigen Duft.",
     "olfactory_group": [
-      "Holzig", "Moschus"
+      "Blumig", "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
@@ -879,6 +1041,114 @@
       "https://www.chogangroupspa.com/product_referral/1096/ELS919337",
       "https://www.chogangroupspa.com/product_referral/9014/ELS919337",
       "https://www.chogangroupspa.com/product_referral/9013/ELS919337"
+    ]
+  },
+  {
+    "name": "Wild Poppy",
+    "number": "26W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein dezenter Duft, der sich mit süßen Noten von Weißdorn und schwarzer Johannisbeere öffnet und in eine blumige Herznote aus Rose, Jasmin und Veilchen mündet. Abgerundet wird die Herznote durch eine Basisnote aus intensiver Vanille und weißem Moschus.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Hagedorn", "Mandarinorange", "Rose", "schwarze Johannisbeere"
+      ],
+      "heart": [
+        "Jasmin", "Rose", "somalischer Opopanax", "Veilchen"
+      ],
+      "base": [
+        "Moschus", "Vanille", "Weihrauch"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/1044/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9030/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9029/ELS919337"
+    ]
+  },
+  {
+    "name": "L'Amour Rare",
+    "number": "27W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Dieser Duft löst einen Wirbelsturm der Gefühle und Erinnerungen aus. Ein Duft, der mit warmen orientalischen und frischen blumigen Noten umhüllt: Unter ihnen triumphiert die Rose, Symbol für alle Formen der Liebe.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Ananas", "Aprikosenblüte", "Bergamotte", "Flieder", "Maiglöckchen", "Pfirsich", "Rose"
+      ],
+      "heart": [
+        "Heliotrop", "Iris", "Jasmin", "Rose"
+      ],
+      "base": [
+        "Ambra", "Aprikose", "Moschus", "Pfirsich", "Sandelholz", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/969/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12021/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12016/ELS919337"
+    ]
+  },
+  {
+    "name": "Rêve Parisien",
+    "number": "29W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein einzigartiger Duft, der die Leichtigkeit von ins Wasser gefallenen Blütenblättern zum Ausdruck bringt. Eine Kombination von Duftnoten, die zu einer olfaktorischen Reise, einer wahren Odyssee der Düfte, einlädt.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Alpenveilchen", "Calone", "Freesie", "Lotus", "Melone", "Rose"
+      ],
+      "heart": [
+        "Lilie", "Maiglöckchen", "Nelke", "Pfingstrose"
+      ],
+      "base": [
+        "Ambra", "holzige Noten", "Moschus", "Osmanthus", "Sandelholz", "Tuberose", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/884/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9032/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12046/ELS919337"
     ]
   },
   {
@@ -944,7 +1214,7 @@
         "Galgant", "Ingwerblüte", "Wacholder"
       ],
       "base": [
-        "Grüne Noten", "Tabakblüte", "Teakholz"
+        "grüne Noten", "Tabakblüte", "Teakholz"
       ]
     },
     "links": [
@@ -1150,7 +1420,7 @@
     ],
     "description": "Ein Duft, der Anmut, Licht und Freiheit ausstrahlt und die „Quintessenz des Lächelns“ verkörpert - ideal für intelligente, kultivierte und charmante Frauen. Wie ein „Funke des Lebens“ strahlt der Duft Lebendigkeit aus und wurde für anspruchsvolle Frauen kreiert, die an die schönen Dinge des Lebens glauben.",
     "olfactory_group": [
-      "Fruchtig"
+      "Blumig", "Fruchtig"
     ],
     "pyramid": {
       "top": [
@@ -1218,7 +1488,7 @@
     ],
     "description": "Das Parfüm für Jungen zeichnet sich durch eine Mischung aus frischen und sanften holzigen Noten aus, die es einzigartig, angenehm und sowohl für Kinder als auch für Mütter geeignet machen. Die langanhaltende Formel ist hypoallergen, frei von Parabenen und künstlichen Farbstoffen und somit sanft zur Kinderhaut. Der minimalistische und elegante Flakon ist nicht nur praktisch, sondern auch schön.",
     "olfactory_group": [
-      "Moschus"
+      "Blumig", "Moschus"
     ],
     "pyramid": {
       "top": [],
@@ -1227,6 +1497,42 @@
     },
     "links": [
       "https://www.chogangroupspa.com/product_referral/2186/ELS919337"
+    ]
+  },
+  {
+    "name": "Night Gem",
+    "number": "47W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Prachtvoll und exzentrisch, glamourös und doch ironisch: ein Duft für die sexy und selbstbewusste Frau, die erhobenen Hauptes geht. Ein Duft, der von der Pracht der Schleppe eines Abendkleides inspiriert ist.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Ingwerblüte", "Kardamom", "Pfeffer"
+      ],
+      "heart": [
+        "Gardenie", "Kokosnuss", "Orangenblüte", "Pfingstrose"
+      ],
+      "base": [
+        "Ambra", "Moschus", "Sandelholz"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/1138/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12201/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12196/ELS919337"
     ]
   },
   {
@@ -1263,6 +1569,78 @@
       "https://www.chogangroupspa.com/product_referral/943/ELS919337",
       "https://www.chogangroupspa.com/product_referral/8926/ELS919337",
       "https://www.chogangroupspa.com/product_referral/12206/ELS919337"
+    ]
+  },
+  {
+    "name": "Pearl Bloom",
+    "number": "49W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Frisch und feminin, wie die weißen Blüten Siziliens. Ein Duft, der an die schönsten Jugenderinnerungen erinnert: an eine unschuldige, frische und reine Liebe, die für immer jung bleiben soll. Gleichzeitig ist es ein sehr moderner Duft, der aus der Verbindung von Unkonventionellem und Traditionellem entsteht.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Neroli", "Papayablüte"
+      ],
+      "heart": [
+        "Amaryllis", "Narzisse", "Wasserlilie"
+      ],
+      "base": [
+        "Cashmeran", "Moschus"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/1139/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12231/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/8917/ELS919337"
+    ]
+  },
+  {
+    "name": "Miss Bijou",
+    "number": "51W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft, der so leicht und frisch ist wie ein Blütenblatt und gleichzeitig die tiefe Sinnlichkeit einer brillanten, etwas rebellischen Frau ausdrückt, die weiß, was sie will. Ein Duft, in dem blumige und orientalische Noten mit ihrer unglaublichen Frische und Lebensfreude dominieren.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Mandarinorange", "Orange", "Orangenblüte"
+      ],
+      "heart": [
+        "Jasmin", "Mimose", "Rose", "Ylang-Ylang"
+      ],
+      "base": [
+        "Moschus", "Patschuli", "somalischer Opopanax", "Tonkabohne", "Vanille", "Vetiver"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/14136/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12246/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12241/ELS919337"
     ]
   },
   {
@@ -1318,7 +1696,7 @@
     ],
     "description": "Ein Duft, der das Geheimnis der Anziehungskraft enthüllt. Die blumige Kopfnote verbindet sich mit einem sinnlichen Herzen aus Ambra und Moschus und trifft auf die natürliche Eleganz der Hölzer zu einem sinnlichen Duft.",
     "olfactory_group": [
-      "Holzig", "Moschus"
+      "Blumig", "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
@@ -1338,6 +1716,78 @@
     ]
   },
   {
+    "name": "Night Flower",
+    "number": "54U",
+    "sex": "Unisex",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein opulenter Duft für anspruchsvolle und faszinierende Persönlichkeiten. Ein Duft, der durch seine warmen und dunklen Noten besticht und einen modernen und doch zeitlosen Duft mit einer Herznote aus Orchidee kreiert.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Gardenie", "Jasmin", "Mandarinorange", "schwarze Johannisbeere", "Trüffel", "Ylang-Ylang", "Zitrone"
+      ],
+      "heart": [
+        "fruchtige Noten", "Gardenie", "Gewürze", "Jasmin", "Lotus", "wilde Orchidee", "Ylang-Ylang"
+      ],
+      "base": [
+        "Ambra", "dunkle Schokolade", "Moschus", "Patschuli", "Sandelholz", "Vanille", "Vetiver", "Weihrauch"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/895/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12291/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12286/ELS919337"
+    ]
+  },
+  {
+    "name": "Light & Dark",
+    "number": "56W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft, der neue Empfindungen offenbart und durch seine geheimnisvolle Vielseitigkeit verführt. Stark, charismatisch und orientalisch ist dieser Duft für die Frau, die es versteht, unschuldig und doch sinnlich zu sein.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Mandarinorange", "Safran", "Thymian"
+      ],
+      "heart": [
+        "Lilie", "wilde Orchidee", "Ylang-Ylang"
+      ],
+      "base": [
+        "brasilianisches Rosenholz", "Eichenmoos", "Tonkabohne", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/990/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/8920/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/8919/ELS919337"
+    ]
+  },
+  {
     "name": "Pure Purple",
     "number": "57W",
     "sex": "Damen",
@@ -1354,11 +1804,11 @@
     ],
     "description": "Ein verspielter und raffinierter Duft, der an die modernsten und auffälligsten Schmuckstücke erinnert, sowie an die farbenfrohen und duftenden Noten, aus denen sich seine Duftpyramide zusammensetzt: eine wahre Sinnesreise, von den Zitrusnoten in der Kopfnote über die unverwechselbare Rose in der Herznote bis hin zur raffinierten holzigen Basisnote.",
     "olfactory_group": [
-      "Holzig", "Moschus"
+      "Blumig", "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
-        "Grüne Noten", "Pink Grapefruit"
+        "grüne Noten", "Pink Grapefruit"
       ],
       "heart": [
         "Iris", "Rose"
@@ -1386,7 +1836,31 @@
     ],
     "description": "Das Parfüm zeichnet sich durch eine Kombination aus frischen, blumigen und fruchtigen Noten aus, die es einzigartig und angenehm machen. Der Duft eignet sich für alle kleinen Mädchen, aber auch für Mütter. Die langanhaltende Formel ist hypoallergen, frei von Parabenen und künstlichen Farbstoffen und somit sanft zur Kinderhaut. Der minimalistische und elegante Flakon ist nicht nur praktisch, sondern auch schön.",
     "olfactory_group": [
-      "Fruchtig"
+      "Blumig", "Fruchtig"
+    ],
+    "pyramid": {
+      "top": [],
+      "heart": [],
+      "base": []
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/13251/ELS919337"
+    ]
+  },
+  {
+    "name": "Baby Joy - Parfüm für Babys",
+    "number": "59B",
+    "sex": "Kinder",
+    "class": "Normal",
+    "sizes": [
+      "30ml"
+    ],
+    "prices": [
+      "29,00€"
+    ],
+    "description": "Ein leichter und frischer Duft, der das Baby sanft umhüllt. Blumige Noten verbinden sich mit angenehmen Zitrusnoten, die dem Baby Ruhe und Gelassenheit schenken, aber auch für Mütter geeignet sind. Die langanhaltende Formel ist hypoallergen, frei von Parabenen und künstlichen Farbstoffen und somit sanft zur Kinderhaut. Der minimalistische und elegante Flakon ist nicht nur praktisch, sondern auch schön.",
+    "olfactory_group": [
+      "Blumig"
     ],
     "pyramid": {
       "top": [],
@@ -1414,7 +1888,7 @@
     ],
     "description": "Ein warmer, romantischer und unvergesslicher Duft. Er wurde aus den edelsten Essenzen hergestellt und zeichnet sich durch eine Vielzahl natürlicher Elemente in seinen Noten aus. Zusammen enthüllen sie eine märchenhafte Welt, einen Abend voller berauschender und köstlicher Düfte in einem prächtigen Palast.",
     "olfactory_group": [
-      "Holzig", "Moschus"
+      "Blumig", "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
@@ -1506,6 +1980,42 @@
     ]
   },
   {
+    "name": "Talisman",
+    "number": "64W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein orientalischer Duft, der zu einem abenteuerlichen und magischen Erlebnis einlädt, eine olfaktorische Reise zu den Düften und Farben Indiens.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Mandarinorange", "Orange", "Safran"
+      ],
+      "heart": [
+        "Osmanthus", "Tuberose"
+      ],
+      "base": [
+        "Ambra", "holzige Noten"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/14181/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9054/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9053/ELS919337"
+    ]
+  },
+  {
     "name": "Rock Soul",
     "number": "66M",
     "sex": "Herren",
@@ -1539,6 +2049,42 @@
       "https://www.chogangroupspa.com/product_referral/1467/ELS919337",
       "https://www.chogangroupspa.com/product_referral/9056/ELS919337",
       "https://www.chogangroupspa.com/product_referral/9055/ELS919337"
+    ]
+  },
+  {
+    "name": "Victoria",
+    "number": "67W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft, der eine göttliche Spur hinterlässt, für starke Frauen, für moderne Kleopatras. Er drückt Stolz, Weiblichkeit und Zartheit aus.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Ingwerblüte", "Jasmin", "Mandarinorange"
+      ],
+      "heart": [
+        "Meersalz", "Vanille"
+      ],
+      "base": [
+        "Ambergris", "Kaschmirholz", "Sandelholz"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/1490/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12396/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12391/ELS919337"
     ]
   },
   {
@@ -1611,6 +2157,78 @@
       "https://www.chogangroupspa.com/product_referral/1710/ELS919337",
       "https://www.chogangroupspa.com/product_referral/9058/ELS919337",
       "https://www.chogangroupspa.com/product_referral/9057/ELS919337"
+    ]
+  },
+  {
+    "name": "Pure Ego For Her",
+    "number": "70W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft mit den kontrastreichen, verführerischen und süßen Noten einer entschlossenen, lustvollen und leidenschaftlichen Frau, die es liebt, bewundert zu werden. Ein beständiger Duft, der beim Vorbeigehen eine deutliche Spur von Geheimnis und Verführung hinterlässt.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Litschi", "Mandarinorange", "Pfirsich"
+      ],
+      "heart": [
+        "Jasmin", "Lilie", "Maiglöckchen", "Pflaume"
+      ],
+      "base": [
+        "Ambra", "Moschus", "Vanille", "Vetiver"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/14211/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12441/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9059/ELS919337"
+    ]
+  },
+  {
+    "name": "Sublime For Her",
+    "number": "71W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Eine prachtvolle Mischung aus Blumen und Früchten für charismatische, raffinierte und faszinierende Frauen. Seine betörenden Akkorde zeugen von unwiderstehlicher Weiblichkeit.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Mandarinorange", "Passionsfrucht", "Pfirsich", "Zitrone"
+      ],
+      "heart": [
+        "Freesie", "Geißblatt", "Jasmin", "Magnolie", "Orangenblüte", "Pfingstrose", "Rose", "Wasserlilie"
+      ],
+      "base": [
+        "Ambra", "Patschuli", "Sandelholz", "Vanille", "Vetiver"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/1897/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9062/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9061/ELS919337"
     ]
   },
   {
@@ -1704,7 +2322,7 @@
     ],
     "pyramid": {
       "top": [
-        "Grüne Noten", "Hanf"
+        "grüne Noten", "Hanf"
       ],
       "heart": [
         "Harze", "holzige Noten", "Kaffee", "Tabakblüte"
@@ -1749,6 +2367,42 @@
     "links": [
       "https://www.chogangroupspa.com/product_referral/8425/ELS919337",
       "https://www.chogangroupspa.com/product_referral/1792/ELS919337"
+    ]
+  },
+  {
+    "name": "Deep Blue For Her",
+    "number": "76W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Dieser Duft vereint Bestandteile, die von der Erde und dem Meer inspiriert sind, und schafft ein Gefühl von unwiderstehlicher Frische.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Minze", "Zitrone"
+      ],
+      "heart": [
+        "Jasmin"
+      ],
+      "base": [
+        "brauner Zucker", "Ladanharz", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/14291/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9068/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9067/ELS919337"
     ]
   },
   {
@@ -1860,6 +2514,42 @@
     ]
   },
   {
+    "name": "Allure Éternelle",
+    "number": "81W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Dieses Parfüm bietet ein neues Dufterlebnis: ein explosiver und unwiderstehlicher Kontrast zwischen Duftnuancen von Schlagsahne, betörendem Jasmin und warmen Holznoten.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Aldehyde", "Ingwerblüte", "Tangerine"
+      ],
+      "heart": [
+        "Jasmin", "Orangenblüte"
+      ],
+      "base": [
+        "Benzoeharz", "holzige Noten", "Kaschmirholz", "Schlagsahne", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/2082/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9072/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12541/ELS919337"
+    ]
+  },
+  {
     "name": "Jeunesse",
     "number": "82W",
     "sex": "Damen",
@@ -1876,7 +2566,7 @@
     ],
     "description": "Ein femininer Duft, der die lebhaften Noten von rosa Pfeffer mit blumigen Akkorden von Jasmin und Rose sowie der zarten Süße von Panna Cotta vereint.",
     "olfactory_group": [
-      "Fruchtig"
+      "Blumig", "Fruchtig"
     ],
     "pyramid": {
       "top": [
@@ -1948,7 +2638,7 @@
     ],
     "description": "Dieser Duft verzaubert und überrascht mit blumigen und vanilleartigen Noten. Er ist perfekt für Frauen, die sich nicht mit herkömmlichen Parfüms zufriedengeben. die sich einen seltenen und kostbaren Duft wünschen und die immer ihr Bestes geben möchten.",
     "olfactory_group": [
-      "Chypre"
+      "Blumig", "Chypre"
     ],
     "pyramid": {
       "top": [
@@ -2037,6 +2727,42 @@
       "https://www.chogangroupspa.com/product_referral/2183/ELS919337",
       "https://www.chogangroupspa.com/product_referral/8899/ELS919337",
       "https://www.chogangroupspa.com/product_referral/12616/ELS919337"
+    ]
+  },
+  {
+    "name": "Midnight Man",
+    "number": "88M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Mit seiner sinnlichen und innovativen orientalischen Note ist dieser Duft kühn, charismatisch und magnetisch anziehend, Ausdruck eines neuen Modells von Männlichkeit. Die warmen, intensiven und vielfältigen Noten fangen den stürmischen und geheimnisvollen Charakter des Feuers ein, Symbol für Kraft und Energie.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Gewürze", "Rum", "Tabakblüte"
+      ],
+      "heart": [
+        "Iris", "Leder", "Tuberose"
+      ],
+      "base": [
+        "Benzoeharz", "Guajakholz", "Tonkabohne"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/2103/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9082/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9081/ELS919337"
     ]
   },
   {
@@ -2184,6 +2910,78 @@
     ]
   },
   {
+    "name": "The Muse",
+    "number": "96W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft mit unverwechselbarem Charakter – Ausdruck eines rebellischen Geistes, der Frauen ermutigt, ihre Identität zu zeigen und das innere Licht freizusetzen, das jede einzigartig macht. Ein olfaktorischer Appell, nicht aufzugeben und unbeirrt für Träume und Überzeugungen einzustehen.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Mandarinorange", "Pink Grapefruit", "schwarze Johannisbeere"
+      ],
+      "heart": [
+        "Birne", "Jasmin", "Maiglöckchen", "Orangenblüte", "rosa Pfeffer", "Tuberose", "Ylang-Ylang"
+      ],
+      "base": [
+        "Cashmeran", "Iris", "Moschus", "Sandelholz"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/3599/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12726/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9085/ELS919337"
+    ]
+  },
+  {
+    "name": "Vita",
+    "number": "97W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft, der moderne Weiblichkeit verkörpert – jung, mutig und voller Lebensfreude. Gewidmet einer neugierigen, leidenschaftlichen Frau, die den Augenblick liebt und jede Erfahrung mit Spontaneität und Entschlossenheit lebt. Ein opulenter, selbstbewusster Duft – so unvergesslich wie die Momente, die ihn begleiten.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Campari", "Rosmarin", "schwarze Johannisbeere"
+      ],
+      "heart": [
+        "Jasmin", "Mate", "Rhabarber"
+      ],
+      "base": [
+        "Ambroxan", "Sandelholz", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/3706/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9088/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9087/ELS919337"
+    ]
+  },
+  {
     "name": "Euphoria",
     "number": "98W",
     "sex": "Damen",
@@ -2200,7 +2998,7 @@
     ],
     "description": "Ein Bouquet, das ein einzigartiges Gefühl der Freude verströmt und ein olfaktorisches Abbild des Lichts erschafft. Ein Duft voller Nuancen und Facetten – lebendig, strahlend und voller Lebensfreude.",
     "olfactory_group": [
-      "Holzig", "Moschus"
+      "Blumig", "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
@@ -2272,7 +3070,7 @@
     ],
     "description": "Ein Duft, der sich auf der Haut mit der Zartheit der Rose, der sinnlichen Kraft von Gewürzen und der weichen Süße von Agarholz entfaltet. Ein Hauch von Vanille rundet die cremige Basisnote aus Ambra und Sandelholz sanft ab – dezent und niemals aufdringlich.",
     "olfactory_group": [
-      "Holzig", "Moschus"
+      "Blumig", "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
@@ -2374,7 +3172,7 @@
     ],
     "description": "Grün und strahlend wie die irische Landschaft, elegant wie der Anzug eines englischen Gentlemans. Der Geist dieses Duftes wird durch diese beiden Bilder verkörpert, die zwar gegensätzlich sind, aber perfekt zusammenpassen, um etwas Einzigartiges und Unvergessliches zu schaffen.",
     "olfactory_group": [
-      "Holzig", "Moschus"
+      "Blumig", "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
@@ -2391,6 +3189,39 @@
       "https://www.chogangroupspa.com/product_referral/4399/ELS919337",
       "https://www.chogangroupspa.com/product_referral/8893/ELS919337",
       "https://www.chogangroupspa.com/product_referral/8892/ELS919337"
+    ]
+  },
+  {
+    "name": "Pure Gold",
+    "number": "109W",
+    "sex": "Damen",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Ein edler, sinnlicher Duft, in dem sich die opulente Strahlkraft von Jasmin und Rose mit dem orientalischen Zauber von Vanille und Tonkabohne vereint. Jasmin verführt mit intensiven, umhüllenden Blütennoten, während die Rose ihre volle Kraft und Schönheit mit fast würzigen Nuancen entfaltet. Das Herz aus Vanille und Tonkabohne verführt mit süßer Tiefe, während die Basis mit warmen Noten von Ambra, französischem Labdanum und Patschuli sanft ausklingt.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Jasmin", "Rose"
+      ],
+      "heart": [
+        "Tonkabohne", "Vanille"
+      ],
+      "base": [
+        "Ambra", "Ladanharz", "Patschuli"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/13356/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/8476/ELS919337"
     ]
   },
   {
@@ -2427,6 +3258,39 @@
       "https://www.chogangroupspa.com/product_referral/14356/ELS919337",
       "https://www.chogangroupspa.com/product_referral/13301/ELS919337",
       "https://www.chogangroupspa.com/product_referral/13296/ELS919337"
+    ]
+  },
+  {
+    "name": "Ruby Love",
+    "number": "111U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Ein vielschichtiger Duft, in dem die Süße saftiger Kirschen auf die Tiefe von Likör und die markante Bittermandel trifft. In der Herznote verschmelzen süß-säuerliche Kirschen mit betörend-blumigen Nuancen von türkischer Rose und Jasmin. Die Basisnote ist warm, üppig, süß und würzig.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Schwarzkirsche", "Likör", "Mandel"
+      ],
+      "heart": [
+        "Jasmin", "Pflaume", "Rose", "Sauerkirsche"
+      ],
+      "base": [
+        "Benzoeharz", "Gewürznelken", "Patschuli", "Sandelholz", "Tonkabohne", "Vanille", "Vetiver", "Zeder", "Zimt"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/8005/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/4414/ELS919337"
     ]
   },
   {
@@ -2551,7 +3415,7 @@
     ],
     "description": "Ein sanfter, aber intensiver Duft für starke, ehrliche Frauen mit großen Träumen. Er ist den Führungspersönlichkeiten von morgen gewidmet, die ihre eigenen Grenzen herausfordern und sich neue Horizonte erschließen.",
     "olfactory_group": [
-      "Chypre"
+      "Blumig", "Chypre"
     ],
     "pyramid": {
       "top": [
@@ -2568,6 +3432,42 @@
       "https://www.chogangroupspa.com/product_referral/6289/ELS919337",
       "https://www.chogangroupspa.com/product_referral/9094/ELS919337",
       "https://www.chogangroupspa.com/product_referral/12781/ELS919337"
+    ]
+  },
+  {
+    "name": "Declare",
+    "number": "116W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft für Frauen, die Kühnheit, Unabhängigkeit und Unternehmungslust zu ihren Charaktereigenschaften zählen. Er eignet sich sowohl für den Alltag als auch für besondere Anlässe. Die blumig-fruchtigen Noten machen den Duft äußerst sinnlich.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Himbeere", "Mandarinorange", "Zitrone"
+      ],
+      "heart": [
+        "Ambra", "Gardenie", "Ingwerblüte", "Jasmin", "Orangenblüte", "Rose"
+      ],
+      "base": [
+        "Amberwood", "Benzoeharz", "Karamell", "Kardamom", "Kumarin", "Lakritz", "Milch", "Sandelholz", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/14366/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/8887/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/8886/ELS919337"
     ]
   },
   {
@@ -2604,6 +3504,39 @@
     ]
   },
   {
+    "name": "Scarlet Fire",
+    "number": "118U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Ein strahlender, komplexer und intensiver Duft, dessen Noten sich zu einer sinnlichen und reinen Harmonie vereinen: Perfekt für Liebhaberinnen und Liebhaber süßer und umhüllender Düfte. Der Duft verwöhnt die Haut mit blumigen, ambrierten Noten und einem Hauch von Holz. Eine poetische Alchimie, in der sich die Zartheit des Jasmins mit den mineralischen Nuancen von Ambergris und den holzigen Akkorden frisch geschnittener Zeder verbindet.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Jasmin", "Safran"
+      ],
+      "heart": [
+        "Ambergris", "Amberwood"
+      ],
+      "base": [
+        "Ambroxan", "Balsamtanne", "Eichenmoos", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/8006/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/13076/ELS919337"
+    ]
+  },
+  {
     "name": "Dark Affair",
     "number": "119W",
     "sex": "Damen",
@@ -2620,7 +3553,7 @@
     ],
     "description": "Dieser Duft ist den weltoffenen Frauen gewidmet, die weniger vorhersehbar sind und ihre geheimnisvolle Ausstrahlung zu einer erfolgreichen Waffe machen. Die unwiderstehliche Duftspur macht ihre Trägerin faszinierend – ohne dass sie ein Wort sagen muss.",
     "olfactory_group": [
-      "Chypre"
+      "Blumig", "Chypre"
     ],
     "pyramid": {
       "top": [
@@ -2637,6 +3570,42 @@
       "https://www.chogangroupspa.com/product_referral/6491/ELS919337",
       "https://www.chogangroupspa.com/product_referral/12816/ELS919337",
       "https://www.chogangroupspa.com/product_referral/12811/ELS919337"
+    ]
+  },
+  {
+    "name": "Secret Desire",
+    "number": "121W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Gewidmet den mutigsten Frauen, die den Tag lieben, aber keine Angst vor der Nacht haben. Sie lieben es, Regeln zu brechen, gegen den Strom zu schwimmen und dem Reiz des Verbotenen zu folgen.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Aldehyde", "Bergamotte", "Gewürze", "Mandarinorange", "Pfirsich", "wilde Erdbeere"
+      ],
+      "heart": [
+        "Iris", "Iriswurzel", "Jasmin", "Maiglöckchen", "Narzisse", "Rose", "Veilchen", "Ylang-Ylang"
+      ],
+      "base": [
+        "Ambra", "Benzoeharz", "Moschus", "Sandelholz", "Tonkabohne", "Vetiver"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/13836/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12846/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12841/ELS919337"
     ]
   },
   {
@@ -2690,7 +3659,7 @@
     ],
     "description": "Ein Duft voller Sinnlichkeit, der zarte, unschuldige Nuancen mit sinnlich-verführerischen Akkorden vereint. Er ist ideal für Frauen, die schüchtern und sinnlich zugleich ist – zurückhaltend, doch voller Anziehungskraft.",
     "olfactory_group": [
-      "Fruchtig"
+      "Blumig", "Fruchtig"
     ],
     "pyramid": {
       "top": [
@@ -2739,6 +3708,39 @@
     "links": [
       "https://www.chogangroupspa.com/product_referral/8427/ELS919337",
       "https://www.chogangroupspa.com/product_referral/7394/ELS919337"
+    ]
+  },
+  {
+    "name": "Lumière Dorée",
+    "number": "126U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Ein Duft, der das Bild entlegener, sonnenverwöhnter Inseln heraufbeschwört. Der Auftakt verbindet würzige Noten von Kardamom und Rosa Pfeffer mit der Frische von Bergamotte. Im Herzen entfaltet sich die sinnliche Blumigkeit von Jasmin, Tuberose und Ylang-Ylang. Die luxuriöse Basisnote besteht aus Benzoe, Tonkabohne, Ambra und Kokosnuss.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Kardamom", "Pistazie", "rosa Pfeffer"
+      ],
+      "heart": [
+        "Jasmin", "Tuberose", "Ylang-Ylang"
+      ],
+      "base": [
+        "Ambra", "Benzoeharz", "Kokosnuss", "Tonkabohne"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/8478/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/6767/ELS919337"
     ]
   },
   {
@@ -2808,6 +3810,114 @@
     ]
   },
   {
+    "name": "Chica Mala",
+    "number": "131W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "14,90€",
+      "25,50€",
+      "48,00€"
+    ],
+    "description": "Ein gewagter Duft, der kontrastreiche Elemente vereint und so einen verführerischen Hell-Dunkel-Effekt schafft. Er besticht durch die blumige Eleganz von Sambacjasmin und Iris sowie durch die berauschenden Noten von Tonkabohne und Ambra. Ein komplexer Duft, der die facettenreiche Persönlichkeit der modernen Frau widerspiegelt.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Kaffee", "Mandel", "Zitrone"
+      ],
+      "heart": [
+        "Iris", "Jasmin", "Orangenblüte", "Rose", "Tuberose"
+      ],
+      "base": [
+        "Ambra", "Kakaofrucht", "Kaschmirholz", "Moschus", "Patschuli", "Praline", "Sandelholz", "Tonkabohne", "Vanille", "Zimt", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/13881/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12891/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12886/ELS919337"
+    ]
+  },
+  {
+    "name": "My Rules",
+    "number": "132W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "13,90€",
+      "23,50€",
+      "45,00€"
+    ],
+    "description": "Ein Duft für neugierige, mutige Frauen, die nach ihren eigenen Regeln leben und dabei Kompromisse eingehen.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Orangenblüte"
+      ],
+      "heart": [
+        "Jasmin, Tuberose"
+      ],
+      "base": [
+        "Moschus", "Vanille", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/8040/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12906/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12896/ELS919337"
+    ]
+  },
+  {
+    "name": "Enigma",
+    "number": "133W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Parfüm für mutige Frauen mit einer einzigartigen Persönlichkeit, die sich über Konventionen hinwegsetzen und ihre eigene Komplexität umarmen. Dieser Duft bietet eine harmonische Kombination kontrastierender Elemente, die einen facettenreichen und faszinierenden Charakter widerspiegeln.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Birne", "Neroli"
+      ],
+      "heart": [
+        "Jasmin", "Moos", "Neroli-Essenz"
+      ],
+      "base": [
+        "Ambra", "Ambrofix", "Bourbonvanille", "Serenolide", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/13891/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12876/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/12871/ELS919337"
+    ]
+  },
+  {
     "name": "Mystic Forest",
     "number": "135U",
     "sex": "Unisex",
@@ -2860,7 +3970,7 @@
     ],
     "description": "Ein raffinierter und feiner, manchmal üppiger Duft. Die olfaktorische Intensität der Iris wird durch langanhaltende Lavendelnoten in der Kopfnote angekündigt. Die Herznote wird durch Ambrettesamen und eine süße Birnennote bereichert und mündet in eine Basisnote aus Zedernholz und Vetiver.",
     "olfactory_group": [
-      "Holzig", "Moschus"
+      "Blumig", "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
@@ -2943,6 +4053,39 @@
     "links": [
       "https://www.chogangroupspa.com/product_referral/8035/ELS919337",
       "https://www.chogangroupspa.com/product_referral/7676/ELS919337"
+    ]
+  },
+  {
+    "name": "Sahara Blush",
+    "number": "139U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "22,90€",
+      "65,00€"
+    ],
+    "description": "Ein frischer und zugleich intensiver Unisex-Duft, der zarte und raffinierte florale Akkorde mit der sinnlichen Intensität von Agarholz verbindet. Er zeichnet sich durch wunderbare Kontraste aus und erinnert an den Zauber ferner Oasen, die Reisende mit den orientalischen Noten edler Hölzer und eleganter Nuancen von Rose verführen.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Pfeffer", "Rose", "Safran"
+      ],
+      "heart": [
+        "Bulgarische Rose"
+      ],
+      "base": [
+        "Agarholz", "Ambergris"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/8472/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/7965/ELS919337"
     ]
   },
   {
@@ -3084,6 +4227,39 @@
     ]
   },
   {
+    "name": "Scarlet Flame",
+    "number": "146U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Ein raffinierter und faszinierender Unisex-Duft für ein elegantes Dufterlebnis. Eine blumige Duftkomposition, die die Haut wie mit schwerelosem Samt umhüllt und die Sinne mit einer perfekten Harmonie aus Blütenblättern und edlen Hölzern betört.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Lilie"
+      ],
+      "heart": [
+        "Iris", "Magnolie", "Osmanthus", "Ylang-Ylang"
+      ],
+      "base": [
+        "Georgywood"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/13356/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11486/ELS919337"
+    ]
+  },
+  {
     "name": "Dark Nectar",
     "number": "147M",
     "sex": "Herren",
@@ -3192,6 +4368,42 @@
     ]
   },
   {
+    "name": "To The Edge For Her",
+    "number": "151W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein markanter, warmer Duft, der mit Mandarine und Rosa Pfeffer sofort alle Blicke auf sich zieht. Auf das samtige Herz aus Pfirsich, Flieder und Geranie folgt eine ambrierte Basis mit ausgeprägt femininem Charakter.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Mandarinorange", "rosa Pfeffer"
+      ],
+      "heart": [
+        "Flieder", "Geranie", "Jasmin", "Pfirsich", "schwarze Johannisbeere"
+      ],
+      "base": [
+        "Ambra", "Moschus", "Patschuli", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/11188/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11058/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11053/ELS919337"
+    ]
+  },
+  {
     "name": "To The Edge For Him",
     "number": "152M",
     "sex": "Herren",
@@ -3228,6 +4440,42 @@
     ]
   },
   {
+    "name": "Rose Dust",
+    "number": "153W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein einzigartiger Duft, der mit der ganzen Kraft seiner Noten die Individualität jeder Frau zum Ausdruck bringt. Ein Duft mit nur einem Ziel: zugleich elegant und kühn zu sein Modern und alltagstauglich – perfekt für jede Gelegenheit.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Freesie", "Litschi", "Pfingstrose"
+      ],
+      "heart": [
+        "Magnolie", "Maiglöckchen", "Rose"
+      ],
+      "base": [
+        "Ambra", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/11148/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/10998/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/10993/ELS919337"
+    ]
+  },
+  {
     "name": "Liaison Rose",
     "number": "154W",
     "sex": "Damen",
@@ -3244,7 +4492,7 @@
     ],
     "description": "Ein lebendiger, frischer Duft, der jeder Frau das Gefühl gibt, geliebt zu werden, umgeben von einer Aura flüchtiger Zärtlichkeit. Eine Botschaft für Frauen, die auf der Suche nach einer neuen Definition von Liebe sind.",
     "olfactory_group": [
-      "Holzig"
+      "Blumig", "Holzig"
     ],
     "pyramid": {
       "top": [
@@ -3284,13 +4532,13 @@
     ],
     "pyramid": {
       "top": [
-        "Ananas", "Bergamotte", "Grüne Noten", "Kardamom", "Mandarinorange", "Papaya", "Zitrone"
+        "Ananas", "Bergamotte", "grüne Noten", "Kardamom", "Mandarinorange", "Papaya", "Zitrone"
       ],
       "heart": [
         "Freesie", "Iriswurzel", "Jasmin", "Maiglöckchen", "Muskat", "Rose", "Veilchen"
       ],
       "base": [
-        "Ambra", "Eichenmoos", "Grüne Noten", "Moschus", "Sandelholz", "Tee", "Zitronatzitrone"
+        "Ambra", "Eichenmoos", "grüne Noten", "Moschus", "Sandelholz", "Tee", "Zitronatzitrone"
       ]
     },
     "links": [
@@ -3316,7 +4564,7 @@
     ],
     "description": "Samtig, suggestiv, strahlend und süß, manchmal geheimnisvoll: – ein Duft, der das Licht heraufbeschwört und eine Hommage an die Frau von heute ist. Sie ist ewig und modern zugleich, eine Frau mit strahlender Aura. Ihre Gefühle erheben sie, ihr Duft verzaubert.",
     "olfactory_group": [
-      "Fruchtig"
+      "Blumig", "Fruchtig"
     ],
     "pyramid": {
       "top": [
@@ -3372,6 +4620,42 @@
     ]
   },
   {
+    "name": "Wild Bloom",
+    "number": "158W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein ausgesprochen femininer Duft mit kraftvollen, sinnlichen Noten. Die blumige Komposition aus Osmanthus, Rose und Pfingstrose wird in der Basisnote durch zarte Akzente von Sandelholz und Patschuli angenehm erwärmt. Diese warmen Nuancen vollenden das Bild einer starken und sinnlichen Frau.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Mandarinorange", "Pfingstrose", "Zitrusfrüchte"
+      ],
+      "heart": [
+        "Osmanthus", "Rose"
+      ],
+      "base": [
+        "Patschuli", "rosa Pfeffer", "Sandelholz"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/11163/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11028/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11023/ELS919337"
+    ]
+  },
+  {
     "name": "British Charm For Her",
     "number": "159W",
     "sex": "Damen",
@@ -3388,7 +4672,7 @@
     ],
     "description": "Dieser Duft verkörpert die britische Liebe zur Tradition ebenso wie den unverwechselbaren Charme Londons. Elegant, zeitlos und mit luxuriösen Nuancen passt er sich perfekt der Persönlichkeit seiner Trägerin an.",
     "olfactory_group": [
-      "Fruchtig"
+      "Blumig", "Fruchtig"
     ],
     "pyramid": {
       "top": [
@@ -3441,6 +4725,42 @@
       "https://www.chogangroupspa.com/product_referral/11118/ELS919337",
       "https://www.chogangroupspa.com/product_referral/10963/ELS919337",
       "https://www.chogangroupspa.com/product_referral/10953/ELS919337"
+    ]
+  },
+  {
+    "name": "Eternal Love For Her",
+    "number": "161W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Eternal Love For Her ist ein raffinierter, intensiver Damenduft, der romantische und zugleich mutige Frauen zelebriert. Die elegante, umhüllende Komposition wärmt die Haut und hinterlässt eine sinnliche und unvergessliche Duftspur.",
+    "olfactory_group": [
+      "Blumig"
+    ],
+    "pyramid": {
+      "top": [
+        "Ambra", "Bourbonvanille"
+      ],
+      "heart": [
+        "Jasmin"
+      ],
+      "base": [
+        "Benzoeharz"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/11456/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11486/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11481/ELS919337"
     ]
   }
 ]

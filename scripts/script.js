@@ -62,10 +62,11 @@ function render(list) {
 function createFilters(list) {
   const sexContainer = document.getElementById("filter-sex");
   const groupContainer = document.getElementById("filter-group");
+  const sizeContainer = document.getElementById("filter-size");
 
-  // Alle vorhandenen Werte sammeln (Sets verhindern Duplikate)
-  const sexes = [...new Set(list.map(p => p.sex))];
-  const groups = [...new Set(list.flatMap(p => p.olfactory_group))];
+  const sexes = [...new Set(list.map(p => p.sex))].sort();
+  const groups = [...new Set(list.flatMap(p => p.olfactory_group))].sort();
+  const sizes = [...new Set(list.flatMap(p => p.sizes))].sort();
 
   // Checkboxen für Geschlecht bauen
   sexContainer.innerHTML = sexes.map(s => `
@@ -75,9 +76,16 @@ function createFilters(list) {
   `).join("");
 
   // Checkboxen für Duftfamilien bauen
-  groupContainer.innerHTML = groups.sort().map(g => `
+  groupContainer.innerHTML = groups.map(g => `
     <label>
       <input type="checkbox" value="${g}" data-group="group" onchange="filter()"> ${g}
+    </label>
+  `).join("");
+  
+  // Checkboxen für Duftfamilien bauen
+  sizeContainer.innerHTML = sizes.map(s => `
+    <label>
+      <input type="checkbox" value="${s}" data-group="size" onchange="filter()"> ${s}
     </label>
   `).join("");
 }
@@ -87,7 +95,8 @@ function filter() {
 
   const selected = {
     sex: [],
-    group: []
+    group: [],
+    size: []
   };
 
   inputs.forEach(i => {
@@ -98,10 +107,10 @@ function filter() {
 
   const filtered = perfumes.filter(p => {
     const sexMatch = selected.sex.length === 0 || selected.sex.includes(p.sex);
-    const groupMatch = selected.group.length === 0 ||
-      selected.group.some(g => p.olfactory_group.includes(g));
+    const groupMatch = selected.group.length === 0 || selected.group.some(g => p.olfactory_group.includes(g));
+    const sizeMatch = selected.size.length === 0 || selected.size.some(s => p.sizes.includes(s));
 
-    return sexMatch && groupMatch;
+    return sexMatch && groupMatch && sizeMatch;
   });
 
   render(filtered);
@@ -118,6 +127,7 @@ function updateDisabledOptions(filtered) {
     const possible = filtered.some(p => {
       if (group === "sex") return p.sex === input.value;
       if (group === "group") return p.olfactory_group.includes(input.value);
+      if (group === "size") return p.sizes.includes(input.value);
     });
 
     input.disabled = !possible && !input.checked;
@@ -132,7 +142,6 @@ function resetFilter() {
   });
   render(perfumes);
 }
-
 // START
 document.addEventListener("DOMContentLoaded", () => {
   loadPerfumes();

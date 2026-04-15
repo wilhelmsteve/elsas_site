@@ -12,7 +12,7 @@
     ],
     "description": "Inspiriert vom griechischen Gott der Sonne und der Musik, ist Apollo by MΨTΟLOGIK ein Herrenduft, der Vitalität, Schönheit und Wissen zelebriert. Die strahlende Energie des Gottes spiegelt sich in jeder Note der Duftkomposition wider. Die zitrisch-aromatische Kopfnote verkörpert die lebendige und strahlende Essenz des Gottes. Das Herz des Duftes enthüllt Noten von Weihrauch, Tabakblüte und Myrrhe, die an die Prophezeiungen erinnern, die von der Gottheit inspiriert wurden. Die warme Basisnote spiegelt die Urkraft der Sonne wider, die Quelle des Lebens und der Inspiration.",
     "olfactory_group": [
-      "Fougère"
+      "Fougère", "Holzig"
     ],
     "pyramid": {
       "top": [
@@ -30,6 +30,36 @@
     ]
   },
   {
+    "name": "Artemide",
+    "number": "ARTEMIDE",
+    "sex": "Damen",
+    "class": "Mytologik",
+    "sizes": [
+      "100ml"
+    ],
+    "prices": [
+      "299,00€"
+    ],
+    "description": "Inspiriert von der griechischen Göttin der Jagd und des Waldes, verkörpert der Duft das Bild einer freien Weiblichkeit. Artemide by MΨTΟLOGIK ist ein Damenduft, der sich den Konventionen entzieht und für die explosive Kraft der Emanzipation steht. Der Duft startet mit krautigen und zitrischen Noten, die an die unberührten Wälder erinnern, die der Göttin so lieb sind. Die blumig-ledrige Herznote erinnert an ihre Doppelnatur als Jägerin und Beschützerin. Die holzige und moschusartige Basisnote symbolisiert ihre enge Verbindung zur Erde.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Krautige Noten", "Mandarinorange"
+      ],
+      "heart": [
+        "Gewürznelken", "Jasmin", "Suede-Akkord"
+      ],
+      "base": [
+        "Ambra", "Birke", "Eichenmoos", "Guajakholz", "Patschuli", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/9953/ELS919337"
+    ]
+  },
+  {
     "name": "Ermes",
     "number": "ERMES",
     "sex": "Herren",
@@ -42,7 +72,7 @@
     ],
     "description": "Inspiriert von dem faszinierenden griechischen Götterboten und Schutzgott der Reisenden, verkörpert dieser Duft List und Schnelligkeit. Ermes by MΨTΟLOGIK ist ein evokativer Herrenduft, der an geflüsterte Geheimnisse und abenteuerliche Reisen erinnert. Der Duft beginnt mit einer leicht prickelnden Kopfnote aus zitrischen Akkorden und einer exotischen Note von Papaya. Die komplexe und fesselnde Herznote ist eine Hommage an den Einfallsreichtum des Gottes, während die erdige und moschusartige Basisnote Bilder von fernen, noch unbekannten Orten heraufbeschwört.",
     "olfactory_group": [
-      "Würzig"
+      "Holzig", "Würzig"
     ],
     "pyramid": {
       "top": [
@@ -87,6 +117,36 @@
     },
     "links": [
       "https://www.chogangroupspa.com/product_referral/9943/ELS919337"
+    ]
+  },
+  {
+    "name": "Zeus",
+    "number": "ZEUS",
+    "sex": "Herren",
+    "class": "Mytologik",
+    "sizes": [
+      "100ml"
+    ],
+    "prices": [
+      "299,00€"
+    ],
+    "description": "Inspiriert vom mächtigen und charismatischen griechischen Gott, Herrscher des Olymps, ist Zeus by MΨTΟLOGIK ein intensiver Herrenduft, dessen Nuancen die Kraft des Donners heraufbeschwören und den Träger in einen königlichen Mantel hüllen. Warmer Likör und lebhafte Gewürze in der Kopfnote beschwören die Aura der Autorität und den leidenschaftlichen Charakter des Gottes herauf. Die betäubende, reichhaltige Herznote aus Tabak spiegelt seine kraftvolle Essenz wider. Beständiges Patschuli besiegelt die Duftkomposition wie ein göttliches Urteil.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Eukalyptusblüte", "Kardamom", "Orange", "Rum", "Zimt", "Zitrone"
+      ],
+      "heart": [
+        "aquatische Noten", "Geranie", "Tabakblüte", "Veilchenblatt"
+      ],
+      "base": [
+        "Patschuli", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/9933/ELS919337"
     ]
   },
   {
@@ -162,7 +222,7 @@
     ],
     "description": "Mystère ist ein Herrenparfüm, das durch seine Kontraste herausfordert, egal wie ein Rätsel, das es zu lösen gilt, ein Duft, der den Träger in eine geheimnisvolle Aura hüllt. Ein überraschender Duft, der dazu einlädt, seine Geheimnisse zu entdecken: Der Auftakt verbindet die Lebendigkeit von Zitrusfrüchten mit der Intensität von Lavendel; Die Herznote verbindet die Süße von Früchten mit der Würze von Kardamom; Die Basisnote schließlich enthüllt einen zweifachen Duft, der zugleich süß und sinnlich ist.",
     "olfactory_group": [
-      "Würzig"
+      "Holzig", "Würzig"
     ],
     "pyramid": {
       "top": [
@@ -192,7 +252,7 @@
     ],
     "description": "Séduction ist ein Damenparfüm, das die verschiedenen Momente der Verführung in Szene setzt. Die Kopfnote erinnert an die Faszination des Anfangs, eine verträumte und absolute Phase, die durch die umhüllende Süße saftiger Früchte perfekt verkörpert wird. Die holzige und magnetische Herznote repräsentiert die Phase der wahren Anziehung, die reif, bewusst und frech ist. Vanille- und Moschusakkorde lassen die Sinne schließlich im Strudel der Verführung völlig versinken.",
     "olfactory_group": [
-      "Fruchtig"
+      "Fruchtig", "Holzig"
     ],
     "pyramid": {
       "top": [
@@ -207,6 +267,42 @@
     },
     "links": [
       "https://www.chogangroupspa.com/product_referral/7907/ELS919337"
+    ]
+  },
+  {
+    "name": "Prestige For Him",
+    "number": "01M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Der humorvolle, sinnliche Geist des Gentlemans in einem einzigartigen Parfüm. Frische Noten, aromatische und würzige Akkorde, sowie Nuancen von saftigen Früchten mischen sich mit blumigen Noten und warmen Hölzern. Süßes Leder bildet die Basisnote.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Mandarinorange", "Minze", "Pink Grapefruit"
+      ],
+      "heart": [
+        "Gewürze", "Rose", "Zimt"
+      ],
+      "base": [
+        "Ambra", "holzige Noten", "Leder", "Patschuli"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/1089/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11701/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11696/ELS919337"
     ]
   },
   {
@@ -298,7 +394,7 @@
     ],
     "description": "Ein Duft, der moderne Eleganz verkörpert und den galanten, selbstbewussten Mann anspricht, der sich nichts zu beweisen braucht. Ein holzig-würziger Duft mit einem Kopfakkord aus Grapefruit und Koriander.",
     "olfactory_group": [
-      "Würzig"
+      "Holzig", "Würzig"
     ],
     "pyramid": {
       "top": [
@@ -390,6 +486,42 @@
     ]
   },
   {
+    "name": "Stranger",
+    "number": "10W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft, der eine geheimnisvolle Aura verströmt: ein magisches Elixier, das Energie und Sinnlichkeit ausstrahlt.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Jasmin"
+      ],
+      "heart": [
+        "holzige Noten"
+      ],
+      "base": [
+        "Weißer Ambra"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/1134/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11796/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11786/ELS919337"
+    ]
+  },
+  {
     "name": "Aqua Soul For Her",
     "number": "11W",
     "sex": "Damen",
@@ -462,6 +594,42 @@
     ]
   },
   {
+    "name": "Urbe",
+    "number": "15M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft, inspiriert von ewiger Schönheit, der verzaubert und immer wieder neue Emotionen weckt. Warm, sinnlich, geheimnisvoll.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Basilikum", "Bergamotte", "Galbanharz", "Pink Grapefruit"
+      ],
+      "heart": [
+        "Heliotrop", "Jasmin", "Kiefernrinde", "Wacholder"
+      ],
+      "base": [
+        "Benzoeharz", "Patschuli", "Sandelholz", "Zitronatzitrone"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/1035/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9026/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9025/ELS919337"
+    ]
+  },
+  {
     "name": "Sailor",
     "number": "16M",
     "sex": "Herren",
@@ -514,7 +682,7 @@
     ],
     "description": "Die glühende Frische der Kopfnote entfaltet sich kraftvoll mit Basilikumknospen, Bergamotte und einem Hauch von Grapefruit. Die blumige Herznote enthüllt ein reiches Bouquet von Jasmin, Wacholder und Heliotrop, während die Basisnote die absolute Kraft der Leidenschaft, Sinnlichkeit und Magie von Patchouli, Sandel- und Zedernholz bewahrt.",
     "olfactory_group": [
-      "Moschus"
+      "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
@@ -694,7 +862,7 @@
     ],
     "description": "Der Moschus in der Herznote macht den Duft besonders langanhaltend und mildert die Süße von Orangenblüte und Vanille zu einem umhüllenden, raffinierten und einzigartigen Duft.",
     "olfactory_group": [
-      "Moschus"
+      "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
@@ -766,7 +934,7 @@
     ],
     "description": "Die perfekte Kombination aus Kraft und Frische, die eine einzigartige Symphonie ergibt. Ein Duft, der dich in den fernen Orient entführt, um dich plötzlich mitten in eine Metropole zu versetzen, in der das Rascheln der eleganten Anzüge der Geschäftswelt den Takt angibt.",
     "olfactory_group": [
-      "Würzig"
+      "Holzig", "Würzig"
     ],
     "pyramid": {
       "top": [
@@ -855,6 +1023,42 @@
       "https://www.chogangroupspa.com/product_referral/1039/ELS919337",
       "https://www.chogangroupspa.com/product_referral/12096/ELS919337",
       "https://www.chogangroupspa.com/product_referral/8761/ELS919337"
+    ]
+  },
+  {
+    "name": "Gentleman",
+    "number": "37M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein Duft, der die Welt der Herrendüfte neu definiert. Der Duft für den anspruchsvollen, entschlossenen und kreativen Mann. Die frischen und spritzigen Duftnoten verleihen dem Träger Modernität und Charakter.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Birne", "Lotus", "Veilchenblatt"
+      ],
+      "heart": [
+        "Ambra", "holzige Noten", "Kaschmirholz", "Nagarmotha", "Sandelholz", "Vetiver"
+      ],
+      "base": [
+        "Benzoeharz", "Honig", "Moschus", "Tonkabohne"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/1040/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9038/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9037/ELS919337"
     ]
   },
   {
@@ -1027,7 +1231,7 @@
   },
   {
     "name": "Sublime For Him",
-    "number": "52M",
+    "number": "48M",
     "sex": "Herren",
     "class": "Normal",
     "sizes": [
@@ -1150,7 +1354,7 @@
     ],
     "description": "Ein verspielter und raffinierter Duft, der an die modernsten und auffälligsten Schmuckstücke erinnert, sowie an die farbenfrohen und duftenden Noten, aus denen sich seine Duftpyramide zusammensetzt: eine wahre Sinnesreise, von den Zitrusnoten in der Kopfnote über die unverwechselbare Rose in der Herznote bis hin zur raffinierten holzigen Basisnote.",
     "olfactory_group": [
-      "Moschus"
+      "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
@@ -1210,7 +1414,7 @@
     ],
     "description": "Ein warmer, romantischer und unvergesslicher Duft. Er wurde aus den edelsten Essenzen hergestellt und zeichnet sich durch eine Vielzahl natürlicher Elemente in seinen Noten aus. Zusammen enthüllen sie eine märchenhafte Welt, einen Abend voller berauschender und köstlicher Düfte in einem prächtigen Palast.",
     "olfactory_group": [
-      "Moschus"
+      "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
@@ -1299,6 +1503,42 @@
       "https://www.chogangroupspa.com/product_referral/1475/ELS919337",
       "https://www.chogangroupspa.com/product_referral/9052/ELS919337",
       "https://www.chogangroupspa.com/product_referral/12361/ELS919337"
+    ]
+  },
+  {
+    "name": "Rock Soul",
+    "number": "66M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Der Duft strahlt Geheimnis und eine zeitlose Energie aus. Ein unnachahmliches Statement von Individualität und Verführung, die Essenz einer sehr unabhängigen Person, die keine Angst hat, ihre Einzigartigkeit zu behaupten.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Apfel", "Bergamotte", "Tee", "Zimt"
+      ],
+      "heart": [
+        "Davana", "Hibiskus", "Jasmin"
+      ],
+      "base": [
+        "Ambra", "Leder", "Patschuli", "Sandelholz", "Weihrauch Olibanum"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/1467/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9056/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9055/ELS919337"
     ]
   },
   {
@@ -1410,6 +1650,42 @@
     ]
   },
   {
+    "name": "The Summit",
+    "number": "73U",
+    "sex": "Unisex",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "14,90€",
+      "25,50€",
+      "48,00€"
+    ],
+    "description": "Die Wärme der holzigen Noten verbindet sich mit der Frische der Zitrusnoten und der tiefen Sinnlichkeit der Moschusnoten zu einem Duft, der Dynamik, den Wunsch nach Herausforderung und einen starken Charakter ausdrückt.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Pink Grapefruit", "Zitrone"
+      ],
+      "heart": [
+        "Sandelholz"
+      ],
+      "base": [
+        "Ambergris", "Moschus", "Zeder"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/2124/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9066/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9065/ELS919337"
+    ]
+  },
+  {
     "name": "Essence Noire",
     "number": "74M",
     "sex": "Herren",
@@ -1473,6 +1749,42 @@
     "links": [
       "https://www.chogangroupspa.com/product_referral/8425/ELS919337",
       "https://www.chogangroupspa.com/product_referral/1792/ELS919337"
+    ]
+  },
+  {
+    "name": "Extreme Purple",
+    "number": "78M",
+    "sex": "Herren",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein maskuliner, intensiver und provokativer Duft, ideal für den starken Mann. Diese Charakterzüge spiegeln sich in der Kombination von frischen und würzigen Noten wie Minze, Pfeffer und Moschus wider.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Ambra", "Minze"
+      ],
+      "heart": [
+        "Gewürze", "Pfeffer", "Vetiver"
+      ],
+      "base": [
+        "Eichenmoos", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/1885/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9070/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/9069/ELS919337"
     ]
   },
   {
@@ -1888,7 +2200,7 @@
     ],
     "description": "Ein Bouquet, das ein einzigartiges Gefühl der Freude verströmt und ein olfaktorisches Abbild des Lichts erschafft. Ein Duft voller Nuancen und Facetten – lebendig, strahlend und voller Lebensfreude.",
     "olfactory_group": [
-      "Moschus"
+      "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
@@ -1960,7 +2272,7 @@
     ],
     "description": "Ein Duft, der sich auf der Haut mit der Zartheit der Rose, der sinnlichen Kraft von Gewürzen und der weichen Süße von Agarholz entfaltet. Ein Hauch von Vanille rundet die cremige Basisnote aus Ambra und Sandelholz sanft ab – dezent und niemals aufdringlich.",
     "olfactory_group": [
-      "Moschus"
+      "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
@@ -1977,6 +2289,39 @@
       "https://www.chogangroupspa.com/product_referral/3640/ELS919337",
       "https://www.chogangroupspa.com/product_referral/9092/ELS919337",
       "https://www.chogangroupspa.com/product_referral/9091/ELS919337"
+    ]
+  },
+  {
+    "name": "Soft Rays",
+    "number": "102U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Der Amber-Akkord, die wahre Essenz der orientalischen Duftfamilie, wird in diesem Duft neu interpretiert. Wie ein warmer Hauch aus dem Orient entfaltet das goldgelbe Ylang-Ylang seine exotische Kraft auf einem sinnlichen Amber-Akkord aus Vanille und Ladanharz. Der Duft entwickelt sich weiter mit der Cremigkeit von Sandelholz, das von einem zarten Schleier süßer, rauchiger Noten durchzogen ist. Die Basisnote ist weich und anhaltend, geprägt von Harzen und ambrierten Hölzern.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Ladanharz", "Vanille", "Ylang-Ylang"
+      ],
+      "heart": [
+        "Koriander", "Pfeffer", "Sandelholz", "Smoke"
+      ],
+      "base": [
+        "Agarholz", "Amberwood", "Benzoeharz", "Myrrhe", "Patschuli", "somalischer Opopanax", "Tonkabohne", "Weihrauch Olibanum", "Zimt"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/8479/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/3644/ELS919337"
     ]
   },
   {
@@ -2029,7 +2374,7 @@
     ],
     "description": "Grün und strahlend wie die irische Landschaft, elegant wie der Anzug eines englischen Gentlemans. Der Geist dieses Duftes wird durch diese beiden Bilder verkörpert, die zwar gegensätzlich sind, aber perfekt zusammenpassen, um etwas Einzigartiges und Unvergessliches zu schaffen.",
     "olfactory_group": [
-      "Moschus"
+      "Holzig", "Moschus"
     ],
     "pyramid": {
       "top": [
@@ -2151,6 +2496,42 @@
       "https://www.chogangroupspa.com/product_referral/4403/ELS919337",
       "https://www.chogangroupspa.com/product_referral/9112/ELS919337",
       "https://www.chogangroupspa.com/product_referral/13036/ELS919337"
+    ]
+  },
+  {
+    "name": "Desert Whisper",
+    "number": "114U",
+    "sex": "Unisex",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "14,90€",
+      "25,50€",
+      "48,00€"
+    ],
+    "description": "Ein Duft, der in die Ferne entführt, irgendwo zwischen orientalischen Parfüms und gewundenen Dünen. Eine seltene und nuancierte Essenz, die einen auf eine Reise mitnimmt, bei der die Kraft und Stärke des Agarholzes deutlich hervortreten.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Himbeere", "Zitrone"
+      ],
+      "heart": [
+        "Geranie", "Jasmin", "Rose", "Safran", "Zimt"
+      ],
+      "base": [
+        "Agarholz", "Ambra", "Moschus", "Nagarmotha", "Sandelholz", "Skin", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/6279/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/8780/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/8779/ELS919337"
     ]
   },
   {
@@ -2361,6 +2742,39 @@
     ]
   },
   {
+    "name": "Agar Forest",
+    "number": "127U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Ein seltener und exotischer Duft, geprägt vom kostbaren Aroma des Agarholzes (Oud). Die Kopfnote eröffnet mit würzigem Szechuanpfeffer, Kardamom und warmen Holznoten. Im Herzen stehen Agarholz, Sandelholz und Vetiver im Mittelpunkt. Der unwiderstehliche Ausklang vereint süße Noten von Vanille und Tonkabohne mit der sinnlichen Tiefe von Ambra.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Kardamom", "Szechuanpfeffer"
+      ],
+      "heart": [
+        "Agarholz", "brasilianisches Rosenholz", "Sandelholz", "Vetiver"
+      ],
+      "base": [
+        "Ambra", "Tonkabohne", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/8473/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/6765/ELS919337"
+    ]
+  },
+  {
     "name": "Oceanic Pulse",
     "number": "130U",
     "sex": "Unisex",
@@ -2496,6 +2910,39 @@
     "links": [
       "https://www.chogangroupspa.com/product_referral/13911/ELS919337",
       "https://www.chogangroupspa.com/product_referral/13141/ELS919337"
+    ]
+  },
+  {
+    "name": "Woodland",
+    "number": "138U",
+    "sex": "Unisex",
+    "class": "Luxus",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "50ml"
+    ],
+    "prices": [
+      "19,90€",
+      "52,00€"
+    ],
+    "description": "Ein betäubender, sinnlicher Unisex-Duft, geprägt von den süßen und anziehenden Noten von Sandelholz. Die holzigen, amberartigen und blumigen Akkorde kreieren einen verführerischen Duft, der bei jedem Sprühstoß Charme und Mystik ausstrahlt.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Pflaume", "Veilchen"
+      ],
+      "heart": [
+        "Kaschmirholz", "Sandelholz", "Weißer Ambra"
+      ],
+      "base": [
+        "Ambergris", "Moschus", "Vanille"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/8035/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/7676/ELS919337"
     ]
   },
   {
@@ -2653,7 +3100,7 @@
     ],
     "description": "Ein intensiver, magnetischer Herrenduft, der Männern mit starken, charismatischen Persönlichkeiten gewidmet ist. Der rauchig-warme Auftakt geht über in ein harziges Herz und ruht schließlich auf einer kostbaren, beständigen Basis. Er wurde für Männer kreiert, die aus der Masse herausstechen möchten – mit einer Duftspur voller zeitloser Eleganz und unwiderstehlicher Ausstrahlung.",
     "olfactory_group": [
-      "Aromatisch"
+      "Aromatisch", "Holzig"
     ],
     "pyramid": {
       "top": [
@@ -2761,7 +3208,7 @@
     ],
     "description": "Ein verführerische und sinnliche Duft für den selbstbewussten, unkonventionellen Mann von heute – sexy, jung und maskulin.",
     "olfactory_group": [
-      "Aromatisch"
+      "Aromatisch", "Holzig"
     ],
     "pyramid": {
       "top": [
@@ -2778,6 +3225,42 @@
       "https://www.chogangroupspa.com/product_referral/11178/ELS919337",
       "https://www.chogangroupspa.com/product_referral/11043/ELS919337",
       "https://www.chogangroupspa.com/product_referral/11038/ELS919337"
+    ]
+  },
+  {
+    "name": "Liaison Rose",
+    "number": "154W",
+    "sex": "Damen",
+    "class": "Normal",
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "11,90€",
+      "18,00€",
+      "35,00€"
+    ],
+    "description": "Ein lebendiger, frischer Duft, der jeder Frau das Gefühl gibt, geliebt zu werden, umgeben von einer Aura flüchtiger Zärtlichkeit. Eine Botschaft für Frauen, die auf der Suche nach einer neuen Definition von Liebe sind.",
+    "olfactory_group": [
+      "Holzig"
+    ],
+    "pyramid": {
+      "top": [
+        "Orangenblüte", "rosa Pfeffer"
+      ],
+      "heart": [
+        "Flieder", "Glyzinienblüte", "Heliotrop", "Hyazinthe", "Iris"
+      ],
+      "base": [
+        "Moschus", "pudrige Noten", "Reisblatt"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/11168/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11013/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/11008/ELS919337"
     ]
   },
   {

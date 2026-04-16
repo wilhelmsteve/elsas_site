@@ -1,89 +1,86 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-<meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Elsas Beautykompass</title>
-
-<!-- CSS -->
-<link rel="stylesheet" href="styles/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elsas Beautykompass</title>
+    
+    <link rel="stylesheet" href="styles/style.css">
 </head>
 
 <body>
 
-<div class="header">Elsas Beautykompass ✨</div>
+    <header class="header">
+        Elsas Beautykompass ✨
+    </header>
 
-<div class="navbar">
-  <button onclick="showPage('home')">Startseite</button>
-  <button onclick="showPage('finder')">Parfümfinder</button>
-</div>
+    <nav class="navbar">
+        <button onclick="showPage('home')">Startseite</button>
+        <button onclick="showPage('finder')">Parfümfinder</button>
+    </nav>
 
-<div class="content">
+    <main class="content">
 
-<!-- STARTSEITE -->
-<div id="home">
-  <div class="card">
-    <h2>Willkommen 💖</h2>
-    <p>
-      Willkommen auf meiner Seite „Elsas Beautykompass“!  
-      Hier helfe ich dir, den perfekten Duft für dich zu finden.
-    </p>
+        <section id="home">
+            <div class="card">
+                <h2>Willkommen 💖</h2>
+                <p>
+                    Willkommen auf meiner Seite „Elsas Beautykompass“!<br>
+                    Hier helfe ich dir, den perfekten Duft für dich zu finden.
+                </p>
 
-    <!-- DEIN BILD -->
-    <img src="resources/elsa.jpg" class="hero-img">
+                <img src="resources/elsa.jpg" alt="Elsa" class="hero-img">
 
-    <h3>Über mich</h3>
-    <p>
-      Ich liebe Düfte und alles rund um Beauty.  
-      Mein Ziel ist es, dir Orientierung zu geben und dir zu helfen,
-      deinen persönlichen Lieblingsduft zu entdecken.
-    </p>
-  </div>
-</div>
+                <h3>Über mich</h3>
+                <p>
+                    Ich liebe Düfte und alles rund um Beauty. Mein Ziel ist es, dir Orientierung 
+                    zu geben und dir zu helfen, deinen persönlichen Lieblingsduft zu entdecken.
+                </p>
+            </div>
+        </section>
 
-<!-- PARFÜMFINDER -->
-<div id="finder" style="display:none;">
-  <div class="card">
-    <h2>Finde jetzt deinen passenden Duft!</h2>
-    
-    <div class="search-wrapper">
-      <span class="search-icon">🔍</span>
-      <input type="text" id="search-input" placeholder="Name oder Nummer..." oninput="filter()">
-      <button id="clear-search" onclick="clearSearchInput()">×</button>
+        <section id="finder" style="display:none;">
+            <div class="card">
+                <h2>Finde jetzt deinen passenden Duft!</h2>
+                
+                <div class="search-wrapper">
+                    <span class="search-icon">🔍</span>
+                    <input type="text" id="search-input" placeholder="Name oder Nummer..." oninput="filter()">
+                    <button id="clear-search" onclick="clearSearchInput()" title="Suche leeren">×</button>
+                </div>
+            </div>
+
+            <aside class="filters">
+                <h3>Geschlecht</h3>
+                <div id="filter-sex" class="filter-group-container"></div>
+                
+                <h3>Duftfamilie</h3>
+                <div id="filter-group" class="filter-group-container"></div>
+                
+                <h3>Parfümgröße</h3>
+                <div id="filter-size" class="filter-group-container"></div>
+                
+                <button class="reset" onclick="resetFilter()">Alle Filter zurücksetzen</button>
+            </aside>
+
+            <div id="counter"></div>
+            
+            <div id="results"></div>
+        </section>
+
+    </main>
+
+    <div id="perfume-modal" class="modal" aria-hidden="true">
+        <div class="modal-content">
+            <span class="close-modal" onclick="closeModal()" title="Schließen">&times;</span>
+            <div id="modal-body">
+                </div>
+        </div>
     </div>
-    
-  </div>
 
-  <div class="filters">
-    <h3>Geschlecht</h3>
-    <div id="filter-sex"></div>
-    
-    <h3>Duftfamilie</h3>
-    <div id="filter-group"></div>
-    
-    <h3>Parfümgröße</h3>
-    <div id="filter-size"></div>
-    
-    <button class="reset" onclick="resetFilter()">Zurücksetzen</button>
-  </div>
+    <button id="back-to-top" onclick="scrollToTop()" title="Nach oben">↑</button>
 
-  <div id="counter"></div>
-  
-  <div id="results"></div>
-
-</div>
-  
-<div id="perfume-modal" class="modal">
-  <div class="modal-content">
-    <span class="close-modal" onclick="closeModal()">&times;</span>
-    <div id="modal-body">
-      </div>
-  </div>
-</div>
-  
-<button id="back-to-top" onclick="scrollToTop()">↑</button>
-  
-<!-- JAVASCRIPT -->
-<script src="scripts/script.js"></script>
+    <script src="scripts/script.js"></script>
 
 </body>
 </html>

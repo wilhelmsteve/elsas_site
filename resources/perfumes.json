@@ -3,7 +3,9 @@
     "name": "Afrodite",
     "number": "AFRODITE",
     "sex": "Damen",
-    "class": "Mytologik",
+    "classes": [
+      "Mytologik"
+    ],
     "sizes": [
       "100ml"
     ],
@@ -12,17 +14,29 @@
     ],
     "description": "Inspiriert von der griechischen Göttin der Liebe und Schönheit, verkörpert dieser Duft die Kraft des Begehrens und die Macht, das Schicksal von Göttern und Menschen zu beeinflussen. Afrodite by MΨTΟLOGIK ist ein Damenduft, der eine Aura göttlicher Sinnlichkeit ausstrahlt. Die fruchtig-köstliche Kopfnote erinnert an die sinnliche Süße der Lust. In der Herznote dominieren elegante blumige Akkorde, die übermenschliche Schönheit zelebrieren. Die warme und verlockende Basisnote erzählt von der unwiderstehlichen Anziehungskraft der Leidenschaft.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Kakaobutter", "Haselnuss-Kakao-Aufstrich", "Kirsche", "schwarze Johannisbeere"
+        "Kakaobutter",
+        "Haselnuss-Kakao-Aufstrich",
+        "Kirsche",
+        "schwarze Johannisbeere"
       ],
       "heart": [
-        "Jasmin", "rosa Pfeffer", "Rose", "Tuberose", "Zimt"
+        "Jasmin",
+        "rosa Pfeffer",
+        "Rose",
+        "Tuberose",
+        "Zimt"
       ],
       "base": [
-        "Ambra", "Moschus", "Patschuli", "Sandelholz", "Vanille"
+        "Ambra",
+        "Moschus",
+        "Patschuli",
+        "Sandelholz",
+        "Vanille"
       ]
     },
     "links": [
@@ -33,7 +47,9 @@
     "name": "Apollo",
     "number": "APOLLO",
     "sex": "Herren",
-    "class": "Mytologik",
+    "classes": [
+      "Mytologik"
+    ],
     "sizes": [
       "100ml"
     ],
@@ -42,17 +58,33 @@
     ],
     "description": "Inspiriert vom griechischen Gott der Sonne und der Musik, ist Apollo by MΨTΟLOGIK ein Herrenduft, der Vitalität, Schönheit und Wissen zelebriert. Die strahlende Energie des Gottes spiegelt sich in jeder Note der Duftkomposition wider. Die zitrisch-aromatische Kopfnote verkörpert die lebendige und strahlende Essenz des Gottes. Das Herz des Duftes enthüllt Noten von Weihrauch, Tabakblüte und Myrrhe, die an die Prophezeiungen erinnern, die von der Gottheit inspiriert wurden. Die warme Basisnote spiegelt die Urkraft der Sonne wider, die Quelle des Lebens und der Inspiration.",
     "olfactory_group": [
-      "Fougère", "Holzig"
+      "Fougère",
+      "Holzig"
     ],
     "pyramid": {
       "top": [
-        "Ananas", "Bergamotte", "Lavendel", "Orangenblüte"
+        "Ananas",
+        "Bergamotte",
+        "Lavendel",
+        "Orangenblüte"
       ],
       "heart": [
-        "Benzoeharz", "Freesie", "Jasmin", "Myrrhe", "Tabakblüte", "Weihrauch Olibanum"
+        "Benzoeharz",
+        "Freesie",
+        "Jasmin",
+        "Myrrhe",
+        "Tabakblüte",
+        "Weihrauch Olibanum"
       ],
       "base": [
-        "Ambra", "bulgarischer Tabak", "Moschus", "Nagarmotha", "Patschuli", "Praline", "Vanille", "Zeder"
+        "Ambra",
+        "bulgarischer Tabak",
+        "Moschus",
+        "Nagarmotha",
+        "Patschuli",
+        "Praline",
+        "Vanille",
+        "Zeder"
       ]
     },
     "links": [
@@ -63,7 +95,9 @@
     "name": "Ares",
     "number": "ARES",
     "sex": "Unisex",
-    "class": "Mytologik",
+    "classes": [
+      "Mytologik"
+    ],
     "sizes": [
       "100ml"
     ],
@@ -76,13 +110,22 @@
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Orange", "Pfeffer"
+        "Bergamotte",
+        "Orange",
+        "Pfeffer"
       ],
       "heart": [
-        "Blutnote", "Jasmin", "Orangenblüte", "Ylang-Ylang"
+        "Blutnote",
+        "Jasmin",
+        "Orangenblüte",
+        "Ylang-Ylang"
       ],
       "base": [
-        "Ambra", "Moschus", "Leder", "Vanille", "Zeder"
+        "Ambra",
+        "Moschus",
+        "Leder",
+        "Vanille",
+        "Zeder"
       ]
     },
     "links": [
@@ -93,7 +136,9 @@
     "name": "Artemide",
     "number": "ARTEMIDE",
     "sex": "Damen",
-    "class": "Mytologik",
+    "classes": [
+      "Mytologik"
+    ],
     "sizes": [
       "100ml"
     ],
@@ -102,17 +147,26 @@
     ],
     "description": "Inspiriert von der griechischen Göttin der Jagd und des Waldes, verkörpert der Duft das Bild einer freien Weiblichkeit. Artemide by MΨTΟLOGIK ist ein Damenduft, der sich den Konventionen entzieht und für die explosive Kraft der Emanzipation steht. Der Duft startet mit krautigen und zitrischen Noten, die an die unberührten Wälder erinnern, die der Göttin so lieb sind. Die blumig-ledrige Herznote erinnert an ihre Doppelnatur als Jägerin und Beschützerin. Die holzige und moschusartige Basisnote symbolisiert ihre enge Verbindung zur Erde.",
     "olfactory_group": [
-      "Holzig", "Orientalisch"
+      "Holzig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Krautige Noten", "Mandarinorange"
+        "Krautige Noten",
+        "Mandarinorange"
       ],
       "heart": [
-        "Gewürznelken", "Jasmin", "Suede-Akkord"
+        "Gewürznelken",
+        "Jasmin",
+        "Suede-Akkord"
       ],
       "base": [
-        "Ambra", "Birke", "Eichenmoos", "Guajakholz", "Patschuli", "Zeder"
+        "Ambra",
+        "Birke",
+        "Eichenmoos",
+        "Guajakholz",
+        "Patschuli",
+        "Zeder"
       ]
     },
     "links": [
@@ -123,7 +177,9 @@
     "name": "Ermes",
     "number": "ERMES",
     "sex": "Herren",
-    "class": "Mytologik",
+    "classes": [
+      "Mytologik"
+    ],
     "sizes": [
       "100ml"
     ],
@@ -132,17 +188,28 @@
     ],
     "description": "Inspiriert von dem faszinierenden griechischen Götterboten und Schutzgott der Reisenden, verkörpert dieser Duft List und Schnelligkeit. Ermes by MΨTΟLOGIK ist ein evokativer Herrenduft, der an geflüsterte Geheimnisse und abenteuerliche Reisen erinnert. Der Duft beginnt mit einer leicht prickelnden Kopfnote aus zitrischen Akkorden und einer exotischen Note von Papaya. Die komplexe und fesselnde Herznote ist eine Hommage an den Einfallsreichtum des Gottes, während die erdige und moschusartige Basisnote Bilder von fernen, noch unbekannten Orten heraufbeschwört.",
     "olfactory_group": [
-      "Holzig", "Würzig"
+      "Holzig",
+      "Würzig"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Papaya", "Zitrone"
+        "Bergamotte",
+        "Papaya",
+        "Zitrone"
       ],
       "heart": [
-        "Kardamom", "Nelke", "Trüffel", "Walnuss", "Zimt"
+        "Kardamom",
+        "Nelke",
+        "Trüffel",
+        "Walnuss",
+        "Zimt"
       ],
       "base": [
-        "Ambra", "Moschus", "Tonkabohne", "Vetiver", "Zeder"
+        "Ambra",
+        "Moschus",
+        "Tonkabohne",
+        "Vetiver",
+        "Zeder"
       ]
     },
     "links": [
@@ -153,7 +220,9 @@
     "name": "Medusa",
     "number": "MEDUSA",
     "sex": "Damen",
-    "class": "Mytologik",
+    "classes": [
+      "Mytologik"
+    ],
     "sizes": [
       "100ml"
     ],
@@ -166,13 +235,23 @@
     ],
     "pyramid": {
       "top": [
-        "Algae", "Meersalz", "Passionsfrucht", "Yuzu", "Zitrone"
+        "Algae",
+        "Meersalz",
+        "Passionsfrucht",
+        "Yuzu",
+        "Zitrone"
       ],
       "heart": [
-        "Lotus", "Maiglöckchen", "Nelke", "Wasserlilie"
+        "Lotus",
+        "Maiglöckchen",
+        "Nelke",
+        "Wasserlilie"
       ],
       "base": [
-        "Ambra", "Moschus", "Sandelholz", "Vetiver"
+        "Ambra",
+        "Moschus",
+        "Sandelholz",
+        "Vetiver"
       ]
     },
     "links": [
@@ -183,7 +262,9 @@
     "name": "Zeus",
     "number": "ZEUS",
     "sex": "Herren",
-    "class": "Mytologik",
+    "classes": [
+      "Mytologik"
+    ],
     "sizes": [
       "100ml"
     ],
@@ -196,13 +277,22 @@
     ],
     "pyramid": {
       "top": [
-        "Eukalyptusblüte", "Kardamom", "Orange", "Rum", "Zimt", "Zitrone"
+        "Eukalyptusblüte",
+        "Kardamom",
+        "Orange",
+        "Rum",
+        "Zimt",
+        "Zitrone"
       ],
       "heart": [
-        "aquatische Noten", "Geranie", "Tabakblüte", "Veilchenblatt"
+        "aquatische Noten",
+        "Geranie",
+        "Tabakblüte",
+        "Veilchenblatt"
       ],
       "base": [
-        "Patschuli", "Vanille"
+        "Patschuli",
+        "Vanille"
       ]
     },
     "links": [
@@ -213,7 +303,11 @@
     "name": "Astral24",
     "number": "ASTRAL24",
     "sex": "Damen",
-    "class": "Luxus",
+    "classes": [
+      "Eventdüfte",
+      "Luxury Line",
+      "Special Edition"
+    ],
     "sizes": [
       "50ml"
     ],
@@ -222,17 +316,27 @@
     ],
     "description": "Ein Parfüm für Frauen, die es wagen, groß zu träumen, die die Sternen betrachten, um ihre Zukunft zu lesen. Ein Duft, der von einer interstellaren Reise erzählt und vom Stolz derer inspiriert ist, die ihr inneres Licht einfangen und sich immer als kleiner Teil von etwas Großem fühlen.",
     "olfactory_group": [
-      "Blumig", "Fruchtig"
+      "Blumig",
+      "Fruchtig"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Champagner", "Zitrone"
+        "Bergamotte",
+        "Champagner",
+        "Zitrone"
       ],
       "heart": [
-        "Jasmin", "Neroli", "Osmanthus", "Pfingstrose", "Pfirsich", "Pfirsichblüte"
+        "Jasmin",
+        "Neroli",
+        "Osmanthus",
+        "Pfingstrose",
+        "Pfirsich",
+        "Pfirsichblüte"
       ],
       "base": [
-        "Ambra", "holzige Noten", "Weißer Moschus"
+        "Ambra",
+        "holzige Noten",
+        "Weißer Moschus"
       ]
     },
     "links": [
@@ -243,7 +347,11 @@
     "name": "Multiverse",
     "number": "MULTIVERSE",
     "sex": "Herren",
-    "class": "Luxus",
+    "classes": [
+      "Eventdüfte",
+      "Luxury Line",
+      "Special Edition"
+    ],
     "sizes": [
       "50ml"
     ],
@@ -252,17 +360,25 @@
     ],
     "description": "Ein Parfüm für Männer, die die unendlichen Möglichkeiten der Zukunft entschlossen angehen. Ein Duft, der von einer Reise durch parallele Dimensionen erzählt und vom Mut derer inspiriert ist, die die Grenzen der Realität herausfordern und mutig das Unbekannte erforschen.",
     "olfactory_group": [
-      "Orientalisch", "Würzig"
+      "Orientalisch",
+      "Würzig"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Kardamom", "Zimt"
+        "Bergamotte",
+        "Kardamom",
+        "Zimt"
       ],
       "heart": [
-        "Guajakholz", "holzige Noten", "Orangenblüte", "Praline"
+        "Guajakholz",
+        "holzige Noten",
+        "Orangenblüte",
+        "Praline"
       ],
       "base": [
-        "Ambra", "Moschus", "Vanille"
+        "Ambra",
+        "Moschus",
+        "Vanille"
       ]
     },
     "links": [
@@ -273,7 +389,11 @@
     "name": "Mystère",
     "number": "EVENT23M",
     "sex": "Herren",
-    "class": "Luxus",
+    "classes": [
+      "Eventdüfte",
+      "Luxury Line",
+      "Special Edition"
+    ],
     "sizes": [
       "50ml"
     ],
@@ -282,17 +402,38 @@
     ],
     "description": "Mystère ist ein Herrenparfüm, das durch seine Kontraste herausfordert, egal wie ein Rätsel, das es zu lösen gilt, ein Duft, der den Träger in eine geheimnisvolle Aura hüllt. Ein überraschender Duft, der dazu einlädt, seine Geheimnisse zu entdecken: Der Auftakt verbindet die Lebendigkeit von Zitrusfrüchten mit der Intensität von Lavendel; Die Herznote verbindet die Süße von Früchten mit der Würze von Kardamom; Die Basisnote schließlich enthüllt einen zweifachen Duft, der zugleich süß und sinnlich ist.",
     "olfactory_group": [
-      "Holzig", "Orientalisch", "Würzig"
+      "Holzig",
+      "Orientalisch",
+      "Würzig"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Birne", "Ingwerblüte", "Lavendel", "marine Noten", "Minze", "Orange", "Zitrone"
+        "Bergamotte",
+        "Birne",
+        "Ingwerblüte",
+        "Lavendel",
+        "marine Noten",
+        "Minze",
+        "Orange",
+        "Zitrone"
       ],
       "heart": [
-        "Apfel", "Geranie", "Ingwerblüte", "Kardamom", "Lavendel", "Melone", "Pfirsich", "Wacholder"
+        "Apfel",
+        "Geranie",
+        "Ingwerblüte",
+        "Kardamom",
+        "Lavendel",
+        "Melone",
+        "Pfirsich",
+        "Wacholder"
       ],
       "base": [
-        "Ambra", "Moschus", "Tonkabohne", "Vanille", "Vetiver", "Zitronatzitrone"
+        "Ambra",
+        "Moschus",
+        "Tonkabohne",
+        "Vanille",
+        "Vetiver",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -303,7 +444,11 @@
     "name": "Séduction",
     "number": "EVENT23W",
     "sex": "Damen",
-    "class": "Luxus",
+    "classes": [
+      "Eventdüfte",
+      "Luxury Line",
+      "Special Edition"
+    ],
     "sizes": [
       "50ml"
     ],
@@ -312,17 +457,35 @@
     ],
     "description": "Séduction ist ein Damenparfüm, das die verschiedenen Momente der Verführung in Szene setzt. Die Kopfnote erinnert an die Faszination des Anfangs, eine verträumte und absolute Phase, die durch die umhüllende Süße saftiger Früchte perfekt verkörpert wird. Die holzige und magnetische Herznote repräsentiert die Phase der wahren Anziehung, die reif, bewusst und frech ist. Vanille- und Moschusakkorde lassen die Sinne schließlich im Strudel der Verführung völlig versinken.",
     "olfactory_group": [
-      "Fruchtig", "Holzig", "Orientalisch"
+      "Fruchtig",
+      "Holzig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Himbeere", "Passionsfrucht", "Pfirsich", "Pflaume", "rosa Pfeffer", "Veilchen"
+        "Himbeere",
+        "Passionsfrucht",
+        "Pfirsich",
+        "Pflaume",
+        "rosa Pfeffer",
+        "Veilchen"
       ],
       "heart": [
-        "Heliotrop", "Kaschmirholz", "Maiglöckchen", "Pfirsich", "Rose", "Sandelholz", "Weißer Ambra"
+        "Heliotrop",
+        "Kaschmirholz",
+        "Maiglöckchen",
+        "Pfirsich",
+        "Rose",
+        "Sandelholz",
+        "Weißer Ambra"
       ],
       "base": [
-        "Ambergris", "Ambra", "Benzoeharz", "Gourmand Accord", "Moschus", "Vanille"
+        "Ambergris",
+        "Ambra",
+        "Benzoeharz",
+        "Gourmand Accord",
+        "Moschus",
+        "Vanille"
       ]
     },
     "links": [
@@ -333,7 +496,11 @@
     "name": "Imperatrix",
     "number": "IMPERATRIX",
     "sex": "Damen",
-    "class": "Luxus",
+    "classes": [
+      "Eventdüfte",
+      "Luxury Line",
+      "Special Edition"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -344,16 +511,29 @@
     ],
     "description": "Imperatrix ist ein Damenduft mit königlicher Ausstrahlung. Seine blumigen Noten spiegeln eine erhabene Schönheit wider, während Gourmand-Akzente und ambrierte Nuancen eine unerwartete Sinnlichkeit offenbaren, die vor den Blicken des Hofes verborgen bleibt.",
     "olfactory_group": [
+      "Blumig"
     ],
     "pyramid": {
       "top": [
-        "Brombeere", "Orange", "schwarze Johannisbeere", "Zitrone"
+        "Brombeere",
+        "Orange",
+        "schwarze Johannisbeere",
+        "Zitrone"
       ],
       "heart": [
-        "Jasmin", "Karamell", "Kokosnuss", "Maiglöckchen", "Milch", "Rose", "Veilchen"
+        "Jasmin",
+        "Karamell",
+        "Kokosnuss",
+        "Maiglöckchen",
+        "Milch",
+        "Rose",
+        "Veilchen"
       ],
       "base": [
-        "Ambra", "Moschus", "Tonkabohne", "Vanille"
+        "Ambra",
+        "Moschus",
+        "Tonkabohne",
+        "Vanille"
       ]
     },
     "links": [
@@ -365,7 +545,11 @@
     "name": "Nadir",
     "number": "NADIR",
     "sex": "Herren",
-    "class": "Luxus",
+    "classes": [
+      "Eventdüfte",
+      "Luxury Line",
+      "Special Edition"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -376,16 +560,21 @@
     ],
     "description": "Nadir verkörpert einen stolzen und geheimnisvollen Mann, einen Gladiator, der die Erinnerung an ferne Länder und glorreiche Schlachten in sich trägt. Gewürze, Zitrusfrüchte und weiße Blüten verschmelzen zu einer perfekten Balance aus Kraft und Anziehung, die von sonnendurchfluteten Basaren und verborgenen Gärten widerhallt. Die warme, ambrierte Basis offenbart schließlich die sinnliche Menschlichkeit dieses unbesiegbaren Kriegers.",
     "olfactory_group": [
+      "Würzig"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Koriander"
+        "Bergamotte",
+        "Koriander"
       ],
       "heart": [
-        "Jasmin", "Orangenblüte"
+        "Jasmin",
+        "Orangenblüte"
       ],
       "base": [
-        "Ambra", "Tonkabohne", "Vanille"
+        "Ambra",
+        "Tonkabohne",
+        "Vanille"
       ]
     },
     "links": [
@@ -397,7 +586,10 @@
     "name": "Scented Love",
     "number": "LOVE22",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [
+      "Love",
+      "Special Edition"
+    ],
     "sizes": [
       "25ml"
     ],
@@ -406,17 +598,28 @@
     ],
     "description": "Scented Love steht für wahre Liebe. Ein kostbarer Flakon in Herzform birgt einen unwiderstehlichen, süßen Duft – so einzigartig wie die Person, für die er bestimmt ist.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Kirsche", "Mandel", "Sternanis"
+        "Bergamotte",
+        "Kirsche",
+        "Mandel",
+        "Sternanis"
       ],
       "heart": [
-        "Bulgarische Rose", "Lakritz", "Pfirsich", "Rose"
+        "Bulgarische Rose",
+        "Lakritz",
+        "Pfirsich",
+        "Rose"
       ],
       "base": [
-        "Anis", "Moschus", "Tonkabohne", "Vanille", "Zitronatzitrone"
+        "Anis",
+        "Moschus",
+        "Tonkabohne",
+        "Vanille",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -427,7 +630,10 @@
     "name": "Scented Love",
     "number": "LOVE24",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [
+      "Love",
+      "Special Edition"
+    ],
     "sizes": [
       "25ml"
     ],
@@ -436,17 +642,30 @@
     ],
     "description": "Scented Love steht für wahre Liebe. Ein kostbarer Flakon in Herzform birgt einen unwiderstehlichen, eleganten Duft – so einzigartig wie die Person, für die er bestimmt ist.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Himbeere", "Mandarinorange", "Osmanthus"
+        "Bergamotte",
+        "Himbeere",
+        "Mandarinorange",
+        "Osmanthus"
       ],
       "heart": [
-        "Ingwerblüte", "Jasmin", "Rose", "Tuberose"
+        "Ingwerblüte",
+        "Jasmin",
+        "Rose",
+        "Tuberose"
       ],
       "base": [
-        "Ambra", "Karamell", "Lakritz", "Patschuli", "Sandelholz", "Vanille", "Zitronatzitrone"
+        "Ambra",
+        "Karamell",
+        "Lakritz",
+        "Patschuli",
+        "Sandelholz",
+        "Vanille",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -457,7 +676,10 @@
     "name": "Scented Love",
     "number": "LOVE25",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [
+      "Love",
+      "Special Edition"
+    ],
     "sizes": [
       "25ml"
     ],
@@ -470,13 +692,25 @@
     ],
     "pyramid": {
       "top": [
-        "Aprikose", "Bitterorange", "Kokosnuss", "Pflaume", "Zitrone"
+        "Aprikose",
+        "Bitterorange",
+        "Kokosnuss",
+        "Pflaume",
+        "Zitrone"
       ],
       "heart": [
-        "Jasmin", "Maiglöckchen", "Orangenblüte", "Rose", "Tuberose"
+        "Jasmin",
+        "Maiglöckchen",
+        "Orangenblüte",
+        "Rose",
+        "Tuberose"
       ],
       "base": [
-        "Mandel", "Moschus", "Sandelholz", "Tonkabohne", "Vanille"
+        "Mandel",
+        "Moschus",
+        "Sandelholz",
+        "Tonkabohne",
+        "Vanille"
       ]
     },
     "links": [
@@ -487,7 +721,7 @@
     "name": "Prestige For Him",
     "number": "01M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -504,13 +738,20 @@
     ],
     "pyramid": {
       "top": [
-        "Mandarinorange", "Minze", "Pink Grapefruit"
+        "Mandarinorange",
+        "Minze",
+        "Pink Grapefruit"
       ],
       "heart": [
-        "Gewürze", "Rose", "Zimt"
+        "Gewürze",
+        "Rose",
+        "Zimt"
       ],
       "base": [
-        "Ambra", "holzige Noten", "Leder", "Patschuli"
+        "Ambra",
+        "holzige Noten",
+        "Leder",
+        "Patschuli"
       ]
     },
     "links": [
@@ -523,7 +764,7 @@
     "name": "Deep Blue For Him",
     "number": "02M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -540,13 +781,35 @@
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Jasmin", "Limette", "Mandarinorange", "Neroli", "Orange", "Zitrone"
+        "Bergamotte",
+        "Jasmin",
+        "Limette",
+        "Mandarinorange",
+        "Neroli",
+        "Orange",
+        "Zitrone"
       ],
       "heart": [
-        "Alpenveilchen", "Calone", "Freesie", "Hyazinthe", "Jasmin", "Koriander", "marine Noten", "Muskat", "Pfirsich", "Reseda", "Rose", "Rosmarin", "Veilchen"
+        "Alpenveilchen",
+        "Calone",
+        "Freesie",
+        "Hyazinthe",
+        "Jasmin",
+        "Koriander",
+        "marine Noten",
+        "Muskat",
+        "Pfirsich",
+        "Reseda",
+        "Rose",
+        "Rosmarin",
+        "Veilchen"
       ],
       "base": [
-        "Ambra", "Eichenmoos", "Moschus", "Patschuli", "Zitronatzitrone"
+        "Ambra",
+        "Eichenmoos",
+        "Moschus",
+        "Patschuli",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -559,7 +822,7 @@
     "name": "Fireborn",
     "number": "03M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -572,17 +835,37 @@
     ],
     "description": "Ein Duft voller Widersprüche: frisch und doch kraftvoll, wie die Begegnung von Wasser und Feuer.",
     "olfactory_group": [
-      "Aromatisch", "Fougère"
+      "Aromatisch",
+      "Fougère"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Hagedorn", "Kamille", "Lavendel", "Mandarinorange", "Muskat", "Zitronatzitrone", "Zitrone"
+        "Bergamotte",
+        "Hagedorn",
+        "Kamille",
+        "Lavendel",
+        "Mandarinorange",
+        "Muskat",
+        "Zitronatzitrone",
+        "Zitrone"
       ],
       "heart": [
-        "Geißblatt", "Jasmin", "Maiglöckchen", "Muskat", "Nelke", "Sandelholz", "Veilchenblatt", "Zitronatzitrone"
+        "Geißblatt",
+        "Jasmin",
+        "Maiglöckchen",
+        "Muskat",
+        "Nelke",
+        "Sandelholz",
+        "Veilchenblatt",
+        "Zitronatzitrone"
       ],
       "base": [
-        "Ambra", "Leder", "Moschus", "Patschuli", "Tonkabohne", "Vetiver"
+        "Ambra",
+        "Leder",
+        "Moschus",
+        "Patschuli",
+        "Tonkabohne",
+        "Vetiver"
       ]
     },
     "links": [
@@ -595,7 +878,7 @@
     "name": "Pure Ego For Him",
     "number": "04M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -608,17 +891,24 @@
     ],
     "description": "Ein Duft, der moderne Eleganz verkörpert und den galanten, selbstbewussten Mann anspricht, der sich nichts zu beweisen braucht. Ein holzig-würziger Duft mit einem Kopfakkord aus Grapefruit und Koriander.",
     "olfactory_group": [
-      "Holzig", "Würzig"
+      "Holzig",
+      "Würzig"
     ],
     "pyramid": {
       "top": [
-        "Basilikum", "Koriander", "Pink Grapefruit"
+        "Basilikum",
+        "Koriander",
+        "Pink Grapefruit"
       ],
       "heart": [
-        "Ingwerblüte", "Kardamom", "Orangenblüte"
+        "Ingwerblüte",
+        "Kardamom",
+        "Orangenblüte"
       ],
       "base": [
-        "Ambra", "Tabakblüte", "Zitronatzitrone"
+        "Ambra",
+        "Tabakblüte",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -631,7 +921,7 @@
     "name": "Addiction",
     "number": "06W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -644,17 +934,24 @@
     ],
     "description": "Mehr als nur ein Duft: eine üppige, verführerische, unnachahmliche Spur. Ein Ticket zu einem symbolischen, geheimnisvollen Anderswo. Eine imaginäre Reise in ein Traumland von ungeahnter Magie. Ein Duft, der die Fülle des Lebens spürbar macht und eine Tür öffnet, die in eine imaginäre, außergewöhnliche und geheimnisvolle Welt voller Empfindungen und Gefühle führt.",
     "olfactory_group": [
-      "Orientalisch", "Würzig"
+      "Orientalisch",
+      "Würzig"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Maiglöckchen", "Mandarinorange"
+        "Bergamotte",
+        "Maiglöckchen",
+        "Mandarinorange"
       ],
       "heart": [
-        "Jasmin", "Myrrhe"
+        "Jasmin",
+        "Myrrhe"
       ],
       "base": [
-        "Ambra", "Patschuli", "somalischer Opopanax", "Vanille"
+        "Ambra",
+        "Patschuli",
+        "somalischer Opopanax",
+        "Vanille"
       ]
     },
     "links": [
@@ -667,7 +964,7 @@
     "name": "Pure Gold",
     "number": "07W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -680,17 +977,33 @@
     ],
     "description": "Die Essenz von Luxus und absoluter Weiblichkeit, die inzwischen zur Legende geworden ist. Das Gefühl, das sich beim Tragen dieses Parfüms einstellt, ist kaum zu beschreiben: Wie ein Spaziergang auf einer intensiv duftenden Blumenwiese, wie das Eintauchen in einen „Blumenstrauß“.",
     "olfactory_group": [
-      "Blumig", "Fruchtig"
+      "Blumig",
+      "Fruchtig"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Birne", "Magnolie", "Mandarinorange", "Melone", "Quandong oder Wüstenpfirsich"
+        "Bergamotte",
+        "Birne",
+        "Magnolie",
+        "Mandarinorange",
+        "Melone",
+        "Quandong oder Wüstenpfirsich"
       ],
       "heart": [
-        "Freesie", "Jasmin", "Maiglöckchen", "Pflaume", "Rose", "Tuberose", "Veilchen", "wilde Orchidee"
+        "Freesie",
+        "Jasmin",
+        "Maiglöckchen",
+        "Pflaume",
+        "Rose",
+        "Tuberose",
+        "Veilchen",
+        "wilde Orchidee"
       ],
       "base": [
-        "Brombeere", "Moschus", "Vanille", "Zitronatzitrone"
+        "Brombeere",
+        "Moschus",
+        "Vanille",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -703,7 +1016,7 @@
     "name": "Stranger",
     "number": "10W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -716,7 +1029,8 @@
     ],
     "description": "Ein Duft, der eine geheimnisvolle Aura verströmt: ein magisches Elixier, das Energie und Sinnlichkeit ausstrahlt.",
     "olfactory_group": [
-      "Holzig", "Orientalisch"
+      "Holzig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
@@ -739,7 +1053,7 @@
     "name": "Aqua Soul For Her",
     "number": "11W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -752,17 +1066,25 @@
     ],
     "description": "Ein Duft, der die zeitlose Sinnlichkeit des Mittelmeers einfängt, eines Ortes, der seit jeher die ideale Kulisse für Verführung war und immer sein wird.",
     "olfactory_group": [
-      "Blumig", "Fruchtig"
+      "Blumig",
+      "Fruchtig"
     ],
     "pyramid": {
       "top": [
-        "Apfel", "Glockenblume", "Zitronatzitrone", "Zitrone"
+        "Apfel",
+        "Glockenblume",
+        "Zitronatzitrone",
+        "Zitrone"
       ],
       "heart": [
-        "Bambus", "Jasmin", "Rose"
+        "Bambus",
+        "Jasmin",
+        "Rose"
       ],
       "base": [
-        "Ambra", "Moschus", "Zitronatzitrone"
+        "Ambra",
+        "Moschus",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -775,7 +1097,7 @@
     "name": "Revenant",
     "number": "12M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -788,17 +1110,32 @@
     ],
     "description": "Ein zeitloser Klassiker, der in seiner Kühnheit revolutionär bleibt. Ein perfektes Gleichgewicht zwischen Frische, Kraft und Intensität. Dieser große Klassiker der Herrenparfümerie mit seinem modernen und entschlossenen Charakter steht für das Gleichgewicht zwischen Einfachheit, Natürlichkeit und Einzigartigkeit.",
     "olfactory_group": [
-      "Aromatisch", "Zitrus"
+      "Aromatisch",
+      "Zitrus"
     ],
     "pyramid": {
       "top": [
-        "Basilikum", "Bergamotte", "fruchtige Noten", "Kümmel", "Rosmarin", "Zitrone"
+        "Basilikum",
+        "Bergamotte",
+        "fruchtige Noten",
+        "Kümmel",
+        "Rosmarin",
+        "Zitrone"
       ],
       "heart": [
-        "Iriswurzel", "Jasmin", "Koriander", "Nelke", "Patschuli", "Rose", "Sandelholz"
+        "Iriswurzel",
+        "Jasmin",
+        "Koriander",
+        "Nelke",
+        "Patschuli",
+        "Rose",
+        "Sandelholz"
       ],
       "base": [
-        "Ambra", "Eichenmoos", "Moschus", "Vetiver"
+        "Ambra",
+        "Eichenmoos",
+        "Moschus",
+        "Vetiver"
       ]
     },
     "links": [
@@ -811,7 +1148,7 @@
     "name": "Statement",
     "number": "14W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -824,17 +1161,24 @@
     ],
     "description": "Ein sinnlicher, umhüllender und unvergesslicher Duft, der Frauen inspiriert, ihre Freiheit zu ergreifen, mutig voranzuschreiten, sich zu behaupten und ihre eigene Weiblichkeit zum Ausdruck zu bringen. Der Frau gewidmet, die ihre Wünsche mit Kühnheit und Intuition verwirklicht.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "grüne Noten", "schwarze Johannisbeere"
+        "Bergamotte",
+        "grüne Noten",
+        "schwarze Johannisbeere"
       ],
       "heart": [
-        "Jasmin", "Maiglöckchen"
+        "Jasmin",
+        "Maiglöckchen"
       ],
       "base": [
-        "Sandelholz", "Tonkabohne", "Vanille", "Zeder"
+        "Sandelholz",
+        "Tonkabohne",
+        "Vanille",
+        "Zeder"
       ]
     },
     "links": [
@@ -847,7 +1191,7 @@
     "name": "Urbe",
     "number": "15M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -860,17 +1204,27 @@
     ],
     "description": "Ein Duft, inspiriert von ewiger Schönheit, der verzaubert und immer wieder neue Emotionen weckt. Warm, sinnlich, geheimnisvoll.",
     "olfactory_group": [
-      "Holzig", "Orientalisch"
+      "Holzig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Basilikum", "Bergamotte", "Galbanharz", "Pink Grapefruit"
+        "Basilikum",
+        "Bergamotte",
+        "Galbanharz",
+        "Pink Grapefruit"
       ],
       "heart": [
-        "Heliotrop", "Jasmin", "Kiefernrinde", "Wacholder"
+        "Heliotrop",
+        "Jasmin",
+        "Kiefernrinde",
+        "Wacholder"
       ],
       "base": [
-        "Benzoeharz", "Patschuli", "Sandelholz", "Zitronatzitrone"
+        "Benzoeharz",
+        "Patschuli",
+        "Sandelholz",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -883,7 +1237,7 @@
     "name": "Sailor",
     "number": "16M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -896,17 +1250,28 @@
     ],
     "description": "Die perfekte Harmonie von Männlichkeit und Sinnlichkeit – ein Klassiker, der durch die Kombination von Lavendel und sinnlichen Vanillenoten neu erfunden wurde. Ein magnetischer Duft, der verführt: einzigartig, modern, süß, auf Kontrasten aufgebaut und absolut unwiderstehlich.",
     "olfactory_group": [
-      "Fougère", "Orientalisch"
+      "Fougère",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Beifuß", "Bergamotte", "Kardamom", "Lavendel", "Minze"
+        "Beifuß",
+        "Bergamotte",
+        "Kardamom",
+        "Lavendel",
+        "Minze"
       ],
       "heart": [
-        "Kümmel", "Orangenblüte", "Zimt"
+        "Kümmel",
+        "Orangenblüte",
+        "Zimt"
       ],
       "base": [
-        "Ambra", "Sandelholz", "Tonkabohne", "Vanille", "Zitronatzitrone"
+        "Ambra",
+        "Sandelholz",
+        "Tonkabohne",
+        "Vanille",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -919,7 +1284,7 @@
     "name": "Revelation",
     "number": "18M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -932,17 +1297,38 @@
     ],
     "description": "Die glühende Frische der Kopfnote entfaltet sich kraftvoll mit Basilikumknospen, Bergamotte und einem Hauch von Grapefruit. Die blumige Herznote enthüllt ein reiches Bouquet von Jasmin, Wacholder und Heliotrop, während die Basisnote die absolute Kraft der Leidenschaft, Sinnlichkeit und Magie von Patchouli, Sandel- und Zedernholz bewahrt.",
     "olfactory_group": [
-      "Blumig", "Holzig", "Moschus"
+      "Blumig",
+      "Holzig",
+      "Moschus"
     ],
     "pyramid": {
       "top": [
-        "Beifuß", "Bergamotte", "Birke", "Bitterorange", "Kümmel", "Koriander", "Mandarinorange", "Neroli"
+        "Beifuß",
+        "Bergamotte",
+        "Birke",
+        "Bitterorange",
+        "Kümmel",
+        "Koriander",
+        "Mandarinorange",
+        "Neroli"
       ],
       "heart": [
-        "Ingwerblüte", "Iris", "Iriswurzel", "Jasmin", "Kardamom", "Pfeffer", "Wacholder", "Zimt"
+        "Ingwerblüte",
+        "Iris",
+        "Iriswurzel",
+        "Jasmin",
+        "Kardamom",
+        "Pfeffer",
+        "Wacholder",
+        "Zimt"
       ],
       "base": [
-        "Ambra", "Eichenmoos", "Leder", "Tee", "Vetiver", "Zitronatzitrone"
+        "Ambra",
+        "Eichenmoos",
+        "Leder",
+        "Tee",
+        "Vetiver",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -955,7 +1341,7 @@
     "name": "Prestige For Her",
     "number": "19W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -968,17 +1354,24 @@
     ],
     "description": "Ein üppiger, sinnlicher Duft, der mit der Frische von Neroli beginnt und sich mit der Intensität der Amalfi-Zitrone vermischt, belebt durch einen knackigen Hauch von Himbeere. Die Herznote ist ein blumiger Triumph von Orangenblüte, Jasmin und Gardenie. In der Herznote mildern die Süße von Honig und Ambra die Noten von Patschuli.",
     "olfactory_group": [
-      "Blumig", "Fruchtig"
+      "Blumig",
+      "Fruchtig"
     ],
     "pyramid": {
       "top": [
-        "Himbeere", "Neroli", "Zitrone"
+        "Himbeere",
+        "Neroli",
+        "Zitrone"
       ],
       "heart": [
-        "Gardenie", "Jasmin", "Orangenblüte"
+        "Gardenie",
+        "Jasmin",
+        "Orangenblüte"
       ],
       "base": [
-        "Ambra", "Honig", "Patschuli"
+        "Ambra",
+        "Honig",
+        "Patschuli"
       ]
     },
     "links": [
@@ -991,7 +1384,7 @@
     "name": "Obscuro",
     "number": "20M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1004,17 +1397,21 @@
     ],
     "description": "Dieser Duft erzählt eine Geschichte von Verführung, Intensität und gewagter Sinnlichkeit. Für den attraktiven, geheimnisvollen Mann, der mit seinem unwiderstehlichen Charme und seiner Verführungskraft alles andere auslöscht, wenn er vorbeikommt.",
     "olfactory_group": [
-      "Holzig", "Würzig"
+      "Holzig",
+      "Würzig"
     ],
     "pyramid": {
       "top": [
         "Kardamom"
       ],
       "heart": [
-        "Bergamotte", "Lavendel", "Zitronatzitrone"
+        "Bergamotte",
+        "Lavendel",
+        "Zitronatzitrone"
       ],
       "base": [
-        "Kümmel", "Vetiver"
+        "Kümmel",
+        "Vetiver"
       ]
     },
     "links": [
@@ -1027,7 +1424,7 @@
     "name": "Aqua Soul For Him",
     "number": "21M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1040,17 +1437,25 @@
     ],
     "description": "Ein Duft, der die zeitlose Sinnlichkeit des Mittelmeers einfängt, eines Ortes, der seit jeher die ideale Kulisse für Verführung war und immer sein wird.",
     "olfactory_group": [
-      "Aromatisch", "Zitrus"
+      "Aromatisch",
+      "Zitrus"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Mandarinorange", "Pink Grapefruit", "Wacholder"
+        "Bergamotte",
+        "Mandarinorange",
+        "Pink Grapefruit",
+        "Wacholder"
       ],
       "heart": [
-        "brasilianisches Rosenholz", "Pfeffer", "Rosmarin"
+        "brasilianisches Rosenholz",
+        "Pfeffer",
+        "Rosmarin"
       ],
       "base": [
-        "Eichenmoos", "Moschus", "Weihrauch"
+        "Eichenmoos",
+        "Moschus",
+        "Weihrauch"
       ]
     },
     "links": [
@@ -1063,7 +1468,7 @@
     "name": "Elemental",
     "number": "22M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1076,17 +1481,24 @@
     ],
     "description": "Dieses Parfum erzählt die Geschichte der mythischen Elemente der Antike und der Natur, eine Geschichte der Verwandlung, eine Reise zu den Elementen durch Erde, Luft und Wasser.",
     "olfactory_group": [
-      "Holzig", "Würzig"
+      "Holzig",
+      "Würzig"
     ],
     "pyramid": {
       "top": [
-        "Orange", "Pink Grapefruit"
+        "Orange",
+        "Pink Grapefruit"
       ],
       "heart": [
-        "Flint", "Pelargonie", "Pfeffer"
+        "Flint",
+        "Pelargonie",
+        "Pfeffer"
       ],
       "base": [
-        "Benzoeharz", "Patschuli", "Vetiver", "Zitronatzitrone"
+        "Benzoeharz",
+        "Patschuli",
+        "Vetiver",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -1099,7 +1511,7 @@
     "name": "Fatale",
     "number": "23W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1116,13 +1528,23 @@
     ],
     "pyramid": {
       "top": [
-        "Aprikose", "Kokosnuss", "Pflaume"
+        "Aprikose",
+        "Kokosnuss",
+        "Pflaume"
       ],
       "heart": [
-        "brasilianisches Rosenholz", "Jasmin", "Kümmel", "Maiglöckchen", "Rose", "Tuberose"
+        "brasilianisches Rosenholz",
+        "Jasmin",
+        "Kümmel",
+        "Maiglöckchen",
+        "Rose",
+        "Tuberose"
       ],
       "base": [
-        "Mandel", "Moschus", "Sandelholz", "Vanille"
+        "Mandel",
+        "Moschus",
+        "Sandelholz",
+        "Vanille"
       ]
     },
     "links": [
@@ -1135,7 +1557,7 @@
     "name": "The Essence",
     "number": "24W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1152,13 +1574,26 @@
     ],
     "pyramid": {
       "top": [
-        "Aldehyde", "Bergamotte", "Neroli", "Ylang-Ylang", "Zitrone"
+        "Aldehyde",
+        "Bergamotte",
+        "Neroli",
+        "Ylang-Ylang",
+        "Zitrone"
       ],
       "heart": [
-        "Iris", "Iriswurzel", "Jasmin", "Maiglöckchen", "Rose"
+        "Iris",
+        "Iriswurzel",
+        "Jasmin",
+        "Maiglöckchen",
+        "Rose"
       ],
       "base": [
-        "Eichenmoos", "Patschuli", "Sandelholz", "Vanille", "Vetiver", "Zibet"
+        "Eichenmoos",
+        "Patschuli",
+        "Sandelholz",
+        "Vanille",
+        "Vetiver",
+        "Zibet"
       ]
     },
     "links": [
@@ -1171,7 +1606,7 @@
     "name": "Her Secret",
     "number": "25W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1184,17 +1619,24 @@
     ],
     "description": "Der Moschus in der Herznote macht den Duft besonders langanhaltend und mildert die Süße von Orangenblüte und Vanille zu einem umhüllenden, raffinierten und einzigartigen Duft.",
     "olfactory_group": [
-      "Blumig", "Holzig", "Moschus"
+      "Blumig",
+      "Holzig",
+      "Moschus"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Orangenblüte", "Osmanthus"
+        "Bergamotte",
+        "Orangenblüte",
+        "Osmanthus"
       ],
       "heart": [
-        "Ambra", "Moschus"
+        "Ambra",
+        "Moschus"
       ],
       "base": [
-        "Patschuli", "Vanille", "Vetiver"
+        "Patschuli",
+        "Vanille",
+        "Vetiver"
       ]
     },
     "links": [
@@ -1207,7 +1649,7 @@
     "name": "Wild Poppy",
     "number": "26W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1220,17 +1662,26 @@
     ],
     "description": "Ein dezenter Duft, der sich mit süßen Noten von Weißdorn und schwarzer Johannisbeere öffnet und in eine blumige Herznote aus Rose, Jasmin und Veilchen mündet. Abgerundet wird die Herznote durch eine Basisnote aus intensiver Vanille und weißem Moschus.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Hagedorn", "Mandarinorange", "Rose", "schwarze Johannisbeere"
+        "Hagedorn",
+        "Mandarinorange",
+        "Rose",
+        "schwarze Johannisbeere"
       ],
       "heart": [
-        "Jasmin", "Rose", "somalischer Opopanax", "Veilchen"
+        "Jasmin",
+        "Rose",
+        "somalischer Opopanax",
+        "Veilchen"
       ],
       "base": [
-        "Moschus", "Vanille", "Weihrauch"
+        "Moschus",
+        "Vanille",
+        "Weihrauch"
       ]
     },
     "links": [
@@ -1243,7 +1694,7 @@
     "name": "L'Amour Rare",
     "number": "27W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1256,17 +1707,32 @@
     ],
     "description": "Dieser Duft löst einen Wirbelsturm der Gefühle und Erinnerungen aus. Ein Duft, der mit warmen orientalischen und frischen blumigen Noten umhüllt: Unter ihnen triumphiert die Rose, Symbol für alle Formen der Liebe.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Ananas", "Aprikosenblüte", "Bergamotte", "Flieder", "Maiglöckchen", "Pfirsich", "Rose"
+        "Ananas",
+        "Aprikosenblüte",
+        "Bergamotte",
+        "Flieder",
+        "Maiglöckchen",
+        "Pfirsich",
+        "Rose"
       ],
       "heart": [
-        "Heliotrop", "Iris", "Jasmin", "Rose"
+        "Heliotrop",
+        "Iris",
+        "Jasmin",
+        "Rose"
       ],
       "base": [
-        "Ambra", "Aprikose", "Moschus", "Pfirsich", "Sandelholz", "Vanille"
+        "Ambra",
+        "Aprikose",
+        "Moschus",
+        "Pfirsich",
+        "Sandelholz",
+        "Vanille"
       ]
     },
     "links": [
@@ -1279,7 +1745,7 @@
     "name": "Etherea",
     "number": "28W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1296,13 +1762,38 @@
     ],
     "pyramid": {
       "top": [
-        "Ananas", "Bergamotte", "Jasmin", "Kokosnuss", "Mandarinorange", "Melone", "schwarze Johannisbeere", "Zuckerwatte"
+        "Ananas",
+        "Bergamotte",
+        "Jasmin",
+        "Kokosnuss",
+        "Mandarinorange",
+        "Melone",
+        "schwarze Johannisbeere",
+        "Zuckerwatte"
       ],
       "heart": [
-        "Aprikose", "Brombeere", "Honig", "Jasmin", "Kümmel", "Maiglöckchen", "Muskat", "Pfirsich", "Pflaume", "Rose", "rote Beeren", "wilde Orchidee"
+        "Aprikose",
+        "Brombeere",
+        "Honig",
+        "Jasmin",
+        "Kümmel",
+        "Maiglöckchen",
+        "Muskat",
+        "Pfirsich",
+        "Pflaume",
+        "Rose",
+        "rote Beeren",
+        "wilde Orchidee"
       ],
       "base": [
-        "Ambra", "dunkle Schokolade", "Karamell", "Moschus", "Patschuli", "Sandelholz", "Tonkabohne", "Vanille"
+        "Ambra",
+        "dunkle Schokolade",
+        "Karamell",
+        "Moschus",
+        "Patschuli",
+        "Sandelholz",
+        "Tonkabohne",
+        "Vanille"
       ]
     },
     "links": [
@@ -1315,7 +1806,7 @@
     "name": "Rêve Parisien",
     "number": "29W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1332,13 +1823,27 @@
     ],
     "pyramid": {
       "top": [
-        "Alpenveilchen", "Calone", "Freesie", "Lotus", "Melone", "Rose"
+        "Alpenveilchen",
+        "Calone",
+        "Freesie",
+        "Lotus",
+        "Melone",
+        "Rose"
       ],
       "heart": [
-        "Lilie", "Maiglöckchen", "Nelke", "Pfingstrose"
+        "Lilie",
+        "Maiglöckchen",
+        "Nelke",
+        "Pfingstrose"
       ],
       "base": [
-        "Ambra", "holzige Noten", "Moschus", "Osmanthus", "Sandelholz", "Tuberose", "Zitronatzitrone"
+        "Ambra",
+        "holzige Noten",
+        "Moschus",
+        "Osmanthus",
+        "Sandelholz",
+        "Tuberose",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -1351,7 +1856,7 @@
     "name": "Maverick",
     "number": "30M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1364,17 +1869,24 @@
     ],
     "description": "Ein lebendiger und spontaner Duft mit der Energie des Rock&Roll: für den individualistischen Mann, besonders geeignet für den Abend und besondere Anlässe.",
     "olfactory_group": [
-      "Holzig", "Orientalisch"
+      "Holzig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Salbei", "Zitrone"
+        "Salbei",
+        "Zitrone"
       ],
       "heart": [
-        "Kardamom", "Praline", "Tolubalsam", "Zimt"
+        "Kardamom",
+        "Praline",
+        "Tolubalsam",
+        "Zimt"
       ],
       "base": [
-        "Ambergris", "brasilianisches Rosenholz", "Patschuli"
+        "Ambergris",
+        "brasilianisches Rosenholz",
+        "Patschuli"
       ]
     },
     "links": [
@@ -1387,7 +1899,7 @@
     "name": "Real Man",
     "number": "31M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1400,17 +1912,23 @@
     ],
     "description": "Die perfekte Kombination aus Kraft und Frische, die eine einzigartige Symphonie ergibt. Ein Duft, der dich in den fernen Orient entführt, um dich plötzlich mitten in eine Metropole zu versetzen, in der das Rascheln der eleganten Anzüge der Geschäftswelt den Takt angibt.",
     "olfactory_group": [
-      "Holzig", "Würzig"
+      "Holzig",
+      "Würzig"
     ],
     "pyramid": {
       "top": [
-        "Kardamom", "Sandelholz"
+        "Kardamom",
+        "Sandelholz"
       ],
       "heart": [
-        "Galgant", "Ingwerblüte", "Wacholder"
+        "Galgant",
+        "Ingwerblüte",
+        "Wacholder"
       ],
       "base": [
-        "grüne Noten", "Tabakblüte", "Teakholz"
+        "grüne Noten",
+        "Tabakblüte",
+        "Teakholz"
       ]
     },
     "links": [
@@ -1423,7 +1941,7 @@
     "name": "Explosive",
     "number": "32M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1436,17 +1954,25 @@
     ],
     "description": "Ein Duft für geheimnisvolle Männer voller Gegensätze, schwer zu fassen und frei von Konventionen. Charismatische Verführer, die alle Klischees hinter sich lassen, dabei raffiniert und sexy bleiben und eine natürliche Eleganz verkörpern, die im Einklang mit ihrer Zeit steht.",
     "olfactory_group": [
-      "Holzig", "Würzig"
+      "Holzig",
+      "Würzig"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Elemiharz", "Pink Grapefruit", "rosa Pfeffer"
+        "Bergamotte",
+        "Elemiharz",
+        "Pink Grapefruit",
+        "rosa Pfeffer"
       ],
       "heart": [
-        "Piment", "Safran", "Zimt"
+        "Piment",
+        "Safran",
+        "Zimt"
       ],
       "base": [
-        "Leder", "Tabakblüte", "Vetiver"
+        "Leder",
+        "Tabakblüte",
+        "Vetiver"
       ]
     },
     "links": [
@@ -1459,7 +1985,7 @@
     "name": "Nightfall",
     "number": "33M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1472,17 +1998,23 @@
     ],
     "description": "Natürlicher Charme und fesselndes Geheimnis. Eine verführerische Seele für den selbstbewussten Mann. Magnetische und moderne Verführung ist die Philosophie hinter diesem Duft.",
     "olfactory_group": [
-      "Orientalisch", "Würzig"
+      "Orientalisch",
+      "Würzig"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Zitrone"
+        "Bergamotte",
+        "Zitrone"
       ],
       "heart": [
-        "Guajakholz", "Olivenblüte", "Sternanis"
+        "Guajakholz",
+        "Olivenblüte",
+        "Sternanis"
       ],
       "base": [
-        "Leder", "Tabakblüte", "Tonkabohne"
+        "Leder",
+        "Tabakblüte",
+        "Tonkabohne"
       ]
     },
     "links": [
@@ -1495,7 +2027,7 @@
     "name": "Gentleman",
     "number": "37M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1508,17 +2040,29 @@
     ],
     "description": "Ein Duft, der die Welt der Herrendüfte neu definiert. Der Duft für den anspruchsvollen, entschlossenen und kreativen Mann. Die frischen und spritzigen Duftnoten verleihen dem Träger Modernität und Charakter.",
     "olfactory_group": [
-      "Holzig", "Orientalisch"
+      "Holzig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Birne", "Lotus", "Veilchenblatt"
+        "Bergamotte",
+        "Birne",
+        "Lotus",
+        "Veilchenblatt"
       ],
       "heart": [
-        "Ambra", "holzige Noten", "Kaschmirholz", "Nagarmotha", "Sandelholz", "Vetiver"
+        "Ambra",
+        "holzige Noten",
+        "Kaschmirholz",
+        "Nagarmotha",
+        "Sandelholz",
+        "Vetiver"
       ],
       "base": [
-        "Benzoeharz", "Honig", "Moschus", "Tonkabohne"
+        "Benzoeharz",
+        "Honig",
+        "Moschus",
+        "Tonkabohne"
       ]
     },
     "links": [
@@ -1531,7 +2075,7 @@
     "name": "Abyss",
     "number": "38M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1544,17 +2088,30 @@
     ],
     "description": "Ein Duft für Männer, die sich weigern, vorgegebenen Mustern zu folgen und sich von allen Konventionen befreien. Diese Duftkomposition offenbart eine männliche Seele, die unabhängig und entschlossen ihr eigenes Schicksal bestimmt: Ein unerwartet starker Charakter.",
     "olfactory_group": [
-      "Aromatisch", "Holzig"
+      "Aromatisch",
+      "Holzig"
     ],
     "pyramid": {
       "top": [
-        "Minze", "Pink Grapefruit", "rosa Pfeffer", "Zitrone"
+        "Minze",
+        "Pink Grapefruit",
+        "rosa Pfeffer",
+        "Zitrone"
       ],
       "heart": [
-        "Ingwerblüte", "Iso E Super", "Jasmin", "Muskat"
+        "Ingwerblüte",
+        "Iso E Super",
+        "Jasmin",
+        "Muskat"
       ],
       "base": [
-        "Ladanharz", "Moschus", "Patschuli", "Sandelholz", "Vetiver", "Weihrauch", "Zitronatzitrone"
+        "Ladanharz",
+        "Moschus",
+        "Patschuli",
+        "Sandelholz",
+        "Vetiver",
+        "Weihrauch",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -1567,7 +2124,7 @@
     "name": "Darling",
     "number": "39W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1580,17 +2137,25 @@
     ],
     "description": "Wie ein Spiel auf einer blühenden Frühlingswiese ist dieser Duft frisch, zart, verspielt, spontan, spritzig. Er drückt die ganze Lebensfreude eines Mädchens oder einer Frau aus, unbekümmert, elegant, aber immer frei, fröhlich und manchmal ein wenig frech.",
     "olfactory_group": [
-      "Chypre", "Fruchtig"
+      "Chypre",
+      "Fruchtig"
     ],
     "pyramid": {
       "top": [
-        "Ananas", "Mandarinorange", "wilde Erdbeere"
+        "Ananas",
+        "Mandarinorange",
+        "wilde Erdbeere"
       ],
       "heart": [
-        "Jasmin", "Rose"
+        "Jasmin",
+        "Rose"
       ],
       "base": [
-        "Ambra", "Eichenmoos", "Patschuli", "Sandelholz", "Vetiver"
+        "Ambra",
+        "Eichenmoos",
+        "Patschuli",
+        "Sandelholz",
+        "Vetiver"
       ]
     },
     "links": [
@@ -1603,7 +2168,7 @@
     "name": "Magnetic",
     "number": "40W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1623,10 +2188,12 @@
         "Passionsblüte"
       ],
       "heart": [
-        "Gardenie", "Jasmin"
+        "Gardenie",
+        "Jasmin"
       ],
       "base": [
-        "Vanille", "Vetiver"
+        "Vanille",
+        "Vetiver"
       ]
     },
     "links": [
@@ -1639,7 +2206,7 @@
     "name": "Bonheur Supreme",
     "number": "42W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1652,17 +2219,25 @@
     ],
     "description": "Ein Duft, der Anmut, Licht und Freiheit ausstrahlt und die „Quintessenz des Lächelns“ verkörpert - ideal für intelligente, kultivierte und charmante Frauen. Wie ein „Funke des Lebens“ strahlt der Duft Lebendigkeit aus und wurde für anspruchsvolle Frauen kreiert, die an die schönen Dinge des Lebens glauben.",
     "olfactory_group": [
-      "Blumig", "Fruchtig"
+      "Blumig",
+      "Fruchtig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Birne", "schwarze Johannisbeere"
+        "Birne",
+        "schwarze Johannisbeere"
       ],
       "heart": [
-        "Iris", "Jasmin", "Orangenblüte"
+        "Iris",
+        "Jasmin",
+        "Orangenblüte"
       ],
       "base": [
-        "Patschuli", "Praline", "Tonkabohne", "Vanille"
+        "Patschuli",
+        "Praline",
+        "Tonkabohne",
+        "Vanille"
       ]
     },
     "links": [
@@ -1675,7 +2250,7 @@
     "name": "Frozen Crest",
     "number": "44U",
     "sex": "Unisex",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1692,13 +2267,18 @@
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Mandarinorange"
+        "Bergamotte",
+        "Mandarinorange"
       ],
       "heart": [
-        "schwarze Johannisbeere", "Tee"
+        "schwarze Johannisbeere",
+        "Tee"
       ],
       "base": [
-        "Galbanharz", "Moschus", "Pomeranze", "Sandelholz"
+        "Galbanharz",
+        "Moschus",
+        "Pomeranze",
+        "Sandelholz"
       ]
     },
     "links": [
@@ -1711,7 +2291,7 @@
     "name": "Baby Boy - Parfüm für Jungen",
     "number": "45B",
     "sex": "Kinder",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "30ml"
     ],
@@ -1720,7 +2300,8 @@
     ],
     "description": "Das Parfüm für Jungen zeichnet sich durch eine Mischung aus frischen und sanften holzigen Noten aus, die es einzigartig, angenehm und sowohl für Kinder als auch für Mütter geeignet machen. Die langanhaltende Formel ist hypoallergen, frei von Parabenen und künstlichen Farbstoffen und somit sanft zur Kinderhaut. Der minimalistische und elegante Flakon ist nicht nur praktisch, sondern auch schön.",
     "olfactory_group": [
-      "Blumig", "Holzig", "Moschus"
+      "Blumig",
+      "Moschus"
     ],
     "pyramid": {
       "top": [],
@@ -1735,7 +2316,7 @@
     "name": "Night Gem",
     "number": "47W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1748,17 +2329,25 @@
     ],
     "description": "Prachtvoll und exzentrisch, glamourös und doch ironisch: ein Duft für die sexy und selbstbewusste Frau, die erhobenen Hauptes geht. Ein Duft, der von der Pracht der Schleppe eines Abendkleides inspiriert ist.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Ingwerblüte", "Kardamom", "Pfeffer"
+        "Ingwerblüte",
+        "Kardamom",
+        "Pfeffer"
       ],
       "heart": [
-        "Gardenie", "Kokosnuss", "Orangenblüte", "Pfingstrose"
+        "Gardenie",
+        "Kokosnuss",
+        "Orangenblüte",
+        "Pfingstrose"
       ],
       "base": [
-        "Ambra", "Moschus", "Sandelholz"
+        "Ambra",
+        "Moschus",
+        "Sandelholz"
       ]
     },
     "links": [
@@ -1771,7 +2360,7 @@
     "name": "Sublime For Him",
     "number": "48M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1784,17 +2373,40 @@
     ],
     "description": "Ein intensiver, entschlossener und zugleich frischer Duft, der mit seinem Charme die Persönlichkeit des Trägers und seine natürliche Ausstrahlung unterstreicht. Ein einzigartiger Duft, unaussprechlich und schwer zu fassen, der den Mann verkörpert, der sich selbst treu bleibt.",
     "olfactory_group": [
-      "Holzig", "Orientalisch"
+      "Holzig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Ingwerblüte", "Lavendel", "Mandarinorange", "Pfirsich", "Zitrone"
+        "Bergamotte",
+        "Ingwerblüte",
+        "Lavendel",
+        "Mandarinorange",
+        "Pfirsich",
+        "Zitrone"
       ],
       "heart": [
-        "Anis", "brasilianisches Rosenholz", "Freesie", "Gardenie", "Jasmin", "Patschuli", "Pfeffer", "Rose", "Vetiver", "Zeder"
+        "Anis",
+        "brasilianisches Rosenholz",
+        "Freesie",
+        "Gardenie",
+        "Jasmin",
+        "Patschuli",
+        "Pfeffer",
+        "Rose",
+        "Vetiver",
+        "Zeder"
       ],
       "base": [
-        "Ambra", "Benzoeharz", "Eichenmoos", "Kokosnuss", "Leder", "Moschus", "Sandelholz", "Tonkabohne", "Vanille"
+        "Ambra",
+        "Benzoeharz",
+        "Eichenmoos",
+        "Kokosnuss",
+        "Leder",
+        "Moschus",
+        "Sandelholz",
+        "Tonkabohne",
+        "Vanille"
       ]
     },
     "links": [
@@ -1807,7 +2419,7 @@
     "name": "Pearl Bloom",
     "number": "49W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1824,13 +2436,17 @@
     ],
     "pyramid": {
       "top": [
-        "Neroli", "Papayablüte"
+        "Neroli",
+        "Papayablüte"
       ],
       "heart": [
-        "Amaryllis", "Narzisse", "Wasserlilie"
+        "Amaryllis",
+        "Narzisse",
+        "Wasserlilie"
       ],
       "base": [
-        "Cashmeran", "Moschus"
+        "Cashmeran",
+        "Moschus"
       ]
     },
     "links": [
@@ -1843,7 +2459,7 @@
     "name": "Miss Bijou",
     "number": "51W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1856,17 +2472,29 @@
     ],
     "description": "Ein Duft, der so leicht und frisch ist wie ein Blütenblatt und gleichzeitig die tiefe Sinnlichkeit einer brillanten, etwas rebellischen Frau ausdrückt, die weiß, was sie will. Ein Duft, in dem blumige und orientalische Noten mit ihrer unglaublichen Frische und Lebensfreude dominieren.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Mandarinorange", "Orange", "Orangenblüte"
+        "Bergamotte",
+        "Mandarinorange",
+        "Orange",
+        "Orangenblüte"
       ],
       "heart": [
-        "Jasmin", "Mimose", "Rose", "Ylang-Ylang"
+        "Jasmin",
+        "Mimose",
+        "Rose",
+        "Ylang-Ylang"
       ],
       "base": [
-        "Moschus", "Patschuli", "somalischer Opopanax", "Tonkabohne", "Vanille", "Vetiver"
+        "Moschus",
+        "Patschuli",
+        "somalischer Opopanax",
+        "Tonkabohne",
+        "Vanille",
+        "Vetiver"
       ]
     },
     "links": [
@@ -1879,7 +2507,7 @@
     "name": "Arabian Mirage",
     "number": "52M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1892,17 +2520,26 @@
     ],
     "description": "Ein edler Duft, der sich um einen Fougère-Akkord entwickelt. Ihn zu wählen bedeutet, sich einen Duft zu gönnen, der die Gelassenheit der Eleganz und die Kraft der Verführung besitzt.",
     "olfactory_group": [
-      "Aromatisch", "Holzig"
+      "Aromatisch",
+      "Holzig"
     ],
     "pyramid": {
       "top": [
-        "Anis", "Kümmel", "Lavendel", "Mandarinorange", "Minze"
+        "Anis",
+        "Kümmel",
+        "Lavendel",
+        "Mandarinorange",
+        "Minze"
       ],
       "heart": [
-        "brasilianisches Rosenholz", "Koriander"
+        "brasilianisches Rosenholz",
+        "Koriander"
       ],
       "base": [
-        "Eichenmoos", "Ladanharz", "Patschuli", "Sandelholz"
+        "Eichenmoos",
+        "Ladanharz",
+        "Patschuli",
+        "Sandelholz"
       ]
     },
     "links": [
@@ -1915,7 +2552,7 @@
     "name": "Vanité",
     "number": "53W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1928,17 +2565,21 @@
     ],
     "description": "Ein Duft, der das Geheimnis der Anziehungskraft enthüllt. Die blumige Kopfnote verbindet sich mit einem sinnlichen Herzen aus Ambra und Moschus und trifft auf die natürliche Eleganz der Hölzer zu einem sinnlichen Duft.",
     "olfactory_group": [
-      "Blumig", "Holzig", "Moschus"
+      "Blumig",
+      "Holzig",
+      "Moschus"
     ],
     "pyramid": {
       "top": [
-        "Bulgarische Rose", "Gardenie"
+        "Bulgarische Rose",
+        "Gardenie"
       ],
       "heart": [
         "Moschus"
       ],
       "base": [
-        "Vetiver", "Zeder"
+        "Vetiver",
+        "Zeder"
       ]
     },
     "links": [
@@ -1951,7 +2592,7 @@
     "name": "Night Flower",
     "number": "54U",
     "sex": "Unisex",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -1964,17 +2605,38 @@
     ],
     "description": "Ein opulenter Duft für anspruchsvolle und faszinierende Persönlichkeiten. Ein Duft, der durch seine warmen und dunklen Noten besticht und einen modernen und doch zeitlosen Duft mit einer Herznote aus Orchidee kreiert.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Gardenie", "Jasmin", "Mandarinorange", "schwarze Johannisbeere", "Trüffel", "Ylang-Ylang", "Zitrone"
+        "Bergamotte",
+        "Gardenie",
+        "Jasmin",
+        "Mandarinorange",
+        "schwarze Johannisbeere",
+        "Trüffel",
+        "Ylang-Ylang",
+        "Zitrone"
       ],
       "heart": [
-        "fruchtige Noten", "Gardenie", "Gewürze", "Jasmin", "Lotus", "wilde Orchidee", "Ylang-Ylang"
+        "fruchtige Noten",
+        "Gardenie",
+        "Gewürze",
+        "Jasmin",
+        "Lotus",
+        "wilde Orchidee",
+        "Ylang-Ylang"
       ],
       "base": [
-        "Ambra", "dunkle Schokolade", "Moschus", "Patschuli", "Sandelholz", "Vanille", "Vetiver", "Weihrauch"
+        "Ambra",
+        "dunkle Schokolade",
+        "Moschus",
+        "Patschuli",
+        "Sandelholz",
+        "Vanille",
+        "Vetiver",
+        "Weihrauch"
       ]
     },
     "links": [
@@ -1987,7 +2649,7 @@
     "name": "Black Addiction",
     "number": "55W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2004,13 +2666,21 @@
     ],
     "pyramid": {
       "top": [
-        "Birne", "Orangenblüte", "rosa Pfeffer"
+        "Birne",
+        "Orangenblüte",
+        "rosa Pfeffer"
       ],
       "heart": [
-        "Jasmin", "Kaffee", "Lakritz", "Mandel"
+        "Jasmin",
+        "Kaffee",
+        "Lakritz",
+        "Mandel"
       ],
       "base": [
-        "Kaschmirholz", "Patschuli", "Vanille", "Zitronatzitrone"
+        "Kaschmirholz",
+        "Patschuli",
+        "Vanille",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -2023,7 +2693,7 @@
     "name": "Light & Dark",
     "number": "56W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2036,17 +2706,25 @@
     ],
     "description": "Ein Duft, der neue Empfindungen offenbart und durch seine geheimnisvolle Vielseitigkeit verführt. Stark, charismatisch und orientalisch ist dieser Duft für die Frau, die es versteht, unschuldig und doch sinnlich zu sein.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Mandarinorange", "Safran", "Thymian"
+        "Mandarinorange",
+        "Safran",
+        "Thymian"
       ],
       "heart": [
-        "Lilie", "wilde Orchidee", "Ylang-Ylang"
+        "Lilie",
+        "wilde Orchidee",
+        "Ylang-Ylang"
       ],
       "base": [
-        "brasilianisches Rosenholz", "Eichenmoos", "Tonkabohne", "Vanille"
+        "brasilianisches Rosenholz",
+        "Eichenmoos",
+        "Tonkabohne",
+        "Vanille"
       ]
     },
     "links": [
@@ -2059,7 +2737,7 @@
     "name": "Pure Purple",
     "number": "57W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2072,17 +2750,22 @@
     ],
     "description": "Ein verspielter und raffinierter Duft, der an die modernsten und auffälligsten Schmuckstücke erinnert, sowie an die farbenfrohen und duftenden Noten, aus denen sich seine Duftpyramide zusammensetzt: eine wahre Sinnesreise, von den Zitrusnoten in der Kopfnote über die unverwechselbare Rose in der Herznote bis hin zur raffinierten holzigen Basisnote.",
     "olfactory_group": [
-      "Blumig", "Holzig", "Moschus"
+      "Blumig",
+      "Holzig",
+      "Moschus"
     ],
     "pyramid": {
       "top": [
-        "grüne Noten", "Pink Grapefruit"
+        "grüne Noten",
+        "Pink Grapefruit"
       ],
       "heart": [
-        "Iris", "Rose"
+        "Iris",
+        "Rose"
       ],
       "base": [
-        "Heliotrop", "holzige Noten"
+        "Heliotrop",
+        "holzige Noten"
       ]
     },
     "links": [
@@ -2095,7 +2778,7 @@
     "name": "Baby Girl - Parfüm für Mädchen",
     "number": "58B",
     "sex": "Kinder",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "30ml"
     ],
@@ -2104,7 +2787,8 @@
     ],
     "description": "Das Parfüm zeichnet sich durch eine Kombination aus frischen, blumigen und fruchtigen Noten aus, die es einzigartig und angenehm machen. Der Duft eignet sich für alle kleinen Mädchen, aber auch für Mütter. Die langanhaltende Formel ist hypoallergen, frei von Parabenen und künstlichen Farbstoffen und somit sanft zur Kinderhaut. Der minimalistische und elegante Flakon ist nicht nur praktisch, sondern auch schön.",
     "olfactory_group": [
-      "Blumig", "Fruchtig"
+      "Blumig",
+      "Fruchtig"
     ],
     "pyramid": {
       "top": [],
@@ -2119,7 +2803,7 @@
     "name": "Baby Joy - Parfüm für Babys",
     "number": "59B",
     "sex": "Kinder",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "30ml"
     ],
@@ -2143,7 +2827,7 @@
     "name": "Majesty",
     "number": "60M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2156,17 +2840,25 @@
     ],
     "description": "Ein warmer, romantischer und unvergesslicher Duft. Er wurde aus den edelsten Essenzen hergestellt und zeichnet sich durch eine Vielzahl natürlicher Elemente in seinen Noten aus. Zusammen enthüllen sie eine märchenhafte Welt, einen Abend voller berauschender und köstlicher Düfte in einem prächtigen Palast.",
     "olfactory_group": [
-      "Blumig", "Holzig", "Moschus"
+      "Blumig",
+      "Holzig",
+      "Moschus"
     ],
     "pyramid": {
       "top": [
-        "fruchtige Noten", "Meersalz"
+        "fruchtige Noten",
+        "Meersalz"
       ],
       "heart": [
-        "Bergamotte", "Iris", "Mandarinorange", "Zitrone"
+        "Bergamotte",
+        "Iris",
+        "Mandarinorange",
+        "Zitrone"
       ],
       "base": [
-        "holzige Noten", "marine Noten", "Moschus"
+        "holzige Noten",
+        "marine Noten",
+        "Moschus"
       ]
     },
     "links": [
@@ -2179,7 +2871,7 @@
     "name": "Triumph",
     "number": "61M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2196,13 +2888,18 @@
     ],
     "pyramid": {
       "top": [
-        "Mandarinorange", "marine Noten", "Pink Grapefruit"
+        "Mandarinorange",
+        "marine Noten",
+        "Pink Grapefruit"
       ],
       "heart": [
         "Jasmin, Lorbeer"
       ],
       "base": [
-        "Ambergris", "Eichenmoos", "Guajakholz", "Patschuli"
+        "Ambergris",
+        "Eichenmoos",
+        "Guajakholz",
+        "Patschuli"
       ]
     },
     "links": [
@@ -2215,7 +2912,7 @@
     "name": "Extreme",
     "number": "62M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2228,17 +2925,30 @@
     ],
     "description": "Dieser holzig-aromatische Duft ist Instinkt pur und drückt die Kraft eines entschlossenen Mannes aus, dessen Herz in der Tradition verwurzelt ist, der sich aber den Herausforderungen der modernen Welt zu stellen weiß.",
     "olfactory_group": [
-      "Aromatisch", "Holzig"
+      "Aromatisch",
+      "Holzig"
     ],
     "pyramid": {
       "top": [
-        "aquatische Noten", "Basilikum", "Geranie", "Lavendel", "Ringelblume"
+        "aquatische Noten",
+        "Basilikum",
+        "Geranie",
+        "Lavendel",
+        "Ringelblume"
       ],
       "heart": [
-        "Bran", "Heu", "Moepelholz", "Muskatellersalbei", "Tabakblüte"
+        "Bran",
+        "Heu",
+        "Moepelholz",
+        "Muskatellersalbei",
+        "Tabakblüte"
       ],
       "base": [
-        "Ambra", "Ladanharz", "Moschus", "Sandelholz", "Zypresse"
+        "Ambra",
+        "Ladanharz",
+        "Moschus",
+        "Sandelholz",
+        "Zypresse"
       ]
     },
     "links": [
@@ -2251,7 +2961,7 @@
     "name": "Talisman",
     "number": "64W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2264,17 +2974,22 @@
     ],
     "description": "Ein orientalischer Duft, der zu einem abenteuerlichen und magischen Erlebnis einlädt, eine olfaktorische Reise zu den Düften und Farben Indiens.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Mandarinorange", "Orange", "Safran"
+        "Mandarinorange",
+        "Orange",
+        "Safran"
       ],
       "heart": [
-        "Osmanthus", "Tuberose"
+        "Osmanthus",
+        "Tuberose"
       ],
       "base": [
-        "Ambra", "holzige Noten"
+        "Ambra",
+        "holzige Noten"
       ]
     },
     "links": [
@@ -2287,7 +3002,7 @@
     "name": "Rock Soul",
     "number": "66M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2300,17 +3015,27 @@
     ],
     "description": "Der Duft strahlt Geheimnis und eine zeitlose Energie aus. Ein unnachahmliches Statement von Individualität und Verführung, die Essenz einer sehr unabhängigen Person, die keine Angst hat, ihre Einzigartigkeit zu behaupten.",
     "olfactory_group": [
-      "Holzig", "Orientalisch"
+      "Holzig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Apfel", "Bergamotte", "Tee", "Zimt"
+        "Apfel",
+        "Bergamotte",
+        "Tee",
+        "Zimt"
       ],
       "heart": [
-        "Davana", "Hibiskus", "Jasmin"
+        "Davana",
+        "Hibiskus",
+        "Jasmin"
       ],
       "base": [
-        "Ambra", "Leder", "Patschuli", "Sandelholz", "Weihrauch Olibanum"
+        "Ambra",
+        "Leder",
+        "Patschuli",
+        "Sandelholz",
+        "Weihrauch Olibanum"
       ]
     },
     "links": [
@@ -2323,7 +3048,7 @@
     "name": "Victoria",
     "number": "67W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2336,17 +3061,23 @@
     ],
     "description": "Ein Duft, der eine göttliche Spur hinterlässt, für starke Frauen, für moderne Kleopatras. Er drückt Stolz, Weiblichkeit und Zartheit aus.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Ingwerblüte", "Jasmin", "Mandarinorange"
+        "Ingwerblüte",
+        "Jasmin",
+        "Mandarinorange"
       ],
       "heart": [
-        "Meersalz", "Vanille"
+        "Meersalz",
+        "Vanille"
       ],
       "base": [
-        "Ambergris", "Kaschmirholz", "Sandelholz"
+        "Ambergris",
+        "Kaschmirholz",
+        "Sandelholz"
       ]
     },
     "links": [
@@ -2359,7 +3090,7 @@
     "name": "Glory For Him",
     "number": "68M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2372,17 +3103,27 @@
     ],
     "description": "Ein entschlossener, anziehender und kühner Duft. Er strahlt die Kraft einer selbstbewussten Person aus, die sich nicht scheut, ihre Einzigartigkeit zu behaupten.",
     "olfactory_group": [
-      "Chypre", "Fruchtig"
+      "Chypre",
+      "Fruchtig"
     ],
     "pyramid": {
       "top": [
-        "Ananas", "Apfel", "Bergamotte", "schwarze Johannisbeere"
+        "Ananas",
+        "Apfel",
+        "Bergamotte",
+        "schwarze Johannisbeere"
       ],
       "heart": [
-        "Birke", "Jasmin", "Patschuli", "Rose"
+        "Birke",
+        "Jasmin",
+        "Patschuli",
+        "Rose"
       ],
       "base": [
-        "Ambergris", "Eichenmoos", "Moschus", "Vanille"
+        "Ambergris",
+        "Eichenmoos",
+        "Moschus",
+        "Vanille"
       ]
     },
     "links": [
@@ -2395,7 +3136,7 @@
     "name": "Seaside",
     "number": "69M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2412,7 +3153,8 @@
     ],
     "pyramid": {
       "top": [
-        "Meersalz", "Myrte"
+        "Meersalz",
+        "Myrte"
       ],
       "heart": [
         "Algae"
@@ -2431,7 +3173,7 @@
     "name": "Pure Ego For Her",
     "number": "70W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2444,17 +3186,27 @@
     ],
     "description": "Ein Duft mit den kontrastreichen, verführerischen und süßen Noten einer entschlossenen, lustvollen und leidenschaftlichen Frau, die es liebt, bewundert zu werden. Ein beständiger Duft, der beim Vorbeigehen eine deutliche Spur von Geheimnis und Verführung hinterlässt.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Litschi", "Mandarinorange", "Pfirsich"
+        "Bergamotte",
+        "Litschi",
+        "Mandarinorange",
+        "Pfirsich"
       ],
       "heart": [
-        "Jasmin", "Lilie", "Maiglöckchen", "Pflaume"
+        "Jasmin",
+        "Lilie",
+        "Maiglöckchen",
+        "Pflaume"
       ],
       "base": [
-        "Ambra", "Moschus", "Vanille", "Vetiver"
+        "Ambra",
+        "Moschus",
+        "Vanille",
+        "Vetiver"
       ]
     },
     "links": [
@@ -2467,7 +3219,7 @@
     "name": "Sublime For Her",
     "number": "71W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2484,13 +3236,28 @@
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Mandarinorange", "Passionsfrucht", "Pfirsich", "Zitrone"
+        "Bergamotte",
+        "Mandarinorange",
+        "Passionsfrucht",
+        "Pfirsich",
+        "Zitrone"
       ],
       "heart": [
-        "Freesie", "Geißblatt", "Jasmin", "Magnolie", "Orangenblüte", "Pfingstrose", "Rose", "Wasserlilie"
+        "Freesie",
+        "Geißblatt",
+        "Jasmin",
+        "Magnolie",
+        "Orangenblüte",
+        "Pfingstrose",
+        "Rose",
+        "Wasserlilie"
       ],
       "base": [
-        "Ambra", "Patschuli", "Sandelholz", "Vanille", "Vetiver"
+        "Ambra",
+        "Patschuli",
+        "Sandelholz",
+        "Vanille",
+        "Vetiver"
       ]
     },
     "links": [
@@ -2503,7 +3270,7 @@
     "name": "Earth Memory",
     "number": "72U",
     "sex": "Unisex",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2516,17 +3283,24 @@
     ],
     "description": "Ein vielseitiger Duft für Männer und Frauen, der verträumte Freiheit und dekonstruierte Eleganz im Bohème-Stil vermittelt.",
     "olfactory_group": [
-      "Holzig", "Orientalisch"
+      "Holzig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
         "Zitronatzitrone"
       ],
       "heart": [
-        "Patschuli", "Sandelholz", "Vetiver"
+        "Patschuli",
+        "Sandelholz",
+        "Vetiver"
       ],
       "base": [
-        "Ladanharz", "Moschus", "Tolubalsam", "Tonkabohne", "Vanille"
+        "Ladanharz",
+        "Moschus",
+        "Tolubalsam",
+        "Tonkabohne",
+        "Vanille"
       ]
     },
     "links": [
@@ -2539,7 +3313,7 @@
     "name": "The Summit",
     "number": "73U",
     "sex": "Unisex",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2552,17 +3326,22 @@
     ],
     "description": "Die Wärme der holzigen Noten verbindet sich mit der Frische der Zitrusnoten und der tiefen Sinnlichkeit der Moschusnoten zu einem Duft, der Dynamik, den Wunsch nach Herausforderung und einen starken Charakter ausdrückt.",
     "olfactory_group": [
-      "Holzig", "Orientalisch"
+      "Holzig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Pink Grapefruit", "Zitrone"
+        "Bergamotte",
+        "Pink Grapefruit",
+        "Zitrone"
       ],
       "heart": [
         "Sandelholz"
       ],
       "base": [
-        "Ambergris", "Moschus", "Zeder"
+        "Ambergris",
+        "Moschus",
+        "Zeder"
       ]
     },
     "links": [
@@ -2575,7 +3354,9 @@
     "name": "Essence Noire",
     "number": "74M",
     "sex": "Herren",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -2586,17 +3367,23 @@
     ],
     "description": "Ein intensiver und hypnotischer Herrenduft mit holzigen und rauchigen Noten. Ein Duft für Männer mit starker Persönlichkeit, der mit seinen unwiderstehlichen Noten von Tabak, Cannabis und Kaffee fast süchtig macht.",
     "olfactory_group": [
-      "Aromatisch", "Holzig"
+      "Aromatisch",
+      "Holzig"
     ],
     "pyramid": {
       "top": [
-        "grüne Noten", "Hanf"
+        "grüne Noten",
+        "Hanf"
       ],
       "heart": [
-        "Harze", "holzige Noten", "Kaffee", "Tabakblüte"
+        "Harze",
+        "holzige Noten",
+        "Kaffee",
+        "Tabakblüte"
       ],
       "base": [
-        "Agarholz", "Weihrauch"
+        "Agarholz",
+        "Weihrauch"
       ]
     },
     "links": [
@@ -2608,7 +3395,9 @@
     "name": "Xcellence",
     "number": "75M",
     "sex": "Herren",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -2619,17 +3408,29 @@
     ],
     "description": "Ein geheimnisvoller Herrenduft, der die Regeln der konventionellen Parfümerie mit Modernität und Exotik verbindet. Ein Must-Have für den abenteuerlustigen und starken Mann, ein zeitloser Duft, der eine unverwechselbare und lang anhaltende sinnliche Spur hinterlässt.",
     "olfactory_group": [
-      "Fougère", "Orientalisch"
+      "Fougère",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Ananas", "Bergamotte", "Rhabarber"
+        "Ananas",
+        "Bergamotte",
+        "Rhabarber"
       ],
       "heart": [
-        "Iris", "Jasmin", "Piment"
+        "Iris",
+        "Jasmin",
+        "Piment"
       ],
       "base": [
-        "Ambra", "Eichenmoos", "Ladanharz", "Styrax", "Vanille", "Vetiver", "Zimt", "Zitronatzitrone"
+        "Ambra",
+        "Eichenmoos",
+        "Ladanharz",
+        "Styrax",
+        "Vanille",
+        "Vetiver",
+        "Zimt",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -2641,7 +3442,7 @@
     "name": "Deep Blue For Her",
     "number": "76W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2658,13 +3459,16 @@
     ],
     "pyramid": {
       "top": [
-        "Minze", "Zitrone"
+        "Minze",
+        "Zitrone"
       ],
       "heart": [
         "Jasmin"
       ],
       "base": [
-        "brauner Zucker", "Ladanharz", "Zeder"
+        "brauner Zucker",
+        "Ladanharz",
+        "Zeder"
       ]
     },
     "links": [
@@ -2677,7 +3481,7 @@
     "name": "Extreme Purple",
     "number": "78M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2690,17 +3494,22 @@
     ],
     "description": "Ein maskuliner, intensiver und provokativer Duft, ideal für den starken Mann. Diese Charakterzüge spiegeln sich in der Kombination von frischen und würzigen Noten wie Minze, Pfeffer und Moschus wider.",
     "olfactory_group": [
-      "Holzig", "Orientalisch"
+      "Holzig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Ambra", "Minze"
+        "Ambra",
+        "Minze"
       ],
       "heart": [
-        "Gewürze", "Pfeffer", "Vetiver"
+        "Gewürze",
+        "Pfeffer",
+        "Vetiver"
       ],
       "base": [
-        "Eichenmoos", "Vanille"
+        "Eichenmoos",
+        "Vanille"
       ]
     },
     "links": [
@@ -2713,7 +3522,7 @@
     "name": "So True",
     "number": "79M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2736,7 +3545,8 @@
         "Orangenblüte"
       ],
       "base": [
-        "Ambrofix", "Patschuli"
+        "Ambrofix",
+        "Patschuli"
       ]
     },
     "links": [
@@ -2749,7 +3559,7 @@
     "name": "Absolutely",
     "number": "80W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2762,17 +3572,22 @@
     ],
     "description": "Eine Hommage an die moderne Weiblichkeit: eine unwiderstehliche Kombination aus Stärke und Unabhängigkeit. Dieser Duft drückt Weiblichkeit, Anmut und Geheimnis aus: ein moderner Chypre, elegant, üppig, intensiv und süß zugleich. Eine Kombination aus drei Akkorden: Nektar der schwarzen Johannisbeere, Chypre und leicht moschusartigem Holz.",
     "olfactory_group": [
-      "Chypre", "Fruchtig"
+      "Chypre",
+      "Fruchtig"
     ],
     "pyramid": {
       "top": [
         "schwarze Johannisbeere"
       ],
       "heart": [
-        "Freesie", "Rose"
+        "Freesie",
+        "Rose"
       ],
       "base": [
-        "Ambroxan", "holzige Noten", "Patschuli", "Vanille"
+        "Ambroxan",
+        "holzige Noten",
+        "Patschuli",
+        "Vanille"
       ]
     },
     "links": [
@@ -2785,7 +3600,7 @@
     "name": "Allure Éternelle",
     "number": "81W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2798,17 +3613,25 @@
     ],
     "description": "Dieses Parfüm bietet ein neues Dufterlebnis: ein explosiver und unwiderstehlicher Kontrast zwischen Duftnuancen von Schlagsahne, betörendem Jasmin und warmen Holznoten.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Aldehyde", "Ingwerblüte", "Tangerine"
+        "Aldehyde",
+        "Ingwerblüte",
+        "Tangerine"
       ],
       "heart": [
-        "Jasmin", "Orangenblüte"
+        "Jasmin",
+        "Orangenblüte"
       ],
       "base": [
-        "Benzoeharz", "holzige Noten", "Kaschmirholz", "Schlagsahne", "Vanille"
+        "Benzoeharz",
+        "holzige Noten",
+        "Kaschmirholz",
+        "Schlagsahne",
+        "Vanille"
       ]
     },
     "links": [
@@ -2821,7 +3644,7 @@
     "name": "Jeunesse",
     "number": "82W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2834,17 +3657,22 @@
     ],
     "description": "Ein femininer Duft, der die lebhaften Noten von rosa Pfeffer mit blumigen Akkorden von Jasmin und Rose sowie der zarten Süße von Panna Cotta vereint.",
     "olfactory_group": [
-      "Blumig", "Fruchtig"
+      "Blumig",
+      "Fruchtig"
     ],
     "pyramid": {
       "top": [
-        "rosa Pfeffer", "rote Johannisbeere"
+        "rosa Pfeffer",
+        "rote Johannisbeere"
       ],
       "heart": [
-        "Jasmin", "Pfingstrose", "Rose"
+        "Jasmin",
+        "Pfingstrose",
+        "Rose"
       ],
       "base": [
-        "Moschus", "Patschuli"
+        "Moschus",
+        "Patschuli"
       ]
     },
     "links": [
@@ -2857,7 +3685,7 @@
     "name": "Indigo",
     "number": "84M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2870,17 +3698,28 @@
     ],
     "description": "Unerbittliche Kraft und Leidenschaft, unaufhaltsam wie die Wellen des Meeres: Ein Duft, der mit den sinnlichen Noten des Mittelmeers überrascht und unwiderstehliche, aromatische Akkorde vereint.",
     "olfactory_group": [
-      "Aromatisch", "Fougère"
+      "Aromatisch",
+      "Fougère"
     ],
     "pyramid": {
       "top": [
-        "aquatische Noten", "Bergamotte", "Feigenblatt", "Pink Grapefruit"
+        "aquatische Noten",
+        "Bergamotte",
+        "Feigenblatt",
+        "Pink Grapefruit"
       ],
       "heart": [
-        "Ambroxan", "Papyrus", "Patschuli", "Pfeffer", "Veilchenblatt"
+        "Ambroxan",
+        "Papyrus",
+        "Patschuli",
+        "Pfeffer",
+        "Veilchenblatt"
       ],
       "base": [
-        "Moschus", "Safran", "Tonkabohne", "Weihrauch"
+        "Moschus",
+        "Safran",
+        "Tonkabohne",
+        "Weihrauch"
       ]
     },
     "links": [
@@ -2893,7 +3732,7 @@
     "name": "Serendipity",
     "number": "85W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2906,17 +3745,27 @@
     ],
     "description": "Dieser Duft verzaubert und überrascht mit blumigen und vanilleartigen Noten. Er ist perfekt für Frauen, die sich nicht mit herkömmlichen Parfüms zufriedengeben. die sich einen seltenen und kostbaren Duft wünschen und die immer ihr Bestes geben möchten.",
     "olfactory_group": [
-      "Blumig", "Chypre"
+      "Blumig",
+      "Chypre"
     ],
     "pyramid": {
       "top": [
-        "Ananas", "Hyazinthe", "Iris", "Patschuli", "rosa Pfeffer"
+        "Ananas",
+        "Hyazinthe",
+        "Iris",
+        "Patschuli",
+        "rosa Pfeffer"
       ],
       "heart": [
-        "Jasmin", "Rose", "Zitrone"
+        "Jasmin",
+        "Rose",
+        "Zitrone"
       ],
       "base": [
-        "Moschus", "Patschuli", "Vanille", "Vetiver"
+        "Moschus",
+        "Patschuli",
+        "Vanille",
+        "Vetiver"
       ]
     },
     "links": [
@@ -2929,7 +3778,7 @@
     "name": "Titan",
     "number": "86M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2942,17 +3791,27 @@
     ],
     "description": "Ein Duft, der die Essenz der Männlichkeit einfängt: Die richtige Wahl für den selbstbewussten Mann. Eine Duftkomposition, die Stärke und Zartheit, Spontaneität und Geheimnis ausdrückt – kreiert für den mutigen Mann, der seinen Gefühlen folgt.",
     "olfactory_group": [
-      "Aromatisch", "Fougère"
+      "Aromatisch",
+      "Fougère"
     ],
     "pyramid": {
       "top": [
-        "Ananas", "Bergamotte", "Lavendel", "Zitronenverbene"
+        "Ananas",
+        "Bergamotte",
+        "Lavendel",
+        "Zitronenverbene"
       ],
       "heart": [
-        "Eichenmoos", "Geranie", "Kumarin", "Rose", "roter Apfel", "Trockenfrüchte"
+        "Eichenmoos",
+        "Geranie",
+        "Kumarin",
+        "Rose",
+        "roter Apfel",
+        "Trockenfrüchte"
       ],
       "base": [
-        "Sandelholz", "Tonkabohne"
+        "Sandelholz",
+        "Tonkabohne"
       ]
     },
     "links": [
@@ -2965,7 +3824,7 @@
     "name": "Wildman",
     "number": "87M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -2978,17 +3837,26 @@
     ],
     "description": "Dieser Duft ist für den mutigen, großzügigen und verführerischen Mann, der frei in seinen Lebensentscheidungen ist. Ein holziger Duft, der verführt und Begehren ausdrückt. Sein charismatisches und unwiderstehliches Aroma zelebriert das Leben mit Intensität und Mut.",
     "olfactory_group": [
-      "Holzig", "Würzig"
+      "Holzig",
+      "Würzig"
     ],
     "pyramid": {
       "top": [
-        "Ingwerblüte", "Lavendel", "Minze", "Zitrone"
+        "Ingwerblüte",
+        "Lavendel",
+        "Minze",
+        "Zitrone"
       ],
       "heart": [
-        "Apfel", "Geranie", "Kardamom", "Wacholder"
+        "Apfel",
+        "Geranie",
+        "Kardamom",
+        "Wacholder"
       ],
       "base": [
-        "Amberwood", "Tonkabohne", "Vetiver"
+        "Amberwood",
+        "Tonkabohne",
+        "Vetiver"
       ]
     },
     "links": [
@@ -3001,7 +3869,7 @@
     "name": "Midnight Man",
     "number": "88M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3014,17 +3882,24 @@
     ],
     "description": "Mit seiner sinnlichen und innovativen orientalischen Note ist dieser Duft kühn, charismatisch und magnetisch anziehend, Ausdruck eines neuen Modells von Männlichkeit. Die warmen, intensiven und vielfältigen Noten fangen den stürmischen und geheimnisvollen Charakter des Feuers ein, Symbol für Kraft und Energie.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Gewürze", "Rum", "Tabakblüte"
+        "Gewürze",
+        "Rum",
+        "Tabakblüte"
       ],
       "heart": [
-        "Iris", "Leder", "Tuberose"
+        "Iris",
+        "Leder",
+        "Tuberose"
       ],
       "base": [
-        "Benzoeharz", "Guajakholz", "Tonkabohne"
+        "Benzoeharz",
+        "Guajakholz",
+        "Tonkabohne"
       ]
     },
     "links": [
@@ -3037,7 +3912,7 @@
     "name": "Ville Lumière",
     "number": "89W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3050,17 +3925,31 @@
     ],
     "description": "Ein femininer, sinnlicher und charmanter Duft, der von einer atemberaubenden Liebesgeschichte in der Stadt der Romantik inspiriert wurde: Paris.",
     "olfactory_group": [
-      "Chypre", "Fruchtig"
+      "Chypre",
+      "Fruchtig"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Birne", "Calone", "Himbeere", "Orange", "Tangerine", "wilde Erdbeere"
+        "Bergamotte",
+        "Birne",
+        "Calone",
+        "Himbeere",
+        "Orange",
+        "Tangerine",
+        "wilde Erdbeere"
       ],
       "heart": [
-        "Jasmin", "Orangenblüte", "Pfingstrose", "Stechapfelblüte"
+        "Jasmin",
+        "Orangenblüte",
+        "Pfingstrose",
+        "Stechapfelblüte"
       ],
       "base": [
-        "Eichenmoos", "Moschus", "Patschuli", "Vanille", "Zeder"
+        "Eichenmoos",
+        "Moschus",
+        "Patschuli",
+        "Vanille",
+        "Zeder"
       ]
     },
     "links": [
@@ -3073,7 +3962,7 @@
     "name": "Femme Fatale",
     "number": "90W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3090,13 +3979,21 @@
     ],
     "pyramid": {
       "top": [
-        "Bitterorange", "Zitrone"
+        "Bitterorange",
+        "Zitrone"
       ],
       "heart": [
-        "Orangenblüte", "Rose"
+        "Orangenblüte",
+        "Rose"
       ],
       "base": [
-        "Cashmeran", "Heliotrop", "Mandel", "Sandelholz", "Tolubalsam", "Tonkabohne", "Vanille"
+        "Cashmeran",
+        "Heliotrop",
+        "Mandel",
+        "Sandelholz",
+        "Tolubalsam",
+        "Tonkabohne",
+        "Vanille"
       ]
     },
     "links": [
@@ -3109,7 +4006,7 @@
     "name": "Bond",
     "number": "91M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3122,17 +4019,31 @@
     ],
     "description": "Dieser Duft zelebriert Lebensfreude, echte Emotionen und den Wert des Austauschs. Er steht für Aufbruch – eine Welle der Freiheit, die an die Frische des Wassers und das azurblaue Glitzern des Meeres erinnert. In ihm schwingt eine moderne Leichtigkeit mit, die belebende Energie verströmt.",
     "olfactory_group": [
-      "Aromatisch", "Zitrus"
+      "Aromatisch",
+      "Zitrus"
     ],
     "pyramid": {
       "top": [
-        "Ananas", "Bergamotte", "Neroli", "Rosmarin", "Zitrone"
+        "Ananas",
+        "Bergamotte",
+        "Neroli",
+        "Rosmarin",
+        "Zitrone"
       ],
       "heart": [
-        "Alpenveilchen", "Eichenmoos", "Koriander", "Nachtjasmin"
+        "Alpenveilchen",
+        "Eichenmoos",
+        "Koriander",
+        "Nachtjasmin"
       ],
       "base": [
-        "brasilianisches Rosenholz", "Eichenmoos", "Kardamom", "Moschus", "Sandelholz", "Tonkabohne", "Zeder"
+        "brasilianisches Rosenholz",
+        "Eichenmoos",
+        "Kardamom",
+        "Moschus",
+        "Sandelholz",
+        "Tonkabohne",
+        "Zeder"
       ]
     },
     "links": [
@@ -3145,7 +4056,7 @@
     "name": "Glory For Her",
     "number": "93W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3158,17 +4069,30 @@
     ],
     "description": "Ein neuer, exklusiver Duft, der für die moderne Frau entwickelt wurde – selbstbewusst und gleichzeitig voller Anmut und femininer Ausstrahlung.",
     "olfactory_group": [
-      "Chypre", "Fruchtig"
+      "Chypre",
+      "Fruchtig"
     ],
     "pyramid": {
       "top": [
-        "Apfel", "Bergamotte", "Patschuli", "rosa Pfeffer", "Veilchen", "Zitrone"
+        "Apfel",
+        "Bergamotte",
+        "Patschuli",
+        "rosa Pfeffer",
+        "Veilchen",
+        "Zitrone"
       ],
       "heart": [
-        "Moschus", "Rose", "Sandelholz", "Styrax"
+        "Moschus",
+        "Rose",
+        "Sandelholz",
+        "Styrax"
       ],
       "base": [
-        "Ambra", "Flieder", "Pfirsich", "schwarze Johannisbeere", "Ylang-Ylang"
+        "Ambra",
+        "Flieder",
+        "Pfirsich",
+        "schwarze Johannisbeere",
+        "Ylang-Ylang"
       ]
     },
     "links": [
@@ -3181,7 +4105,7 @@
     "name": "Revenant Intense",
     "number": "94M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3194,17 +4118,27 @@
     ],
     "description": "Ein Duft, der die Essenz eines Mannes einfängt – jenseits von Trends, losgelöst von der Zeit. Ungezähmt, bewusst und ganz im Einklang mit seiner eigenen Identität.",
     "olfactory_group": [
-      "Aromatisch", "Fougère"
+      "Aromatisch",
+      "Fougère"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Pfeffer"
+        "Bergamotte",
+        "Pfeffer"
       ],
       "heart": [
-        "Elemiharz", "Geranie", "Lavendel", "Patschuli", "rosa Pfeffer", "Szechuanpfeffer", "Vetiver"
+        "Elemiharz",
+        "Geranie",
+        "Lavendel",
+        "Patschuli",
+        "rosa Pfeffer",
+        "Szechuanpfeffer",
+        "Vetiver"
       ],
       "base": [
-        "Ambroxan", "Ladanharz", "Zitronatzitrone"
+        "Ambroxan",
+        "Ladanharz",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -3217,7 +4151,7 @@
     "name": "The Muse",
     "number": "96W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3234,13 +4168,24 @@
     ],
     "pyramid": {
       "top": [
-        "Mandarinorange", "Pink Grapefruit", "schwarze Johannisbeere"
+        "Mandarinorange",
+        "Pink Grapefruit",
+        "schwarze Johannisbeere"
       ],
       "heart": [
-        "Birne", "Jasmin", "Maiglöckchen", "Orangenblüte", "rosa Pfeffer", "Tuberose", "Ylang-Ylang"
+        "Birne",
+        "Jasmin",
+        "Maiglöckchen",
+        "Orangenblüte",
+        "rosa Pfeffer",
+        "Tuberose",
+        "Ylang-Ylang"
       ],
       "base": [
-        "Cashmeran", "Iris", "Moschus", "Sandelholz"
+        "Cashmeran",
+        "Iris",
+        "Moschus",
+        "Sandelholz"
       ]
     },
     "links": [
@@ -3253,7 +4198,7 @@
     "name": "Vita",
     "number": "97W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3266,17 +4211,24 @@
     ],
     "description": "Ein Duft, der moderne Weiblichkeit verkörpert – jung, mutig und voller Lebensfreude. Gewidmet einer neugierigen, leidenschaftlichen Frau, die den Augenblick liebt und jede Erfahrung mit Spontaneität und Entschlossenheit lebt. Ein opulenter, selbstbewusster Duft – so unvergesslich wie die Momente, die ihn begleiten.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Campari", "Rosmarin", "schwarze Johannisbeere"
+        "Campari",
+        "Rosmarin",
+        "schwarze Johannisbeere"
       ],
       "heart": [
-        "Jasmin", "Mate", "Rhabarber"
+        "Jasmin",
+        "Mate",
+        "Rhabarber"
       ],
       "base": [
-        "Ambroxan", "Sandelholz", "Vanille"
+        "Ambroxan",
+        "Sandelholz",
+        "Vanille"
       ]
     },
     "links": [
@@ -3289,7 +4241,7 @@
     "name": "Euphoria",
     "number": "98W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3302,17 +4254,27 @@
     ],
     "description": "Ein Bouquet, das ein einzigartiges Gefühl der Freude verströmt und ein olfaktorisches Abbild des Lichts erschafft. Ein Duft voller Nuancen und Facetten – lebendig, strahlend und voller Lebensfreude.",
     "olfactory_group": [
-      "Blumig", "Holzig", "Moschus"
+      "Blumig",
+      "Holzig",
+      "Moschus"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Mandarinorange"
+        "Bergamotte",
+        "Mandarinorange"
       ],
       "heart": [
-        "Jasmin", "Pfirsich", "Rose", "schwarze Johannisbeere"
+        "Jasmin",
+        "Pfirsich",
+        "Rose",
+        "schwarze Johannisbeere"
       ],
       "base": [
-        "Benzoeharz", "Moschus", "Patschuli", "Sandelholz", "Zeder"
+        "Benzoeharz",
+        "Moschus",
+        "Patschuli",
+        "Sandelholz",
+        "Zeder"
       ]
     },
     "links": [
@@ -3325,7 +4287,7 @@
     "name": "Orange Sun",
     "number": "99U",
     "sex": "Unisex",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3338,17 +4300,32 @@
     ],
     "description": "Ein Duft, der die betörenden Aromen von Zitrusfrüchten und mediterraner Natur in eine lebendige, beinahe magische Komposition verwandelt – inspiriert von den paradiesischen Landschaften rund um Amalfi.",
     "olfactory_group": [
-      "Aromatisch", "Zitrus"
+      "Aromatisch",
+      "Zitrus"
     ],
     "pyramid": {
       "top": [
-        "Basilikum", "Estragon", "Minze", "Pink Grapefruit", "schwarze Johannisbeere", "Zitrone"
+        "Basilikum",
+        "Estragon",
+        "Minze",
+        "Pink Grapefruit",
+        "schwarze Johannisbeere",
+        "Zitrone"
       ],
       "heart": [
-        "Jasmin", "Koriander", "Muskatellersalbei", "Orangenblüte", "Pfeffer", "Shiso"
+        "Jasmin",
+        "Koriander",
+        "Muskatellersalbei",
+        "Orangenblüte",
+        "Pfeffer",
+        "Shiso"
       ],
       "base": [
-        "Ambra", "Ladanharz", "Moschus", "Vetiver", "Zibet"
+        "Ambra",
+        "Ladanharz",
+        "Moschus",
+        "Vetiver",
+        "Zibet"
       ]
     },
     "links": [
@@ -3361,7 +4338,7 @@
     "name": "Mystic Woods",
     "number": "100U",
     "sex": "Unisex",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3374,17 +4351,27 @@
     ],
     "description": "Ein Duft, der sich auf der Haut mit der Zartheit der Rose, der sinnlichen Kraft von Gewürzen und der weichen Süße von Agarholz entfaltet. Ein Hauch von Vanille rundet die cremige Basisnote aus Ambra und Sandelholz sanft ab – dezent und niemals aufdringlich.",
     "olfactory_group": [
-      "Blumig", "Holzig", "Moschus"
+      "Blumig",
+      "Holzig",
+      "Moschus"
     ],
     "pyramid": {
       "top": [
-        "Agarholz", "Kardamom", "Rose", "Safran"
+        "Agarholz",
+        "Kardamom",
+        "Rose",
+        "Safran"
       ],
       "heart": [
-        "Jasmin", "Patschuli", "Sandelholz"
+        "Jasmin",
+        "Patschuli",
+        "Sandelholz"
       ],
       "base": [
-        "Ambra", "Ladanharz", "Vanille", "Vetiver"
+        "Ambra",
+        "Ladanharz",
+        "Vanille",
+        "Vetiver"
       ]
     },
     "links": [
@@ -3397,7 +4384,9 @@
     "name": "Soft Caress",
     "number": "101U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -3412,13 +4401,28 @@
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Lavendel", "Seidenblüte", "Zitrusfrüchte"
+        "Bergamotte",
+        "Lavendel",
+        "Seidenblüte",
+        "Zitrusfrüchte"
       ],
       "heart": [
-        "Harze", "Iris", "Jasmin", "Ladanharz", "Leder", "Rose"
+        "Harze",
+        "Iris",
+        "Jasmin",
+        "Ladanharz",
+        "Leder",
+        "Rose"
       ],
       "base": [
-        "Amberwood", "Gewürznelken", "Honig", "Myrrhe", "somalischer Opopanax", "Tolubalsam", "Vanille", "Zimt"
+        "Amberwood",
+        "Gewürznelken",
+        "Honig",
+        "Myrrhe",
+        "somalischer Opopanax",
+        "Tolubalsam",
+        "Vanille",
+        "Zimt"
       ]
     },
     "links": [
@@ -3430,7 +4434,9 @@
     "name": "Soft Rays",
     "number": "102U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -3441,17 +4447,32 @@
     ],
     "description": "Der Amber-Akkord, die wahre Essenz der orientalischen Duftfamilie, wird in diesem Duft neu interpretiert. Wie ein warmer Hauch aus dem Orient entfaltet das goldgelbe Ylang-Ylang seine exotische Kraft auf einem sinnlichen Amber-Akkord aus Vanille und Ladanharz. Der Duft entwickelt sich weiter mit der Cremigkeit von Sandelholz, das von einem zarten Schleier süßer, rauchiger Noten durchzogen ist. Die Basisnote ist weich und anhaltend, geprägt von Harzen und ambrierten Hölzern.",
     "olfactory_group": [
-      "Holzig", "Orientalisch"
+      "Holzig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Ladanharz", "Vanille", "Ylang-Ylang"
+        "Bergamotte",
+        "Ladanharz",
+        "Vanille",
+        "Ylang-Ylang"
       ],
       "heart": [
-        "Koriander", "Pfeffer", "Sandelholz", "Smoke"
+        "Koriander",
+        "Pfeffer",
+        "Sandelholz",
+        "Smoke"
       ],
       "base": [
-        "Agarholz", "Amberwood", "Benzoeharz", "Myrrhe", "Patschuli", "somalischer Opopanax", "Tonkabohne", "Weihrauch Olibanum", "Zimt"
+        "Agarholz",
+        "Amberwood",
+        "Benzoeharz",
+        "Myrrhe",
+        "Patschuli",
+        "somalischer Opopanax",
+        "Tonkabohne",
+        "Weihrauch Olibanum",
+        "Zimt"
       ]
     },
     "links": [
@@ -3463,7 +4484,7 @@
     "name": "Expresso",
     "number": "105U",
     "sex": "Unisex",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3483,10 +4504,13 @@
         "Blumige Noten"
       ],
       "heart": [
-        "Kaffee", "Rose"
+        "Kaffee",
+        "Rose"
       ],
       "base": [
-        "Ambra", "Moschus", "Vanille"
+        "Ambra",
+        "Moschus",
+        "Vanille"
       ]
     },
     "links": [
@@ -3499,7 +4523,9 @@
     "name": "Rebel Icon",
     "number": "106U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -3514,13 +4540,21 @@
     ],
     "pyramid": {
       "top": [
-        "Lavendel", "Muskatellersalbei"
+        "Lavendel",
+        "Muskatellersalbei"
       ],
       "heart": [
-        "Iris", "Leder", "Mandel", "Vanille"
+        "Iris",
+        "Leder",
+        "Mandel",
+        "Vanille"
       ],
       "base": [
-        "Ambra", "Cashmeran", "holzige Noten", "Leder", "Tonkabohne"
+        "Ambra",
+        "Cashmeran",
+        "holzige Noten",
+        "Leder",
+        "Tonkabohne"
       ]
     },
     "links": [
@@ -3532,7 +4566,7 @@
     "name": "Emerald Meadow",
     "number": "108M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3545,17 +4579,21 @@
     ],
     "description": "Grün und strahlend wie die irische Landschaft, elegant wie der Anzug eines englischen Gentlemans. Der Geist dieses Duftes wird durch diese beiden Bilder verkörpert, die zwar gegensätzlich sind, aber perfekt zusammenpassen, um etwas Einzigartiges und Unvergessliches zu schaffen.",
     "olfactory_group": [
-      "Blumig", "Holzig", "Moschus"
+      "Blumig",
+      "Holzig",
+      "Moschus"
     ],
     "pyramid": {
       "top": [
-        "Iris", "Zitronenverbene"
+        "Iris",
+        "Zitronenverbene"
       ],
       "heart": [
         "Veilchenblatt"
       ],
       "base": [
-        "Ambergris", "Sandelholz"
+        "Ambergris",
+        "Sandelholz"
       ]
     },
     "links": [
@@ -3568,7 +4606,9 @@
     "name": "Pure Gold",
     "number": "109W",
     "sex": "Damen",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -3579,17 +4619,22 @@
     ],
     "description": "Ein edler, sinnlicher Duft, in dem sich die opulente Strahlkraft von Jasmin und Rose mit dem orientalischen Zauber von Vanille und Tonkabohne vereint. Jasmin verführt mit intensiven, umhüllenden Blütennoten, während die Rose ihre volle Kraft und Schönheit mit fast würzigen Nuancen entfaltet. Das Herz aus Vanille und Tonkabohne verführt mit süßer Tiefe, während die Basis mit warmen Noten von Ambra, französischem Labdanum und Patschuli sanft ausklingt.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Jasmin", "Rose"
+        "Jasmin",
+        "Rose"
       ],
       "heart": [
-        "Tonkabohne", "Vanille"
+        "Tonkabohne",
+        "Vanille"
       ],
       "base": [
-        "Ambra", "Ladanharz", "Patschuli"
+        "Ambra",
+        "Ladanharz",
+        "Patschuli"
       ]
     },
     "links": [
@@ -3601,7 +4646,7 @@
     "name": "Mystic Spell",
     "number": "110U",
     "sex": "Unisex",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3614,17 +4659,27 @@
     ],
     "description": "Ein sinnlicher Unisexparfüm, das mit seinen intensiven Akkorden die Sinne betört. Süße, saftige Früchte, sonnige Sandnoten und ein Hauch von Maiglöckchen, Moschus und duftenden Hölzern erwecken die Atmosphäre einer Insel außerhalb der Zeit. Sobald sich der Duft entfaltet, enthüllen seine Noten den Zauber dieses fernen, verwunschenen Ortes.",
     "olfactory_group": [
-      "Chypre", "Fruchtig"
+      "Chypre",
+      "Fruchtig"
     ],
     "pyramid": {
       "top": [
-        "Birne", "Himbeere", "Passionsfrucht", "Pfirsich", "Sand", "schwarze Johannisbeere"
+        "Birne",
+        "Himbeere",
+        "Passionsfrucht",
+        "Pfirsich",
+        "Sand",
+        "schwarze Johannisbeere"
       ],
       "heart": [
         "Maiglöckchen"
       ],
       "base": [
-        "Heliotrop", "Moschus", "Patschuli", "Sandelholz", "Vanille"
+        "Heliotrop",
+        "Moschus",
+        "Patschuli",
+        "Sandelholz",
+        "Vanille"
       ]
     },
     "links": [
@@ -3637,7 +4692,9 @@
     "name": "Ruby Love",
     "number": "111U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -3648,17 +4705,31 @@
     ],
     "description": "Ein vielschichtiger Duft, in dem die Süße saftiger Kirschen auf die Tiefe von Likör und die markante Bittermandel trifft. In der Herznote verschmelzen süß-säuerliche Kirschen mit betörend-blumigen Nuancen von türkischer Rose und Jasmin. Die Basisnote ist warm, üppig, süß und würzig.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Schwarzkirsche", "Likör", "Mandel"
+        "Schwarzkirsche",
+        "Likör",
+        "Mandel"
       ],
       "heart": [
-        "Jasmin", "Pflaume", "Rose", "Sauerkirsche"
+        "Jasmin",
+        "Pflaume",
+        "Rose",
+        "Sauerkirsche"
       ],
       "base": [
-        "Benzoeharz", "Gewürznelken", "Patschuli", "Sandelholz", "Tonkabohne", "Vanille", "Vetiver", "Zeder", "Zimt"
+        "Benzoeharz",
+        "Gewürznelken",
+        "Patschuli",
+        "Sandelholz",
+        "Tonkabohne",
+        "Vanille",
+        "Vetiver",
+        "Zeder",
+        "Zimt"
       ]
     },
     "links": [
@@ -3670,7 +4741,9 @@
     "name": "Riviera",
     "number": "112U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -3681,17 +4754,29 @@
     ],
     "description": "Ein frischer, lebendiger Duft, der an die Aromen der Meeresbrise erinnert. Zitrische, aromatische und blumige Akkorde rufen Bilder von kristallklarem Wasser und der üppigen Vegetation der italienischen Küste hervor.",
     "olfactory_group": [
-      "Aromatisch", "Zitrus"
+      "Aromatisch",
+      "Zitrus"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Bitterorange", "Lavendel", "Mandarinorange", "Myrte", "Rosmarin", "Zitrone"
+        "Bergamotte",
+        "Bitterorange",
+        "Lavendel",
+        "Mandarinorange",
+        "Myrte",
+        "Rosmarin",
+        "Zitrone"
       ],
       "heart": [
-        "Jasmin", "Klebsamen", "Neroli", "Orangenblüte"
+        "Jasmin",
+        "Klebsamen",
+        "Neroli",
+        "Orangenblüte"
       ],
       "base": [
-        "Ambra", "Ambrette oder Moschusmalve", "Engelswurz"
+        "Ambra",
+        "Ambrette oder Moschusmalve",
+        "Engelswurz"
       ]
     },
     "links": [
@@ -3703,7 +4788,7 @@
     "name": "Your Journey",
     "number": "113M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3716,17 +4801,28 @@
     ],
     "description": "Ein Duft mit frischen Nuancen, der das Gefühl von Wind auf der Haut und Wasserspritzern im Gesicht wachruft. Zitrusfrüchte und Pfeffer fesseln die Sinne mit ihren prickelnden Noten, während grüne Akkorde den Duft von frisch gemähtem Gras heraufbeschwören. Warme, holzige Noten runden den Duft intensiv ab.",
     "olfactory_group": [
-      "Aromatisch", "Zitrus"
+      "Aromatisch",
+      "Zitrus"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "rosa Pfeffer", "Zitrone", "Zitrusfrüchte"
+        "Bergamotte",
+        "rosa Pfeffer",
+        "Zitrone",
+        "Zitrusfrüchte"
       ],
       "heart": [
-        "grünes Gras", "Hedione", "Kardamom", "Muskat"
+        "grünes Gras",
+        "Hedione",
+        "Kardamom",
+        "Muskat"
       ],
       "base": [
-        "Iso E Super", "Leder", "Patschuli", "Perubalsam", "Zeder"
+        "Iso E Super",
+        "Leder",
+        "Patschuli",
+        "Perubalsam",
+        "Zeder"
       ]
     },
     "links": [
@@ -3739,7 +4835,7 @@
     "name": "Desert Whisper",
     "number": "114U",
     "sex": "Unisex",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3752,17 +4848,30 @@
     ],
     "description": "Ein Duft, der in die Ferne entführt, irgendwo zwischen orientalischen Parfüms und gewundenen Dünen. Eine seltene und nuancierte Essenz, die einen auf eine Reise mitnimmt, bei der die Kraft und Stärke des Agarholzes deutlich hervortreten.",
     "olfactory_group": [
-      "Holzig", "Orientalisch"
+      "Holzig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Himbeere", "Zitrone"
+        "Bergamotte",
+        "Himbeere",
+        "Zitrone"
       ],
       "heart": [
-        "Geranie", "Jasmin", "Rose", "Safran", "Zimt"
+        "Geranie",
+        "Jasmin",
+        "Rose",
+        "Safran",
+        "Zimt"
       ],
       "base": [
-        "Agarholz", "Ambra", "Moschus", "Nagarmotha", "Sandelholz", "Skin", "Vanille"
+        "Agarholz",
+        "Ambra",
+        "Moschus",
+        "Nagarmotha",
+        "Sandelholz",
+        "Skin",
+        "Vanille"
       ]
     },
     "links": [
@@ -3775,7 +4884,7 @@
     "name": "Icon",
     "number": "115W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3788,17 +4897,24 @@
     ],
     "description": "Ein sanfter, aber intensiver Duft für starke, ehrliche Frauen mit großen Träumen. Er ist den Führungspersönlichkeiten von morgen gewidmet, die ihre eigenen Grenzen herausfordern und sich neue Horizonte erschließen.",
     "olfactory_group": [
-      "Blumig", "Chypre"
+      "Blumig",
+      "Chypre"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Birne", "rosa Pfeffer"
+        "Bergamotte",
+        "Birne",
+        "rosa Pfeffer"
       ],
       "heart": [
-        "Jasmin", "Rose"
+        "Jasmin",
+        "Rose"
       ],
       "base": [
-        "Moschus", "Patschuli", "Vanille", "Zitronatzitrone"
+        "Moschus",
+        "Patschuli",
+        "Vanille",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -3811,7 +4927,7 @@
     "name": "Declare",
     "number": "116W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3824,17 +4940,34 @@
     ],
     "description": "Ein Duft für Frauen, die Kühnheit, Unabhängigkeit und Unternehmungslust zu ihren Charaktereigenschaften zählen. Er eignet sich sowohl für den Alltag als auch für besondere Anlässe. Die blumig-fruchtigen Noten machen den Duft äußerst sinnlich.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Himbeere", "Mandarinorange", "Zitrone"
+        "Bergamotte",
+        "Himbeere",
+        "Mandarinorange",
+        "Zitrone"
       ],
       "heart": [
-        "Ambra", "Gardenie", "Ingwerblüte", "Jasmin", "Orangenblüte", "Rose"
+        "Ambra",
+        "Gardenie",
+        "Ingwerblüte",
+        "Jasmin",
+        "Orangenblüte",
+        "Rose"
       ],
       "base": [
-        "Amberwood", "Benzoeharz", "Karamell", "Kardamom", "Kumarin", "Lakritz", "Milch", "Sandelholz", "Vanille"
+        "Amberwood",
+        "Benzoeharz",
+        "Karamell",
+        "Kardamom",
+        "Kumarin",
+        "Lakritz",
+        "Milch",
+        "Sandelholz",
+        "Vanille"
       ]
     },
     "links": [
@@ -3847,10 +4980,12 @@
     "name": "Velvet Smoke",
     "number": "117U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
-      "50ml"
+      "30ml"
     ],
     "prices": [
       "19,90€",
@@ -3858,17 +4993,22 @@
     ],
     "description": "Ein opulenter, warmer und ikonischer Duft – eine moderne Interpretation der Gentlemen's Clubs vergangener Zeiten. Der weiche orientalische Auftakt eröffnet mit würzigen und krautigen Nuancen. In der Herznote entfalten sich opulente Akkorde von Tabakblüte, Tonkabohne, Kakao und Vanille. Abgerundet wird die Komposition durch eine Basis aus Trockenfrüchten und edlen Hölzern.",
     "olfactory_group": [
-      "Orientalisch", "Würzig"
+      "Orientalisch",
+      "Würzig"
     ],
     "pyramid": {
       "top": [
-        "Gewürze", "Tabakblüte"
+        "Gewürze",
+        "Tabakblüte"
       ],
       "heart": [
-        "Kakaofrucht", "Tonkabohne", "Vanille"
+        "Kakaofrucht",
+        "Tonkabohne",
+        "Vanille"
       ],
       "base": [
-        "holzige Noten", "Trockenfrüchte"
+        "holzige Noten",
+        "Trockenfrüchte"
       ]
     },
     "links": [
@@ -3880,7 +5020,9 @@
     "name": "Scarlet Fire",
     "number": "118U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -3891,17 +5033,23 @@
     ],
     "description": "Ein strahlender, komplexer und intensiver Duft, dessen Noten sich zu einer sinnlichen und reinen Harmonie vereinen: Perfekt für Liebhaberinnen und Liebhaber süßer und umhüllender Düfte. Der Duft verwöhnt die Haut mit blumigen, ambrierten Noten und einem Hauch von Holz. Eine poetische Alchimie, in der sich die Zartheit des Jasmins mit den mineralischen Nuancen von Ambergris und den holzigen Akkorden frisch geschnittener Zeder verbindet.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Jasmin", "Safran"
+        "Jasmin",
+        "Safran"
       ],
       "heart": [
-        "Ambergris", "Amberwood"
+        "Ambergris",
+        "Amberwood"
       ],
       "base": [
-        "Ambroxan", "Balsamtanne", "Eichenmoos", "Zeder"
+        "Ambroxan",
+        "Balsamtanne",
+        "Eichenmoos",
+        "Zeder"
       ]
     },
     "links": [
@@ -3913,7 +5061,7 @@
     "name": "Dark Affair",
     "number": "119W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3926,17 +5074,26 @@
     ],
     "description": "Dieser Duft ist den weltoffenen Frauen gewidmet, die weniger vorhersehbar sind und ihre geheimnisvolle Ausstrahlung zu einer erfolgreichen Waffe machen. Die unwiderstehliche Duftspur macht ihre Trägerin faszinierend – ohne dass sie ein Wort sagen muss.",
     "olfactory_group": [
-      "Blumig", "Chypre"
+      "Blumig",
+      "Chypre"
     ],
     "pyramid": {
       "top": [
-        "Blutorange", "Mandarinorange"
+        "Blutorange",
+        "Mandarinorange"
       ],
       "heart": [
-        "Gardenie", "Honig", "Jasmin", "Orangenblüte", "Pfirsich"
+        "Gardenie",
+        "Honig",
+        "Jasmin",
+        "Orangenblüte",
+        "Pfirsich"
       ],
       "base": [
-        "Bienenwachs", "Karamell", "Lakritz", "Patschuli"
+        "Bienenwachs",
+        "Karamell",
+        "Lakritz",
+        "Patschuli"
       ]
     },
     "links": [
@@ -3949,7 +5106,7 @@
     "name": "Haute Couture",
     "number": "120W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3962,17 +5119,28 @@
     ],
     "description": "Ein bezaubernder und raffinierter Duft, der durch seine blumigen und fruchtigen Noten noch unwiderstehlicher wird. Der Duft unterstreicht die Eleganz seiner Trägerin mit sinnlichen Noten von Patschuli, Rose, Amarena und Tee.",
     "olfactory_group": [
+      "Blumig",
       "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Mandel", "rote Beeren", "Sauerkirsche"
+        "Bergamotte",
+        "Mandel",
+        "rote Beeren",
+        "Sauerkirsche"
       ],
       "heart": [
-        "Lakritz", "Rose", "Taifrose", "Tee"
+        "Lakritz",
+        "Rose",
+        "Taifrose",
+        "Tee"
       ],
       "base": [
-        "Anis", "Iris", "Patschuli", "Tonkabohne", "Vanille"
+        "Anis",
+        "Iris",
+        "Patschuli",
+        "Tonkabohne",
+        "Vanille"
       ]
     },
     "links": [
@@ -3985,7 +5153,7 @@
     "name": "Secret Desire",
     "number": "121W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -3998,17 +5166,35 @@
     ],
     "description": "Gewidmet den mutigsten Frauen, die den Tag lieben, aber keine Angst vor der Nacht haben. Sie lieben es, Regeln zu brechen, gegen den Strom zu schwimmen und dem Reiz des Verbotenen zu folgen.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Aldehyde", "Bergamotte", "Gewürze", "Mandarinorange", "Pfirsich", "wilde Erdbeere"
+        "Aldehyde",
+        "Bergamotte",
+        "Gewürze",
+        "Mandarinorange",
+        "Pfirsich",
+        "wilde Erdbeere"
       ],
       "heart": [
-        "Iris", "Iriswurzel", "Jasmin", "Maiglöckchen", "Narzisse", "Rose", "Veilchen", "Ylang-Ylang"
+        "Iris",
+        "Iriswurzel",
+        "Jasmin",
+        "Maiglöckchen",
+        "Narzisse",
+        "Rose",
+        "Veilchen",
+        "Ylang-Ylang"
       ],
       "base": [
-        "Ambra", "Benzoeharz", "Moschus", "Sandelholz", "Tonkabohne", "Vetiver"
+        "Ambra",
+        "Benzoeharz",
+        "Moschus",
+        "Sandelholz",
+        "Tonkabohne",
+        "Vetiver"
       ]
     },
     "links": [
@@ -4021,7 +5207,7 @@
     "name": "Volare",
     "number": "122W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -4034,17 +5220,26 @@
     ],
     "description": "Ein einzigartiger und unwiderstehlicher Duft, der von einer rebellischen Frau erzählt, die nach ihren eigenen Regeln spielt und lebt. Ein Duft für eine mutige Frau, die keine Angst davor hat, Grenzen zu überschreiten und ihre Freiheit kompromisslos zu leben.",
     "olfactory_group": [
-      "Fougère", "Orientalisch"
+      "Fougère",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Lavendel", "Mandarinorange", "Pomeranze", "schwarze Johannisbeere"
+        "Lavendel",
+        "Mandarinorange",
+        "Pomeranze",
+        "schwarze Johannisbeere"
       ],
       "heart": [
-        "Jasmin", "Lavendel", "Orangenblüte"
+        "Jasmin",
+        "Lavendel",
+        "Orangenblüte"
       ],
       "base": [
-        "Ambergris", "Moschus", "Vanille", "Zitronatzitrone"
+        "Ambergris",
+        "Moschus",
+        "Vanille",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -4057,7 +5252,9 @@
     "name": "Sweet Rebel",
     "number": "123W",
     "sex": "Damen",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -4068,17 +5265,22 @@
     ],
     "description": "Ein Duft voller Sinnlichkeit, der zarte, unschuldige Nuancen mit sinnlich-verführerischen Akkorden vereint. Er ist ideal für Frauen, die schüchtern und sinnlich zugleich ist – zurückhaltend, doch voller Anziehungskraft.",
     "olfactory_group": [
-      "Blumig", "Fruchtig"
+      "Blumig",
+      "Fruchtig"
     ],
     "pyramid": {
       "top": [
-        "Jasmin", "Osmanthus", "Rose"
+        "Jasmin",
+        "Osmanthus",
+        "Rose"
       ],
       "heart": [
-        "Narzisse", "Tuberose"
+        "Narzisse",
+        "Tuberose"
       ],
       "base": [
-        "Ambra", "Zitronatzitrone"
+        "Ambra",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -4090,7 +5292,9 @@
     "name": "Everlasting",
     "number": "124U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -4123,7 +5327,9 @@
     "name": "Mediterraneo",
     "number": "125U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -4138,13 +5344,20 @@
     ],
     "pyramid": {
       "top": [
-        "Mandarinorange", "Pomeranze"
+        "Mandarinorange",
+        "Pomeranze"
       ],
       "heart": [
-        "Jasmin", "Maiglöckchen", "Orangenblüte", "Shiso", "Ylang-Ylang"
+        "Jasmin",
+        "Maiglöckchen",
+        "Orangenblüte",
+        "Shiso",
+        "Ylang-Ylang"
       ],
       "base": [
-        "Eichenmoos", "Moschus", "Sandelholz"
+        "Eichenmoos",
+        "Moschus",
+        "Sandelholz"
       ]
     },
     "links": [
@@ -4156,7 +5369,9 @@
     "name": "Lumière Dorée",
     "number": "126U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -4167,17 +5382,26 @@
     ],
     "description": "Ein Duft, der das Bild entlegener, sonnenverwöhnter Inseln heraufbeschwört. Der Auftakt verbindet würzige Noten von Kardamom und Rosa Pfeffer mit der Frische von Bergamotte. Im Herzen entfaltet sich die sinnliche Blumigkeit von Jasmin, Tuberose und Ylang-Ylang. Die luxuriöse Basisnote besteht aus Benzoe, Tonkabohne, Ambra und Kokosnuss.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Kardamom", "Pistazie", "rosa Pfeffer"
+        "Bergamotte",
+        "Kardamom",
+        "Pistazie",
+        "rosa Pfeffer"
       ],
       "heart": [
-        "Jasmin", "Tuberose", "Ylang-Ylang"
+        "Jasmin",
+        "Tuberose",
+        "Ylang-Ylang"
       ],
       "base": [
-        "Ambra", "Benzoeharz", "Kokosnuss", "Tonkabohne"
+        "Ambra",
+        "Benzoeharz",
+        "Kokosnuss",
+        "Tonkabohne"
       ]
     },
     "links": [
@@ -4189,7 +5413,9 @@
     "name": "Agar Forest",
     "number": "127U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -4200,17 +5426,24 @@
     ],
     "description": "Ein seltener und exotischer Duft, geprägt vom kostbaren Aroma des Agarholzes (Oud). Die Kopfnote eröffnet mit würzigem Szechuanpfeffer, Kardamom und warmen Holznoten. Im Herzen stehen Agarholz, Sandelholz und Vetiver im Mittelpunkt. Der unwiderstehliche Ausklang vereint süße Noten von Vanille und Tonkabohne mit der sinnlichen Tiefe von Ambra.",
     "olfactory_group": [
-      "Holzig", "Orientalisch"
+      "Holzig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Kardamom", "Szechuanpfeffer"
+        "Kardamom",
+        "Szechuanpfeffer"
       ],
       "heart": [
-        "Agarholz", "brasilianisches Rosenholz", "Sandelholz", "Vetiver"
+        "Agarholz",
+        "brasilianisches Rosenholz",
+        "Sandelholz",
+        "Vetiver"
       ],
       "base": [
-        "Ambra", "Tonkabohne", "Vanille"
+        "Ambra",
+        "Tonkabohne",
+        "Vanille"
       ]
     },
     "links": [
@@ -4222,7 +5455,9 @@
     "name": "Sugar Poison",
     "number": "128U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -4237,13 +5472,31 @@
     ],
     "pyramid": {
       "top": [
-        "Koriander", "Limette", "Myrrhe", "Orange", "Rum", "Safran", "Weihrauch Olibanum"
+        "Koriander",
+        "Limette",
+        "Myrrhe",
+        "Orange",
+        "Rum",
+        "Safran",
+        "Weihrauch Olibanum"
       ],
       "heart": [
-        "Barley", "Beifuß", "Frangipani", "Kaffee", "Narzisse", "Pflaume", "Rose"
+        "Barley",
+        "Beifuß",
+        "Frangipani",
+        "Kaffee",
+        "Narzisse",
+        "Pflaume",
+        "Rose"
       ],
       "base": [
-        "Eichenmoos", "Mahagoni", "Patschuli", "Tabakblüte", "Vanille", "Veilchen", "Wildleder"
+        "Eichenmoos",
+        "Mahagoni",
+        "Patschuli",
+        "Tabakblüte",
+        "Vanille",
+        "Veilchen",
+        "Wildleder"
       ]
     },
     "links": [
@@ -4255,7 +5508,9 @@
     "name": "Chlorophyll",
     "number": "129U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -4270,13 +5525,17 @@
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Orange", "Zitrone"
+        "Bergamotte",
+        "Orange",
+        "Zitrone"
       ],
       "heart": [
         "fruchtige Noten"
       ],
       "base": [
-        "Ambra", "Moschus", "Vanille"
+        "Ambra",
+        "Moschus",
+        "Vanille"
       ]
     },
     "links": [
@@ -4288,7 +5547,9 @@
     "name": "Oceanic Pulse",
     "number": "130U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -4303,13 +5564,20 @@
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "marine Noten", "Zitrone"
+        "Bergamotte",
+        "marine Noten",
+        "Zitrone"
       ],
       "heart": [
-        "Rose", "Safran"
+        "Rose",
+        "Safran"
       ],
       "base": [
-        "Ambra", "Moschus", "Nagarmotha", "Patschuli", "Sandelholz"
+        "Ambra",
+        "Moschus",
+        "Nagarmotha",
+        "Patschuli",
+        "Sandelholz"
       ]
     },
     "links": [
@@ -4321,7 +5589,7 @@
     "name": "Chica Mala",
     "number": "131W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -4334,17 +5602,35 @@
     ],
     "description": "Ein gewagter Duft, der kontrastreiche Elemente vereint und so einen verführerischen Hell-Dunkel-Effekt schafft. Er besticht durch die blumige Eleganz von Sambacjasmin und Iris sowie durch die berauschenden Noten von Tonkabohne und Ambra. Ein komplexer Duft, der die facettenreiche Persönlichkeit der modernen Frau widerspiegelt.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Kaffee", "Mandel", "Zitrone"
+        "Bergamotte",
+        "Kaffee",
+        "Mandel",
+        "Zitrone"
       ],
       "heart": [
-        "Iris", "Jasmin", "Orangenblüte", "Rose", "Tuberose"
+        "Iris",
+        "Jasmin",
+        "Orangenblüte",
+        "Rose",
+        "Tuberose"
       ],
       "base": [
-        "Ambra", "Kakaofrucht", "Kaschmirholz", "Moschus", "Patschuli", "Praline", "Sandelholz", "Tonkabohne", "Vanille", "Zimt", "Zitronatzitrone"
+        "Ambra",
+        "Kakaofrucht",
+        "Kaschmirholz",
+        "Moschus",
+        "Patschuli",
+        "Praline",
+        "Sandelholz",
+        "Tonkabohne",
+        "Vanille",
+        "Zimt",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -4357,7 +5643,7 @@
     "name": "My Rules",
     "number": "132W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -4370,17 +5656,21 @@
     ],
     "description": "Ein Duft für neugierige, mutige Frauen, die nach ihren eigenen Regeln leben und dabei Kompromisse eingehen.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Orangenblüte"
+        "Bergamotte",
+        "Orangenblüte"
       ],
       "heart": [
         "Jasmin, Tuberose"
       ],
       "base": [
-        "Moschus", "Vanille", "Zitronatzitrone"
+        "Moschus",
+        "Vanille",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -4393,7 +5683,7 @@
     "name": "Enigma",
     "number": "133W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -4406,17 +5696,26 @@
     ],
     "description": "Ein Parfüm für mutige Frauen mit einer einzigartigen Persönlichkeit, die sich über Konventionen hinwegsetzen und ihre eigene Komplexität umarmen. Dieser Duft bietet eine harmonische Kombination kontrastierender Elemente, die einen facettenreichen und faszinierenden Charakter widerspiegeln.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Birne", "Neroli"
+        "Bergamotte",
+        "Birne",
+        "Neroli"
       ],
       "heart": [
-        "Jasmin", "Moos", "Neroli-Essenz"
+        "Jasmin",
+        "Moos",
+        "Neroli-Essenz"
       ],
       "base": [
-        "Ambra", "Ambrofix", "Bourbonvanille", "Serenolide", "Vanille"
+        "Ambra",
+        "Ambrofix",
+        "Bourbonvanille",
+        "Serenolide",
+        "Vanille"
       ]
     },
     "links": [
@@ -4429,14 +5728,16 @@
     "name": "Orange Nectar",
     "number": "134U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
     ],
     "prices": [
       "19,90€",
-      "52,00€"
+      "52,50€"
     ],
     "description": "Ein berauschender, warmer und fruchtiger Duft, in dem saftiger Pfirsich auf eine sinnliche Herznote aus Jasmin und alkoholischen Nuancen von Rum und Cognac trifft. Die abschließende Duftwelle aus Patschuli, Sandelholz, Cashmeran und Vetiver betört die Sinne und verbindet sich harmonisch mit den süßen Noten von Vanille und Tonkabohne.",
     "olfactory_group": [
@@ -4444,13 +5745,27 @@
     ],
     "pyramid": {
       "top": [
-        "Blutorange", "Heliotrop", "Kardamom", "Pfirsich"
+        "Blutorange",
+        "Heliotrop",
+        "Kardamom",
+        "Pfirsich"
       ],
       "heart": [
-        "Cognac", "Davana", "Jasmin", "Rum"
+        "Cognac",
+        "Davana",
+        "Jasmin",
+        "Rum"
       ],
       "base": [
-        "Benzoeharz", "Cashmeran", "Ladanharz", "Patschuli", "Sandelholz", "Styrax", "Tonkabohne", "Vanille", "Vetiver"
+        "Benzoeharz",
+        "Cashmeran",
+        "Ladanharz",
+        "Patschuli",
+        "Sandelholz",
+        "Styrax",
+        "Tonkabohne",
+        "Vanille",
+        "Vetiver"
       ]
     },
     "links": [
@@ -4462,7 +5777,7 @@
     "name": "Mystic Forest",
     "number": "135U",
     "sex": "Unisex",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -4479,13 +5794,22 @@
     ],
     "pyramid": {
       "top": [
-        "Iris", "Wacholderbeeren", "Zypresse"
+        "Iris",
+        "Wacholderbeeren",
+        "Zypresse"
       ],
       "heart": [
-        "Myrrhe", "Patschuli"
+        "Myrrhe",
+        "Patschuli"
       ],
       "base": [
-        "Ambra", "Harze", "holzige Noten", "Honig", "Leder", "Moschus", "Vanille"
+        "Ambra",
+        "Harze",
+        "holzige Noten",
+        "Honig",
+        "Leder",
+        "Moschus",
+        "Vanille"
       ]
     },
     "links": [
@@ -4498,7 +5822,7 @@
     "name": "Modern Man",
     "number": "136M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -4511,17 +5835,22 @@
     ],
     "description": "Ein raffinierter und feiner, manchmal üppiger Duft. Die olfaktorische Intensität der Iris wird durch langanhaltende Lavendelnoten in der Kopfnote angekündigt. Die Herznote wird durch Ambrettesamen und eine süße Birnennote bereichert und mündet in eine Basisnote aus Zedernholz und Vetiver.",
     "olfactory_group": [
-      "Blumig", "Holzig", "Moschus"
+      "Blumig",
+      "Holzig",
+      "Moschus"
     ],
     "pyramid": {
       "top": [
         "Lavendel"
       ],
       "heart": [
-        "Ambrette oder Moschusmalve", "Birne", "Iris"
+        "Ambrette oder Moschusmalve",
+        "Birne",
+        "Iris"
       ],
       "base": [
-        "Vetiver", "Zeder"
+        "Vetiver",
+        "Zeder"
       ]
     },
     "links": [
@@ -4534,7 +5863,9 @@
     "name": "Sicilian Garden",
     "number": "137U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -4549,13 +5880,20 @@
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Lavendel", "Zitrone"
+        "Bergamotte",
+        "Lavendel",
+        "Zitrone"
       ],
       "heart": [
-        "Cashmeran", "Honig", "Jasmin", "Zimt"
+        "Cashmeran",
+        "Honig",
+        "Jasmin",
+        "Zimt"
       ],
       "base": [
-        "Tabakblüte", "Tonkabohne", "Vanille"
+        "Tabakblüte",
+        "Tonkabohne",
+        "Vanille"
       ]
     },
     "links": [
@@ -4567,7 +5905,9 @@
     "name": "Woodland",
     "number": "138U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -4582,13 +5922,18 @@
     ],
     "pyramid": {
       "top": [
-        "Pflaume", "Veilchen"
+        "Pflaume",
+        "Veilchen"
       ],
       "heart": [
-        "Kaschmirholz", "Sandelholz", "Weißer Ambra"
+        "Kaschmirholz",
+        "Sandelholz",
+        "Weißer Ambra"
       ],
       "base": [
-        "Ambergris", "Moschus", "Vanille"
+        "Ambergris",
+        "Moschus",
+        "Vanille"
       ]
     },
     "links": [
@@ -4600,7 +5945,9 @@
     "name": "Sahara Blush",
     "number": "139U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -4611,17 +5958,21 @@
     ],
     "description": "Ein frischer und zugleich intensiver Unisex-Duft, der zarte und raffinierte florale Akkorde mit der sinnlichen Intensität von Agarholz verbindet. Er zeichnet sich durch wunderbare Kontraste aus und erinnert an den Zauber ferner Oasen, die Reisende mit den orientalischen Noten edler Hölzer und eleganter Nuancen von Rose verführen.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Pfeffer", "Rose", "Safran"
+        "Pfeffer",
+        "Rose",
+        "Safran"
       ],
       "heart": [
         "Bulgarische Rose"
       ],
       "base": [
-        "Agarholz", "Ambergris"
+        "Agarholz",
+        "Ambergris"
       ]
     },
     "links": [
@@ -4633,7 +5984,7 @@
     "name": "Cupid",
     "number": "140M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -4646,17 +5997,25 @@
     ],
     "description": "Ein ausgesprochen frischer Duft, der mit seinen aromatischen Noten Kraft und Leidenschaft vermittelt. Er umhüllt seinen Träger mit einer sinnlichen, maskulinen Ausstrahlung und ist damit perfekt für den Mann, der nicht unbemerkt bleiben möchte.",
     "olfactory_group": [
-      "Aromatisch", "Fougère"
+      "Aromatisch",
+      "Fougère"
     ],
     "pyramid": {
       "top": [
-        "grüner Apfel", "Minze", "Zitrone"
+        "grüner Apfel",
+        "Minze",
+        "Zitrone"
       ],
       "heart": [
-        "Ambroxan", "Geranie", "Tonkabohne"
+        "Ambroxan",
+        "Geranie",
+        "Tonkabohne"
       ],
       "base": [
-        "Eichenmoos", "Vanille", "Vetiver", "Zitronatzitrone"
+        "Eichenmoos",
+        "Vanille",
+        "Vetiver",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -4669,7 +6028,9 @@
     "name": "Sands Of Time",
     "number": "141U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -4680,17 +6041,62 @@
     ],
     "description": "Ein facettenreicher und stimmungsvoller Unisex-Duft, der durch die geschickte Kombination seiner Noten den Zauber und die verträumte Atmosphäre orientalischer Nächte heraufbeschwört. Fruchtige, würzige und holzige Akkorde verschmelzen und verführen die Sinne mit der mutigen Komplexität und Faszination einer geheimnisvollen, jahrtausendealten Geschichte, die in der Wüste geschrieben wurde.",
     "olfactory_group": [
-      "Holzig", "Orientalisch"
+      "Holzig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Ananas", "Apfel", "Bergamotte", "Candied Fruits", "Damaszener Rose", "Erdbeere", "Gewürznoten", "Kaffee", "Kardamom", "Kokosnuss", "Kreuzkümmel", "Pfeffer", "Pfirsich", "rosa Pfeffer", "Süßorange", "schwarze Johannisbeere", "Trockenfrüchte", "Zimt"
+        "Ananas",
+        "Apfel",
+        "Bergamotte",
+        "Candied Fruits",
+        "Damaszener Rose",
+        "Erdbeere",
+        "Gewürznoten",
+        "Kaffee",
+        "Kardamom",
+        "Kokosnuss",
+        "Kreuzkümmel",
+        "Pfeffer",
+        "Pfirsich",
+        "rosa Pfeffer",
+        "Süßorange",
+        "schwarze Johannisbeere",
+        "Trockenfrüchte",
+        "Zimt"
       ],
       "heart": [
-        "Agarholz", "Amyris Balsamifera", "Iris", "Jasmin", "Koriander", "Maiglöckchen", "Nagarmotha", "Rose", "Safran", "Sandelholz", "Veilchen", "Zeder"
+        "Agarholz",
+        "Amyris Balsamifera",
+        "Iris",
+        "Jasmin",
+        "Koriander",
+        "Maiglöckchen",
+        "Nagarmotha",
+        "Rose",
+        "Safran",
+        "Sandelholz",
+        "Veilchen",
+        "Zeder"
       ],
       "base": [
-        "Ambergris", "Ambra", "Eichenmoos", "Guajakholz", "Ladanharz", "Leder", "Moos", "Patschuli", "Perubalsam", "Sandelholz", "Smoke", "Tolubalsam", "Vanille", "Vetiver", "Weißer Moschus", "Weihrauch", "Zibet"
+        "Ambergris",
+        "Ambra",
+        "Eichenmoos",
+        "Guajakholz",
+        "Ladanharz",
+        "Leder",
+        "Moos",
+        "Patschuli",
+        "Perubalsam",
+        "Sandelholz",
+        "Smoke",
+        "Tolubalsam",
+        "Vanille",
+        "Vetiver",
+        "Weißer Moschus",
+        "Weihrauch",
+        "Zibet"
       ]
     },
     "links": [
@@ -4702,7 +6108,7 @@
     "name": "Dark Eclipse",
     "number": "142U",
     "sex": "Unisex",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -4722,10 +6128,13 @@
         "Kardamom"
       ],
       "heart": [
-        "Jasmin", "Leder"
+        "Jasmin",
+        "Leder"
       ],
       "base": [
-        "Ambra", "Moos", "Patschuli"
+        "Ambra",
+        "Moos",
+        "Patschuli"
       ]
     },
     "links": [
@@ -4738,7 +6147,9 @@
     "name": "Sweet Dust",
     "number": "143U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -4753,13 +6164,19 @@
     ],
     "pyramid": {
       "top": [
-        "Coconut Powder", "Heliotrop"
+        "Coconut Powder",
+        "Heliotrop"
       ],
       "heart": [
         "Vanille"
       ],
       "base": [
-        "Kokosnuss", "Lactone", "Moschus", "Palo Santo", "Vanille Absolue", "Weißer Moschus"
+        "Kokosnuss",
+        "Lactone",
+        "Moschus",
+        "Palo Santo",
+        "Vanille Absolue",
+        "Weißer Moschus"
       ]
     },
     "links": [
@@ -4771,7 +6188,9 @@
     "name": "Creamy Dream",
     "number": "144U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -4789,10 +6208,12 @@
         "Karamell"
       ],
       "heart": [
-        "Honig", "Kumarin"
+        "Honig",
+        "Kumarin"
       ],
       "base": [
-        "Vanille", "Weißer Moschus"
+        "Vanille",
+        "Weißer Moschus"
       ]
     },
     "links": [
@@ -4804,10 +6225,10 @@
     "name": "Forever Yours",
     "number": "145W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
-      "30ml",
+      "50ml",
       "70ml"
     ],
     "prices": [
@@ -4824,7 +6245,9 @@
         "Kandierte Zitrone"
       ],
       "heart": [
-        "Orangenblüte", "Panna Cotta", "Rum"
+        "Orangenblüte",
+        "Panna Cotta",
+        "Rum"
       ],
       "base": [
         "Vanille"
@@ -4840,7 +6263,9 @@
     "name": "Scarlet Flame",
     "number": "146U",
     "sex": "Unisex",
-    "class": "Luxus",
+    "classes": [
+      "Luxury Line"
+    ],
     "sizes": [
       "15ml Nachfüllflakon",
       "50ml"
@@ -4858,7 +6283,10 @@
         "Lilie"
       ],
       "heart": [
-        "Iris", "Magnolie", "Osmanthus", "Ylang-Ylang"
+        "Iris",
+        "Magnolie",
+        "Osmanthus",
+        "Ylang-Ylang"
       ],
       "base": [
         "Georgywood"
@@ -4873,7 +6301,7 @@
     "name": "Dark Nectar",
     "number": "147M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -4886,17 +6314,21 @@
     ],
     "description": "Ein intensiver, magnetischer Herrenduft, der Männern mit starken, charismatischen Persönlichkeiten gewidmet ist. Der rauchig-warme Auftakt geht über in ein harziges Herz und ruht schließlich auf einer kostbaren, beständigen Basis. Er wurde für Männer kreiert, die aus der Masse herausstechen möchten – mit einer Duftspur voller zeitloser Eleganz und unwiderstehlicher Ausstrahlung.",
     "olfactory_group": [
-      "Aromatisch", "Holzig"
+      "Aromatisch",
+      "Holzig"
     ],
     "pyramid": {
       "top": [
-        "Leder", "Weihrauch"
+        "Leder",
+        "Weihrauch"
       ],
       "heart": [
-        "Myrrhe", "Patschuli"
+        "Myrrhe",
+        "Patschuli"
       ],
       "base": [
-        "Davana", "Zeder"
+        "Davana",
+        "Zeder"
       ]
     },
     "links": [
@@ -4909,7 +6341,7 @@
     "name": "Divine Aura",
     "number": "148W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -4926,7 +6358,10 @@
     ],
     "pyramid": {
       "top": [
-        "Ingwer", "Kakao", "Lavendel", "Vanille"
+        "Ingwer",
+        "Kakao",
+        "Lavendel",
+        "Vanille"
       ],
       "heart": [
         "Vanillekaviar"
@@ -4945,7 +6380,7 @@
     "name": "Unbending Man",
     "number": "150M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -4962,13 +6397,22 @@
     ],
     "pyramid": {
       "top": [
-        "Apfel", "Basilikum", "Lavendel", "Minze", "Pink Grapefruit"
+        "Apfel",
+        "Basilikum",
+        "Lavendel",
+        "Minze",
+        "Pink Grapefruit"
       ],
       "heart": [
-        "Geranie", "Jasmin", "Nelke", "Salbei"
+        "Geranie",
+        "Jasmin",
+        "Nelke",
+        "Salbei"
       ],
       "base": [
-        "Balsamtanne", "Patschuli", "Zeder"
+        "Balsamtanne",
+        "Patschuli",
+        "Zeder"
       ]
     },
     "links": [
@@ -4981,7 +6425,7 @@
     "name": "To The Edge For Her",
     "number": "151W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -4994,17 +6438,27 @@
     ],
     "description": "Ein markanter, warmer Duft, der mit Mandarine und Rosa Pfeffer sofort alle Blicke auf sich zieht. Auf das samtige Herz aus Pfirsich, Flieder und Geranie folgt eine ambrierte Basis mit ausgeprägt femininem Charakter.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Mandarinorange", "rosa Pfeffer"
+        "Bergamotte",
+        "Mandarinorange",
+        "rosa Pfeffer"
       ],
       "heart": [
-        "Flieder", "Geranie", "Jasmin", "Pfirsich", "schwarze Johannisbeere"
+        "Flieder",
+        "Geranie",
+        "Jasmin",
+        "Pfirsich",
+        "schwarze Johannisbeere"
       ],
       "base": [
-        "Ambra", "Moschus", "Patschuli", "Vanille"
+        "Ambra",
+        "Moschus",
+        "Patschuli",
+        "Vanille"
       ]
     },
     "links": [
@@ -5017,7 +6471,7 @@
     "name": "To The Edge For Him",
     "number": "152M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -5030,17 +6484,21 @@
     ],
     "description": "Ein verführerische und sinnliche Duft für den selbstbewussten, unkonventionellen Mann von heute – sexy, jung und maskulin.",
     "olfactory_group": [
-      "Aromatisch", "Holzig"
+      "Aromatisch",
+      "Holzig"
     ],
     "pyramid": {
       "top": [
-        "Lavendel", "Zitrone"
+        "Lavendel",
+        "Zitrone"
       ],
       "heart": [
         "Orangenblüte"
       ],
       "base": [
-        "Patschuli", "Vanille", "Zeder"
+        "Patschuli",
+        "Vanille",
+        "Zeder"
       ]
     },
     "links": [
@@ -5053,7 +6511,7 @@
     "name": "Rose Dust",
     "number": "153W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -5070,13 +6528,18 @@
     ],
     "pyramid": {
       "top": [
-        "Freesie", "Litschi", "Pfingstrose"
+        "Freesie",
+        "Litschi",
+        "Pfingstrose"
       ],
       "heart": [
-        "Magnolie", "Maiglöckchen", "Rose"
+        "Magnolie",
+        "Maiglöckchen",
+        "Rose"
       ],
       "base": [
-        "Ambra", "Zeder"
+        "Ambra",
+        "Zeder"
       ]
     },
     "links": [
@@ -5089,7 +6552,7 @@
     "name": "Liaison Rose",
     "number": "154W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -5102,17 +6565,25 @@
     ],
     "description": "Ein lebendiger, frischer Duft, der jeder Frau das Gefühl gibt, geliebt zu werden, umgeben von einer Aura flüchtiger Zärtlichkeit. Eine Botschaft für Frauen, die auf der Suche nach einer neuen Definition von Liebe sind.",
     "olfactory_group": [
-      "Blumig", "Holzig"
+      "Blumig",
+      "Holzig"
     ],
     "pyramid": {
       "top": [
-        "Orangenblüte", "rosa Pfeffer"
+        "Orangenblüte",
+        "rosa Pfeffer"
       ],
       "heart": [
-        "Flieder", "Glyzinienblüte", "Heliotrop", "Hyazinthe", "Iris"
+        "Flieder",
+        "Glyzinienblüte",
+        "Heliotrop",
+        "Hyazinthe",
+        "Iris"
       ],
       "base": [
-        "Moschus", "pudrige Noten", "Reisblatt"
+        "Moschus",
+        "pudrige Noten",
+        "Reisblatt"
       ]
     },
     "links": [
@@ -5125,7 +6596,7 @@
     "name": "True Self",
     "number": "155U",
     "sex": "Unisex",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -5138,17 +6609,36 @@
     ],
     "description": "Ein Duft mit minimalistischer Seele, androgyn und inspiriert von den Werten der Gleichberechtigung. Für Männer und Frauen gleichermaßen geschaffen, zelebriert er zwischenmenschliche Beziehungen und Austausch.",
     "olfactory_group": [
-      "Aromatisch", "Zitrus"
+      "Aromatisch",
+      "Zitrus"
     ],
     "pyramid": {
       "top": [
-        "Ananas", "Bergamotte", "grüne Noten", "Kardamom", "Mandarinorange", "Papaya", "Zitrone"
+        "Ananas",
+        "Bergamotte",
+        "grüne Noten",
+        "Kardamom",
+        "Mandarinorange",
+        "Papaya",
+        "Zitrone"
       ],
       "heart": [
-        "Freesie", "Iriswurzel", "Jasmin", "Maiglöckchen", "Muskat", "Rose", "Veilchen"
+        "Freesie",
+        "Iriswurzel",
+        "Jasmin",
+        "Maiglöckchen",
+        "Muskat",
+        "Rose",
+        "Veilchen"
       ],
       "base": [
-        "Ambra", "Eichenmoos", "grüne Noten", "Moschus", "Sandelholz", "Tee", "Zitronatzitrone"
+        "Ambra",
+        "Eichenmoos",
+        "grüne Noten",
+        "Moschus",
+        "Sandelholz",
+        "Tee",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -5161,7 +6651,7 @@
     "name": "Unbending Woman",
     "number": "156W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -5174,17 +6664,32 @@
     ],
     "description": "Samtig, suggestiv, strahlend und süß, manchmal geheimnisvoll: – ein Duft, der das Licht heraufbeschwört und eine Hommage an die Frau von heute ist. Sie ist ewig und modern zugleich, eine Frau mit strahlender Aura. Ihre Gefühle erheben sie, ihr Duft verzaubert.",
     "olfactory_group": [
-      "Blumig", "Fruchtig"
+      "Blumig",
+      "Fruchtig"
     ],
     "pyramid": {
       "top": [
-        "Alpenveilchen", "Apfel", "Eichenmoos", "Melone", "Papaya", "Pfirsich", "schwarze Johannisbeere"
+        "Alpenveilchen",
+        "Apfel",
+        "Eichenmoos",
+        "Melone",
+        "Papaya",
+        "Pfirsich",
+        "schwarze Johannisbeere"
       ],
       "heart": [
-        "Iriswurzel", "Jasmin", "Lilie", "Wasserhyazinthe"
+        "Iriswurzel",
+        "Jasmin",
+        "Lilie",
+        "Wasserhyazinthe"
       ],
       "base": [
-        "Ambra", "Harze", "Sandelholz", "Vanille", "wilde Orchidee", "Zitronatzitrone"
+        "Ambra",
+        "Harze",
+        "Sandelholz",
+        "Vanille",
+        "wilde Orchidee",
+        "Zitronatzitrone"
       ]
     },
     "links": [
@@ -5197,7 +6702,7 @@
     "name": "Aftertouch",
     "number": "157M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -5210,17 +6715,22 @@
     ],
     "description": "Dieser Duft ist ein Bekenntnis zu Eleganz und Verführung – perfekt für den Mann, der seine Erfolge immer zelebriert. Fesselnd und sinnlich, entfaltet er eine fast aphrodisierende Wirkung und besticht durch seine unwiderstehlichen, beständigen Noten.",
     "olfactory_group": [
-      "Aromatisch", "Würzig"
+      "Aromatisch",
+      "Würzig"
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Ingwerblüte", "Mandarinorange"
+        "Bergamotte",
+        "Ingwerblüte",
+        "Mandarinorange"
       ],
       "heart": [
-        "Lavendel", "Maninka"
+        "Lavendel",
+        "Maninka"
       ],
       "base": [
-        "holzige Noten", "Leder"
+        "holzige Noten",
+        "Leder"
       ]
     },
     "links": [
@@ -5233,7 +6743,7 @@
     "name": "Wild Bloom",
     "number": "158W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -5250,13 +6760,18 @@
     ],
     "pyramid": {
       "top": [
-        "Mandarinorange", "Pfingstrose", "Zitrusfrüchte"
+        "Mandarinorange",
+        "Pfingstrose",
+        "Zitrusfrüchte"
       ],
       "heart": [
-        "Osmanthus", "Rose"
+        "Osmanthus",
+        "Rose"
       ],
       "base": [
-        "Patschuli", "rosa Pfeffer", "Sandelholz"
+        "Patschuli",
+        "rosa Pfeffer",
+        "Sandelholz"
       ]
     },
     "links": [
@@ -5269,7 +6784,7 @@
     "name": "British Charm For Her",
     "number": "159W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -5282,17 +6797,26 @@
     ],
     "description": "Dieser Duft verkörpert die britische Liebe zur Tradition ebenso wie den unverwechselbaren Charme Londons. Elegant, zeitlos und mit luxuriösen Nuancen passt er sich perfekt der Persönlichkeit seiner Trägerin an.",
     "olfactory_group": [
-      "Blumig", "Fruchtig"
+      "Blumig",
+      "Fruchtig"
     ],
     "pyramid": {
       "top": [
-        "Aprikose", "Birne", "grüner Apfel", "Pfirsich", "schwarze Johannisbeere"
+        "Aprikose",
+        "Birne",
+        "grüner Apfel",
+        "Pfirsich",
+        "schwarze Johannisbeere"
       ],
       "heart": [
-        "Jasmin", "Moos", "Sandelholz"
+        "Jasmin",
+        "Moos",
+        "Sandelholz"
       ],
       "base": [
-        "Moschus", "Vanille", "Zeder"
+        "Moschus",
+        "Vanille",
+        "Zeder"
       ]
     },
     "links": [
@@ -5305,7 +6829,7 @@
     "name": "British Charm For Him",
     "number": "160M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -5322,13 +6846,22 @@
     ],
     "pyramid": {
       "top": [
-        "Bergamotte", "Lavendel", "Minze", "Thymian"
+        "Bergamotte",
+        "Lavendel",
+        "Minze",
+        "Thymian"
       ],
       "heart": [
-        "Eichenmoos", "Geranie", "Jasmin", "Sandelholz", "Zeder"
+        "Eichenmoos",
+        "Geranie",
+        "Jasmin",
+        "Sandelholz",
+        "Zeder"
       ],
       "base": [
-        "Ambra", "Moschus", "Vanille"
+        "Ambra",
+        "Moschus",
+        "Vanille"
       ]
     },
     "links": [
@@ -5341,7 +6874,7 @@
     "name": "Eternal Love For Her",
     "number": "161W",
     "sex": "Damen",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",
@@ -5354,11 +6887,13 @@
     ],
     "description": "Eternal Love For Her ist ein raffinierter, intensiver Damenduft, der romantische und zugleich mutige Frauen zelebriert. Die elegante, umhüllende Komposition wärmt die Haut und hinterlässt eine sinnliche und unvergessliche Duftspur.",
     "olfactory_group": [
-      "Blumig", "Orientalisch"
+      "Blumig",
+      "Orientalisch"
     ],
     "pyramid": {
       "top": [
-        "Ambra", "Bourbonvanille"
+        "Ambra",
+        "Bourbonvanille"
       ],
       "heart": [
         "Jasmin"
@@ -5377,7 +6912,7 @@
     "name": "Eternal Love For Him",
     "number": "162M",
     "sex": "Herren",
-    "class": "Normal",
+    "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
       "30ml",

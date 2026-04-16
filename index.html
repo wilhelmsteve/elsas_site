@@ -15,8 +15,17 @@
     </header>
 
     <nav class="navbar">
-        <button onclick="showPage('home')">Startseite</button>
-        <button onclick="showPage('finder')">Parfümfinder</button>
+        <div class="nav-container">
+            <div class="menu-icon" onclick="toggleMenu()">☰</div>
+            
+            <ul class="nav-links" id="nav-links">
+                <li><button onclick="showPage('home')">Startseite</button></li>
+                <li><button onclick="showPage('finder')">Parfüm-Welt</button></li>
+                <li><button onclick="showPage('lifestyle')">Chogan Lifestyle</button></li>
+                <li><button onclick="showPage('partner')">Partner werden</button></li>
+                <li><button onclick="showPage('faq')">Ratgeber & FAQ</button></li>
+            </ul>
+        </div>
     </nav>
 
     <main class="content">
@@ -36,13 +45,12 @@
                     Ich liebe Düfte und alles rund um Beauty. Mein Ziel ist es, dir Orientierung 
                     zu geben und dir zu helfen, deinen persönlichen Lieblingsduft zu entdecken.
                 </p>
-            </div>
+                </div>
         </section>
 
         <section id="finder" style="display:none;">
             <div class="card">
                 <h2>Finde jetzt deinen passenden Duft!</h2>
-                
                 <div class="search-wrapper">
                     <span class="search-icon">🔍</span>
                     <input type="text" id="search-input" placeholder="Name oder Nummer..." oninput="filter()">
@@ -68,13 +76,33 @@
             <div id="results"></div>
         </section>
 
+        <section id="lifestyle" style="display:none;">
+            <div class="card">
+                <h2>Chogan Lifestyle 🛍️</h2>
+                <p>Diese Seite befindet sich derzeit im Aufbau. Hier erwarten dich bald Infos zu Haushalt, Kosmetik und Schmuck.</p>
+            </div>
+        </section>
+
+        <section id="partner" style="display:none;">
+            <div class="card">
+                <h2>Partner werden 🤝</h2>
+                <p>Diese Seite befindet sich derzeit im Aufbau. Erfahre bald alles über deine Chancen im Chogan-Team.</p>
+            </div>
+        </section>
+
+        <section id="faq" style="display:none;">
+            <div class="card">
+                <h2>Ratgeber & FAQ 💡</h2>
+                <p>Diese Seite befindet sich derzeit im Aufbau. Hier findest du bald Antworten auf die häufigsten Fragen.</p>
+            </div>
+        </section>
+
     </main>
 
     <div id="perfume-modal" class="modal" aria-hidden="true">
         <div class="modal-content">
             <span class="close-modal" onclick="closeModal()" title="Schließen">&times;</span>
-            <div id="modal-body">
-                </div>
+            <div id="modal-body"></div>
         </div>
     </div>
 

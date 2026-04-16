@@ -9,6 +9,11 @@
   --font-main: "Georgia", serif;
 }
 
+html {
+  scroll-padding-top: 70px;
+  scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
   font-family: var(--font-main);
@@ -29,25 +34,98 @@ body {
 
 .navbar {
   background: var(--color-dark);
-  display: flex;
-  justify-content: center;
+  padding: 0 20px;
   position: sticky;
   top: 0;
-  z-index: 1000;
+  z-index: 3000;
 }
 
-.navbar button {
+.nav-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center; /* Desktop: Zentriert */
+  align-items: center;
+  height: 60px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links button {
   background: none;
   border: none;
-  color: var(--color-gold);
-  padding: 15px 25px;
-  font-size: 16px;
+  color: white;
+  padding: 10px 15px;
   cursor: pointer;
-  transition: background 0.3s;
+  font-family: var(--font-main);
+  transition: all 0.3s ease;
+  border-bottom: 2px solid transparent;
 }
 
-.navbar button:hover {
-  background: rgba(212, 175, 55, 0.2);
+/* Aktiver Link & Hover */
+.nav-links button.active-link {
+  color: var(--color-gold);
+  border-bottom: 2px solid var(--color-gold);
+  font-weight: bold;
+}
+
+.nav-links button:hover {
+  color: var(--color-gold);
+}
+
+/* Burger Icon (Standard versteckt) */
+.menu-icon {
+  display: none;
+  color: var(--color-gold);
+  font-size: 28px;
+  cursor: pointer;
+}
+
+/* Mobile Navigation (max 850px) */
+@media (max-width: 850px) {
+  .nav-container {
+    justify-content: flex-start; /* Burger Icon links */
+  }
+
+  .menu-icon {
+    display: block;
+  }
+
+  .nav-links {
+    display: none; /* Versteckt bis .active */
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 100%;
+    background: var(--color-dark);
+    flex-direction: column;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.3);
+  }
+
+  .nav-links.active {
+    display: flex;
+  }
+
+  .nav-links li { width: 100%; }
+
+  .nav-links button {
+    width: 100%;
+    padding: 15px;
+    border-bottom: 1px solid #333;
+  }
+
+  .nav-links button.active-link {
+    border-bottom: none;
+    background: rgba(212, 175, 55, 0.1);
+  }
 }
 
 /* ===== 3. LAYOUT & KOMPONENTEN ===== */
@@ -67,9 +145,10 @@ body {
 }
 
 .card h2 { text-align: center; }
+
 .card h3 {
   margin-top: 5px;
-  padding-right: 75px; /* Platz für Details-Button */
+  padding-right: 75px;
   font-size: 1.2rem;
 }
 
@@ -79,7 +158,6 @@ body {
   margin: 15px 0;
 }
 
-/* Tags & Counter */
 .tags span, #counter {
   display: inline-block;
   background: var(--color-tag-bg);
@@ -137,7 +215,6 @@ body {
   line-height: 1;
 }
 
-/* Filter-Gruppen */
 .filters {
   text-align: center;
   margin: 0 auto 20px auto;
@@ -168,13 +245,12 @@ body {
   transform: scale(1.2);
 }
 
-.filters input:disabled + span, 
 .filters input:disabled {
   opacity: 0.4;
   cursor: not-allowed;
 }
 
-/* Buttons */
+/* ===== 5. BUTTONS & INTERAKTION ===== */
 button.reset {
   display: block;
   width: 100%;
@@ -216,50 +292,12 @@ button.reset:hover {
   color: white;
 }
 
-/* ===== 5. MODAL & UTILS ===== */
-.modal {
-  display: none;
-  position: fixed;
-  z-index: 2000;
-  left: 0; top: 0;
-  width: 100%; height: 100%;
-  background-color: rgba(0,0,0,0.7);
-  backdrop-filter: blur(5px);
-}
-
-.modal-content {
-  background-color: var(--color-bg);
-  margin: 10% auto;
-  padding: 30px;
-  border-radius: 15px;
-  width: 85%;
-  max-width: 500px;
-  position: relative;
-}
-
-.close-modal {
-  position: absolute;
-  right: 20px; top: 15px;
-  font-size: 28px;
-  cursor: pointer;
-  color: var(--color-gold);
-}
-
-.pyramid-section { margin-bottom: 15px; }
-.pyramid-section h4 { 
-  margin-bottom: 5px; 
-  color: var(--color-gold); 
-  border-bottom: 1px solid #eee; 
-}
-
-.product-links { margin-top: 15px; font-size: 14px; }
-.product-links a { color: #0000EE; text-decoration: underline; }
-
 #back-to-top {
   position: fixed;
   bottom: 30px;
   right: 20px;
-  width: 45px; height: 45px;
+  width: 45px;
+  height: 45px;
   background: var(--color-gold);
   color: white;
   border: none;
@@ -270,3 +308,46 @@ button.reset:hover {
   z-index: 1000;
   transition: 0.3s;
 }
+
+/* ===== 6. MODAL & UTILS ===== */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 4000;
+  left: 0; top: 0;
+  width: 100%; height: 100%;
+  background-color: rgba(0,0,0,0.7);
+  backdrop-filter: blur(5px);
+}
+
+.modal-content {
+  background-color: var(--color-bg);
+  margin: 5% auto;
+  padding: 40px 30px 30px 30px;
+  border-radius: 15px;
+  width: 85%;
+  max-width: 500px;
+  position: relative;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+.close-modal {
+  position: absolute;
+  right: 15px; 
+  top: 10px;
+  font-size: 32px;
+  line-height: 1;
+  cursor: pointer;
+  color: var(--color-gold);
+}
+
+.pyramid-section { margin-bottom: 15px; }
+
+.pyramid-section h4 { 
+  margin-bottom: 5px; 
+  color: var(--color-gold); 
+  border-bottom: 1px solid #eee; 
+}
+
+.product-links { margin-top: 15px; font-size: 14px; }
+.product-links a { color: #0000EE; text-decoration: underline; }

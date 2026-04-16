@@ -58,24 +58,6 @@ body {
   text-align: center;
 }
 
-.card h3 {
-  margin-top: 5px;
-  padding-right: 70px;
-  font-size: 1.2rem;
-}
-
-/* Produktlinks */
-.product-links {
-  margin-top: 15px;
-  font-size: 14px;
-  line-height: 1.6;
-}
-
-.product-links a {
-  color: blue;
-  text-decoration: underline;
-}
-
 /* ===== HERO IMAGE ===== */
 .hero-img {
   width: 100%;
@@ -103,29 +85,28 @@ body {
 /* Der Container, der die Checkboxen umschließt */
 #filter-sex, #filter-group, #filter-size {
   display: flex;
-  flex-wrap: wrap;       
-  justify-content: center; 
-  gap: 10px;            
+  flex-wrap: wrap;       /* Erlaubt das Umspringen in die nächste Zeile */
+  justify-content: center; /* Zentriert die Filter */
+  gap: 10px;             /* Abstand zwischen den Filtern */
   padding: 10px 0;
 }
 
 /* Die einzelnen Filter-Labels */
 .filters label {
-  display: flex;         
-  align-items: center;   
+  display: flex;         /* Checkbox und Text bleiben immer in einer Zeile */
+  align-items: center;   /* Mittig ausrichten */
   background: #f4f4f4;
   padding: 10px 15px;
   border-radius: 8px;
   border: 1px solid #ddd;
-  white-space: nowrap;   
+  white-space: nowrap;   /* VERHINDERT den Umbruch innerhalb des Labels! */
   cursor: pointer;
-  flex-shrink: 0;        
+  flex-shrink: 0;        /* Label darf nicht zusammengestaucht werden */
 }
 
-/* Filter-Checkboxen */
 .filters input[type="checkbox"] {
-  margin-right: 10px;
-  transform: scale(1.2);
+  margin-right: 10px;    /* Abstand zum Text */
+  transform: scale(1.2); /* Etwas moderater vergrößert */
 }
 
 /* ausgegraute Optionen */
@@ -134,28 +115,14 @@ body {
   cursor: not-allowed;
 }
 
-/* Zähler für angezeigte Elemente */
-#counter {
-  font-family: "Georgia", serif;
-  font-size: 14px;
-  color: #1a1a1a;
-  background: #f0e6d2; 
-  display: inline-block;
-  padding: 5px 15px;
-  border-radius: 20px;
-  margin: 10px auto;
-  display: block;
-  width: fit-content;
-}
-
-/* Filter Reset Button */
+/* ===== OPTIMIERTER RESET BUTTON ===== */
 button.reset {
-  display: block;          
-  width: 100%;            
-  max-width: 200px;        
-  margin: 20px auto;       
-  padding: 15px 20px;      
-  font-size: 16px;        
+  display: block;          /* Nimmt eine eigene Zeile ein */
+  width: 100%;             /* Volle Breite auf dem Handy */
+  max-width: 200px;        /* Aber nicht zu breit auf dem PC */
+  margin: 20px auto;       /* Zentriert mit Abstand nach oben/unten */
+  padding: 15px 20px;      /* Deutlich größeres Padding für den Daumen */
+  font-size: 16px;         /* Größere Schrift */
   font-weight: bold;
   text-transform: uppercase;
   border: none;
@@ -172,6 +139,19 @@ button.reset:hover {
   color: #1a1a1a;
 }
 
+#counter {
+  font-family: "Georgia", serif;
+  font-size: 14px;
+  color: #1a1a1a;
+  background: #f0e6d2; /* Passend zu den Tags */
+  display: inline-block;
+  padding: 5px 15px;
+  border-radius: 20px;
+  margin: 10px auto;
+  display: block;
+  width: fit-content;
+}
+
 /* Container für das Suchfeld */
 .search-wrapper {
   position: relative;
@@ -186,12 +166,13 @@ button.reset:hover {
   top: 50%;
   transform: translateY(-50%);
   color: #d4af37;
-  pointer-events: none;
+  pointer-events: none; /* Man kann nicht aus Versehen auf die Lupe klicken */
+}
 
 /* Das Eingabefeld mit Platz für Icon und X */
 #search-input {
   width: 100%;
-  padding: 12px 40px 12px 40px;
+  padding: 12px 40px 12px 40px; /* Rechts und links Platz für Icons lassen */
   font-size: 16px;
   border: 2px solid #d4af37;
   border-radius: 25px;
@@ -210,7 +191,7 @@ button.reset:hover {
   font-size: 22px;
   color: #999;
   cursor: pointer;
-  z-index: 5;
+  z-index: 5; /* Stellt sicher, dass das X oben auf liegt */
   padding: 5px;
   line-height: 1;
 }
@@ -219,7 +200,6 @@ button.reset:hover {
   color: #1a1a1a;
 }
 
-/* ===== BACK TO TOP ===== */
 #back-to-top {
   position: fixed;
   bottom: 30px;
@@ -233,7 +213,7 @@ button.reset:hover {
   font-size: 20px;
   cursor: pointer;
   box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-  display: none;
+  display: none; /* Startet unsichtbar */
   z-index: 1000;
   transition: opacity 0.3s;
 }
@@ -242,15 +222,15 @@ button.reset:hover {
   background: #1a1a1a;
 }
 
-/* ===== MODAL / POPUP ===== */
+/* Hintergrund des Modals */
 .modal {
   display: none; 
   position: fixed; 
   z-index: 2000; 
   left: 0; top: 0;
   width: 100%; height: 100%;
-  background-color: rgba(0,0,0,0.7);
-  backdrop-filter: blur(5px);
+  background-color: rgba(0,0,0,0.7); /* Dunkler Hintergrund */
+  backdrop-filter: blur(5px); /* Verschwommener Hintergrundeffekt */
 }
 
 /* Das Fenster in der Mitte */
@@ -274,7 +254,7 @@ button.reset:hover {
   color: #d4af37;
 }
 
-/* Styling für die Duftpyramide */
+/* Styling für die Duftnoten */
 .pyramid-section { margin-bottom: 15px; }
 .pyramid-section h4 { 
   margin-bottom: 5px; 
@@ -282,7 +262,7 @@ button.reset:hover {
   border-bottom: 1px solid #eee; 
 }
 
-/* Detail-Button-Style */
+/* Der neue Button-Style */
 .details-btn-top {
   position: absolute;
   top: 15px;
@@ -293,7 +273,7 @@ button.reset:hover {
   border: 1.5px solid #d4af37;
   padding: 5px 12px;
   border-radius: 20px;
-  font-size: 12px;
+  font-size: 12px; /* Etwas kleiner und dezenter */
   font-family: "Georgia", serif;
   font-weight: bold;
   cursor: pointer;
@@ -303,4 +283,23 @@ button.reset:hover {
 .details-btn-top:hover {
   background: #d4af37;
   color: white;
+}
+
+/* Damit die Überschrift nicht mit dem Button kollidiert */
+.card h3 {
+  margin-top: 5px;
+  padding-right: 70px; /* Platz lassen für den Button */
+  font-size: 1.2rem;
+}
+
+/* Styling für die Links im Screenshot */
+.product-links {
+  margin-top: 15px;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.product-links a {
+  color: blue; /* Wie im Screenshot zu sehen */
+  text-decoration: underline;
 }

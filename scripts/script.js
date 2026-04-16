@@ -47,15 +47,65 @@ function render(list) {
 
     return `
       <div class="card">
+        <button class="details-btn-top" onclick="showDetails('${p.number}')">
+          Details
+        </button>
+    
         <h3>${p.number} ${p.name}</h3>
         <p>${p.description}</p>
         <div class="tags">
           ${p.olfactory_group.map(t => `<span>${t}</span>`).join("")}
         </div>
-        <br>${links}
+        <div class="product-links">
+          ${links}
+        </div>
       </div>
     `;
   }).join("");
+}
+
+function showDetails(number) {
+  const p = perfumes.find(item => item.number === number);
+  if (!p) return;
+
+  const modal = document.getElementById("perfume-modal");
+  const body = document.getElementById("modal-body");
+
+  // Duftpyramide zusammenbauen
+  const topNotes = p.pyramid.top.join(", ");
+  const heartNotes = p.pyramid.heart.join(", ");
+  const baseNotes = p.pyramid.base.join(", ");
+
+  body.innerHTML = `
+    <h2 style="color: #1a1a1a; text-decoration: underline;">${p.number} ${p.name}</h2>
+    <h3>Duftpyramide</h3>
+    <div class="pyramid-section">
+      <h4>Kopfnote</h4>
+      <p>${topNotes}</p>
+    </div>
+    <div class="pyramid-section">
+      <h4>Herznote</h4>
+      <p>${heartNotes}</p>
+    </div>
+    <div class="pyramid-section">
+      <h4>Basisnote</h4>
+      <p>${baseNotes}</p>
+    </div>
+  `;
+
+  modal.style.display = "block";
+}
+
+function closeModal() {
+  document.getElementById("perfume-modal").style.display = "none";
+}
+
+// Schließen, wenn man außerhalb des Fensters klickt
+window.onclick = function(event) {
+  const modal = document.getElementById("perfume-modal");
+  if (event.target == modal) {
+    closeModal();
+  }
 }
 
 // FILTER

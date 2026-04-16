@@ -1,14 +1,25 @@
-/* ===== BASIS ===== */
-body {
-  margin: 0;
-  font-family: "Georgia", serif;
-  background: #faf9f6;
-  color: #1a1a1a;
+/* ===== 1. VARIABLEN & BASIS ===== */
+:root {
+  --color-gold: #d4af37;
+  --color-dark: #1a1a1a;
+  --color-bg: #faf9f6;
+  --color-card-bg: #ffffff;
+  --color-tag-bg: #f0e6d2;
+  --color-text: #1a1a1a;
+  --font-main: "Georgia", serif;
 }
 
-/* ===== HEADER ===== */
+body {
+  margin: 0;
+  font-family: var(--font-main);
+  background: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.6;
+}
+
+/* ===== 2. HEADER & NAVIGATION ===== */
 .header {
-  background: linear-gradient(90deg, #1a1a1a, #3a2c2c, #d4af37);
+  background: linear-gradient(90deg, var(--color-dark), #3a2c2c, var(--color-gold));
   color: #f5e6c8;
   text-align: center;
   padding: 40px 10px;
@@ -16,171 +27,102 @@ body {
   letter-spacing: 2px;
 }
 
-/* ===== NAVIGATION ===== */
 .navbar {
-  background: #1a1a1a;
+  background: var(--color-dark);
   display: flex;
   justify-content: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }
 
 .navbar button {
   background: none;
   border: none;
-  color: #d4af37;
+  color: var(--color-gold);
   padding: 15px 25px;
   font-size: 16px;
   cursor: pointer;
-  transition: 0.3s;
+  transition: background 0.3s;
 }
 
 .navbar button:hover {
-  background: rgba(212,175,55,0.2);
+  background: rgba(212, 175, 55, 0.2);
 }
 
-/* ===== CONTENT ===== */
+/* ===== 3. LAYOUT & KOMPONENTEN ===== */
 .content {
   padding: 20px;
 }
 
-/* ===== CARD ===== */
 .card {
   position: relative;
-  background: white;
+  background: var(--color-card-bg);
   padding: 20px;
   margin: 20px auto;
   max-width: 500px;
   border-radius: 12px;
   box-sizing: border-box;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
-.card h2 {
-  text-align: center;
+.card h2 { text-align: center; }
+.card h3 {
+  margin-top: 5px;
+  padding-right: 75px; /* Platz für Details-Button */
+  font-size: 1.2rem;
 }
 
-/* ===== HERO IMAGE ===== */
 .hero-img {
   width: 100%;
   border-radius: 12px;
   margin: 15px 0;
 }
 
-/* ===== TAGS ===== */
-.tags span {
+/* Tags & Counter */
+.tags span, #counter {
   display: inline-block;
-  background: #f0e6d2;
-  padding: 5px 10px;
-  margin: 3px;
+  background: var(--color-tag-bg);
+  padding: 5px 15px;
   border-radius: 20px;
   font-size: 12px;
 }
 
-/* ===== FILTER ===== */
-.filters {
-  text-align: center;
-  margin: 0 auto 20px auto;
-  max-width: 500px;
-}
-
-/* Der Container, der die Checkboxen umschließt */
-#filter-sex, #filter-group, #filter-size {
-  display: flex;
-  flex-wrap: wrap;       /* Erlaubt das Umspringen in die nächste Zeile */
-  justify-content: center; /* Zentriert die Filter */
-  gap: 10px;             /* Abstand zwischen den Filtern */
-  padding: 10px 0;
-}
-
-/* Die einzelnen Filter-Labels */
-.filters label {
-  display: flex;         /* Checkbox und Text bleiben immer in einer Zeile */
-  align-items: center;   /* Mittig ausrichten */
-  background: #f4f4f4;
-  padding: 10px 15px;
-  border-radius: 8px;
-  border: 1px solid #ddd;
-  white-space: nowrap;   /* VERHINDERT den Umbruch innerhalb des Labels! */
-  cursor: pointer;
-  flex-shrink: 0;        /* Label darf nicht zusammengestaucht werden */
-}
-
-.filters input[type="checkbox"] {
-  margin-right: 10px;    /* Abstand zum Text */
-  transform: scale(1.2); /* Etwas moderater vergrößert */
-}
-
-/* ausgegraute Optionen */
-.filters input:disabled {
-  opacity: 0.4;
-  cursor: not-allowed;
-}
-
-/* ===== OPTIMIERTER RESET BUTTON ===== */
-button.reset {
-  display: block;          /* Nimmt eine eigene Zeile ein */
-  width: 100%;             /* Volle Breite auf dem Handy */
-  max-width: 200px;        /* Aber nicht zu breit auf dem PC */
-  margin: 20px auto;       /* Zentriert mit Abstand nach oben/unten */
-  padding: 15px 20px;      /* Deutlich größeres Padding für den Daumen */
-  font-size: 16px;         /* Größere Schrift */
-  font-weight: bold;
-  text-transform: uppercase;
-  border: none;
-  border-radius: 8px;
-  background: #1a1a1a;
-  color: #d4af37;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-  cursor: pointer;
-  transition: 0.3s;
-}
-
-button.reset:hover {
-  background: #d4af37;
-  color: #1a1a1a;
-}
+.tags span { margin: 3px; }
 
 #counter {
-  font-family: "Georgia", serif;
-  font-size: 14px;
-  color: #1a1a1a;
-  background: #f0e6d2; /* Passend zu den Tags */
-  display: inline-block;
-  padding: 5px 15px;
-  border-radius: 20px;
-  margin: 10px auto;
   display: block;
   width: fit-content;
+  margin: 10px auto;
+  font-size: 14px;
 }
 
-/* Container für das Suchfeld */
+/* ===== 4. SUCHE & FILTER ===== */
 .search-wrapper {
   position: relative;
   max-width: 400px;
   margin: 20px auto;
 }
 
-/* Die Lupe links */
-.search-icon {
-  position: absolute;
-  left: 15px;
-  top: 50%;
-  transform: translateY(-50%);
-  color: #d4af37;
-  pointer-events: none; /* Man kann nicht aus Versehen auf die Lupe klicken */
-}
-
-/* Das Eingabefeld mit Platz für Icon und X */
 #search-input {
   width: 100%;
-  padding: 12px 40px 12px 40px; /* Rechts und links Platz für Icons lassen */
+  padding: 12px 45px;
   font-size: 16px;
-  border: 2px solid #d4af37;
+  border: 2px solid var(--color-gold);
   border-radius: 25px;
   outline: none;
   box-sizing: border-box;
 }
 
-/* Der Löschen-Button (X) rechts */
+.search-icon {
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--color-gold);
+  pointer-events: none;
+}
+
 #clear-search {
   position: absolute;
   right: 15px;
@@ -191,115 +133,140 @@ button.reset:hover {
   font-size: 22px;
   color: #999;
   cursor: pointer;
-  z-index: 5; /* Stellt sicher, dass das X oben auf liegt */
   padding: 5px;
   line-height: 1;
 }
 
-#clear-search:hover {
-  color: #1a1a1a;
+/* Filter-Gruppen */
+.filters {
+  text-align: center;
+  margin: 0 auto 20px auto;
+  max-width: 500px;
 }
 
-#back-to-top {
-  position: fixed;
-  bottom: 30px;
-  right: 20px;
-  width: 45px;
-  height: 45px;
-  background: #d4af37; /* Elsas Gold */
-  color: white;
-  border: none;
-  border-radius: 50%;
-  font-size: 20px;
+#filter-sex, #filter-group, #filter-size {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 0;
+}
+
+.filters label {
+  display: flex;
+  align-items: center;
+  background: #f4f4f4;
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
   cursor: pointer;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-  display: none; /* Startet unsichtbar */
-  z-index: 1000;
-  transition: opacity 0.3s;
+  white-space: nowrap;
 }
 
-#back-to-top:hover {
-  background: #1a1a1a;
+.filters input[type="checkbox"] {
+  margin-right: 10px;
+  transform: scale(1.2);
 }
 
-/* Hintergrund des Modals */
+.filters input:disabled + span, 
+.filters input:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* Buttons */
+button.reset {
+  display: block;
+  width: 100%;
+  max-width: 200px;
+  margin: 20px auto;
+  padding: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 8px;
+  background: var(--color-dark);
+  color: var(--color-gold);
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button.reset:hover {
+  background: var(--color-gold);
+  color: var(--color-dark);
+}
+
+.details-btn-top {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: transparent;
+  color: var(--color-gold);
+  border: 1.5px solid var(--color-gold);
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.details-btn-top:hover {
+  background: var(--color-gold);
+  color: white;
+}
+
+/* ===== 5. MODAL & UTILS ===== */
 .modal {
-  display: none; 
-  position: fixed; 
-  z-index: 2000; 
+  display: none;
+  position: fixed;
+  z-index: 2000;
   left: 0; top: 0;
   width: 100%; height: 100%;
-  background-color: rgba(0,0,0,0.7); /* Dunkler Hintergrund */
-  backdrop-filter: blur(5px); /* Verschwommener Hintergrundeffekt */
+  background-color: rgba(0,0,0,0.7);
+  backdrop-filter: blur(5px);
 }
 
-/* Das Fenster in der Mitte */
 .modal-content {
-  background-color: #faf9f6;
+  background-color: var(--color-bg);
   margin: 10% auto;
   padding: 30px;
   border-radius: 15px;
-  width: 80%;
+  width: 85%;
   max-width: 500px;
   position: relative;
-  box-shadow: 0 5px 20px rgba(0,0,0,0.3);
 }
 
-/* Schließen-Button */
 .close-modal {
   position: absolute;
   right: 20px; top: 15px;
   font-size: 28px;
   cursor: pointer;
-  color: #d4af37;
+  color: var(--color-gold);
 }
 
-/* Styling für die Duftnoten */
 .pyramid-section { margin-bottom: 15px; }
 .pyramid-section h4 { 
   margin-bottom: 5px; 
-  color: #d4af37; 
+  color: var(--color-gold); 
   border-bottom: 1px solid #eee; 
 }
 
-/* Der neue Button-Style */
-.details-btn-top {
-  position: absolute;
-  top: 15px;
-  right: 15px;
-  
-  background: transparent;
-  color: #d4af37;
-  border: 1.5px solid #d4af37;
-  padding: 5px 12px;
-  border-radius: 20px;
-  font-size: 12px; /* Etwas kleiner und dezenter */
-  font-family: "Georgia", serif;
-  font-weight: bold;
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
+.product-links { margin-top: 15px; font-size: 14px; }
+.product-links a { color: #0000EE; text-decoration: underline; }
 
-.details-btn-top:hover {
-  background: #d4af37;
+#back-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 20px;
+  width: 45px; height: 45px;
+  background: var(--color-gold);
   color: white;
-}
-
-/* Damit die Überschrift nicht mit dem Button kollidiert */
-.card h3 {
-  margin-top: 5px;
-  padding-right: 70px; /* Platz lassen für den Button */
-  font-size: 1.2rem;
-}
-
-/* Styling für die Links im Screenshot */
-.product-links {
-  margin-top: 15px;
-  font-size: 14px;
-  line-height: 1.6;
-}
-
-.product-links a {
-  color: blue; /* Wie im Screenshot zu sehen */
-  text-decoration: underline;
+  border: none;
+  border-radius: 50%;
+  font-size: 20px;
+  cursor: pointer;
+  display: none;
+  z-index: 1000;
+  transition: 0.3s;
 }

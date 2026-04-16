@@ -44,6 +44,7 @@ body {
 
 /* ===== CARD ===== */
 .card {
+  position: relative;
   background: white;
   padding: 20px;
   margin: 20px auto;
@@ -219,4 +220,86 @@ button.reset:hover {
 
 #back-to-top:hover {
   background: #1a1a1a;
+}
+
+/* Hintergrund des Modals */
+.modal {
+  display: none; 
+  position: fixed; 
+  z-index: 2000; 
+  left: 0; top: 0;
+  width: 100%; height: 100%;
+  background-color: rgba(0,0,0,0.7); /* Dunkler Hintergrund */
+  backdrop-filter: blur(5px); /* Verschwommener Hintergrundeffekt */
+}
+
+/* Das Fenster in der Mitte */
+.modal-content {
+  background-color: #faf9f6;
+  margin: 10% auto;
+  padding: 30px;
+  border-radius: 15px;
+  width: 80%;
+  max-width: 500px;
+  position: relative;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+}
+
+/* Schließen-Button */
+.close-modal {
+  position: absolute;
+  right: 20px; top: 15px;
+  font-size: 28px;
+  cursor: pointer;
+  color: #d4af37;
+}
+
+/* Styling für die Duftnoten */
+.pyramid-section { margin-bottom: 15px; }
+.pyramid-section h4 { 
+  margin-bottom: 5px; 
+  color: #d4af37; 
+  border-bottom: 1px solid #eee; 
+}
+
+/* Der neue Button-Style */
+.details-btn-top {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  
+  background: transparent;
+  color: #d4af37;
+  border: 1.5px solid #d4af37;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 12px; /* Etwas kleiner und dezenter */
+  font-family: "Georgia", serif;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.details-btn-top:hover {
+  background: #d4af37;
+  color: white;
+}
+
+/* Damit die Überschrift nicht mit dem Button kollidiert */
+.card h3 {
+  margin-top: 5px;
+  padding-right: 70px; /* Platz lassen für den Button */
+  font-size: 1.2rem;
+}
+
+/* Styling für die Links im Screenshot */
+.product-links {
+  margin-top: 15px;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.product-links a {
+  color: blue; /* Wie im Screenshot zu sehen */
+  text-decoration: underline;
 }

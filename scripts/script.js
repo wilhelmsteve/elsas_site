@@ -146,7 +146,7 @@ function createFilters(list) {
     `;
 
     // Daten extrahieren und sortieren
-    const sexes = [...new Set(list.map(p => p.sex))].sort();
+    const sexes = [...new Set(list.map(p => p.sex))];
     const groups = [...new Set(list.flatMap(p => p.olfactory_group))].sort();
     const sizes = [...new Set(list.flatMap(p => p.sizes))].sort((a, b) => {
         const numA = parseInt(a.match(/\d+/) || 0);

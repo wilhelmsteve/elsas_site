@@ -171,6 +171,21 @@ function clearSearchInput() {
   searchInput.focus(); // Fokus im Feld behalten
 }
 
+// Nach oben scrollen Funktion
+function scrollToTop() {
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// Button einblenden, wenn man 300px nach unten gescrollt hat
+window.onscroll = function() {
+  const btn = document.getElementById("back-to-top");
+  if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+    btn.style.display = "block";
+  } else {
+    btn.style.display = "none";
+  }
+};
+
 // START
 document.addEventListener("DOMContentLoaded", () => {
   loadPerfumes();

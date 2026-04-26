@@ -179,12 +179,14 @@ function createFilters(list) {
     const sexCont = document.getElementById("filter-sex");
     const groupCont = document.getElementById("filter-group");
     const sizeCont = document.getElementById("filter-size");
+    const classCont = document.getElementById("filter-class");
 
     const sexes = [...new Set(list.map(p => p.sex))];
     const groups = [...new Set(list.flatMap(p => p.olfactory_group))].sort();
     const sizes = [...new Set(list.flatMap(p => p.sizes))].sort((a, b) => {
         return parseInt(a) - parseInt(b);
     });
+    const classes = [...new Set(list.flatMap(p => p.classes))].sort();
 
     const buildHTML = (val, group) => `
         <label><input type="checkbox" value="${val}" data-group="${group}" onchange="filter()"> ${val}</label>
@@ -193,6 +195,7 @@ function createFilters(list) {
     if (sexCont) sexCont.innerHTML = sexes.map(s => buildHTML(s, "sex")).join("");
     if (groupCont) groupCont.innerHTML = groups.map(g => buildHTML(g, "group")).join("");
     if (sizeCont) sizeCont.innerHTML = sizes.map(s => buildHTML(s, "size")).join("");
+    if (classCont) classCont.innerHTML = classes.map(c => buildHTML(c, "class")).join("");
 }
 
 /**
@@ -205,7 +208,7 @@ function filter() {
     if (clearBtn) clearBtn.style.display = searchTerm.length > 0 ? "block" : "none";
 
     // Aktive Filter sammeln
-    const selected = { sex: [], group: [], size: [] };
+    const selected = { sex: [], group: [], size: [], class: [] };
     document.querySelectorAll("input[type=checkbox]:checked").forEach(cb => {
         selected[cb.dataset.group].push(cb.value);
     });
@@ -215,8 +218,9 @@ function filter() {
         const matchesSex = !selected.sex.length || selected.sex.includes(p.sex);
         const matchesGroup = !selected.group.length || selected.group.some(g => p.olfactory_group.includes(g));
         const matchesSize = !selected.size.length || selected.size.some(s => p.sizes.includes(s));
+        const matchesClass = !selected.class.length || selected.class.some(c => p.classes.includes(c));
 
-        return matchesSearch && matchesSex && matchesGroup && matchesSize;
+        return matchesSearch && matchesSex && matchesGroup && matchesSize && matchesClass;
     });
 
     render(filtered);
@@ -233,6 +237,8 @@ function updateDisabledOptions(filteredList) {
             if (group === "sex") return p.sex === cb.value;
             if (group === "group") return p.olfactory_group.includes(cb.value);
             if (group === "size") return p.sizes.includes(cb.value);
+            if (group === "class") return p.classes.includes(cb.value);
+
             return false;
         });
         cb.disabled = !isPossible && !cb.checked;

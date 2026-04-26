@@ -221,7 +221,7 @@ body {
   max-width: 500px;
 }
 
-#filter-sex, #filter-group, #filter-size {
+#filter-sex, #filter-group, #filter-size, #filter-class {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;

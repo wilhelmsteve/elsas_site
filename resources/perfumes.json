@@ -6943,5 +6943,77 @@
       "https://www.chogangroupspa.com/product_referral/11471/ELS919337",
       "https://www.chogangroupspa.com/product_referral/11466/ELS919337"
     ]
+  },
+  {
+    "name": "Blooming Skin",
+    "number": "163W",
+    "sex": "Damen",
+    "classes": [],
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "13,90€",
+      "23,50€",
+      "45,00€"
+    ],
+    "description": "Ein raffinierter Duft, der sich mit natürlicher Leichtigkeit auf der Haut entfaltet. Mit seinem frischen und zugleich anspruchsvollen Charakter steht er für elegante Leichtigkeit und moderne Weiblichkeit. Er zeichnet sich durch eine zarte, sinnliche Sillage aus, die Anmut und Vitalität ausstrahlt.",
+    "olfactory_group": [
+      "Blumig", "Fruchtig"
+    ],
+    "pyramid": {
+      "top": [
+        "Erdbeere", "Gardenie"
+      ],
+      "heart": [
+        "Jasmin", "Rose"
+      ],
+      "base": [
+        "Ambra", "Bourbonvanille", "brauner Zucker", "Moos", "Patschuli"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/13681/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/13691/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/13686/ELS919337"
+    ]
+  },
+  {
+    "name": "Unfold",
+    "number": "164M",
+    "sex": "Herren",
+    "classes": [],
+    "sizes": [
+      "15ml Nachfüllflakon",
+      "30ml",
+      "70ml"
+    ],
+    "prices": [
+      "13,90€",
+      "23,50€",
+      "45,00€"
+    ],
+    "description": "Ein moderner, raffinierter Herrenduft, bei dem Eleganz eine Frage der Attitüde ist. Die Komposition vereint frische Klarheit mit ausdrucksstarker Tiefe. Durch ihre markante, zeitgemäße Sillage lässt sie die Persönlichkeit des Trägers auf natürliche Weise hervortreten.",
+    "olfactory_group": [
+      "Holzig", "Orientalisch"
+    ],
+    "pyramid": {
+      "top": [
+        "Bergamotte", "Moschus"
+      ],
+      "heart": [
+        "Geranie"
+      ],
+      "base": [
+        "Benzoeharz", "Guajakholz", "Perubalsam"
+      ]
+    },
+    "links": [
+      "https://www.chogangroupspa.com/product_referral/13701/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/13711/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/13706/ELS919337"
+    ]
   }
 ]

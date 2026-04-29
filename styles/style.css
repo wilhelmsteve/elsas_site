@@ -215,10 +215,20 @@ body {
   line-height: 1;
 }
 
-.filters {
+.filter-toggle {
   text-align: center;
-  margin: 0 auto 20px auto;
-  max-width: 500px;
+  cursor: pointer;
+  background: var(--color-dark);
+  color: var(--color-gold);
+  padding: 12px;
+  border-radius: 8px;
+  margin: 10px auto;
+  max-width: 300px;
+}
+
+.filters {
+  position: sticky;
+  top: 70px;
 }
 
 #filter-sex, #filter-group, #filter-size, #filter-class {

@@ -2299,6 +2299,7 @@
     "name": "Frozen Crest",
     "number": "44U",
     "sex": "Unisex",
+    "image": "perfume_luxury_white.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -3425,7 +3426,7 @@
     "name": "Essence Noire",
     "number": "74M",
     "sex": "Herren",
-    "image": "perfume_men.jpg",
+    "image": "perfume_luxury_black.jpg",
     "classes": [
       "Luxury Line"
     ],
@@ -3467,7 +3468,7 @@
     "name": "Xcellence",
     "number": "75M",
     "sex": "Herren",
-    "image": "perfume_men.jpg",
+    "image": "perfume_luxury_black.jpg",
     "classes": [
       "Luxury Line"
     ],
@@ -4699,7 +4700,7 @@
     "name": "Pure Gold",
     "number": "109W",
     "sex": "Damen",
-    "image": "perfume_women.jpg",
+    "image": "perfume_luxury_white.jpg",
     "classes": [
       "Luxury Line"
     ],
@@ -4732,8 +4733,8 @@
       ]
     },
     "links": [
-      "https://www.chogangroupspa.com/product_referral/13356/ELS919337",
-      "https://www.chogangroupspa.com/product_referral/8476/ELS919337"
+      "https://www.chogangroupspa.com/product_referral/8476/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/13321/ELS919337"
     ]
   },
   {
@@ -5150,7 +5151,7 @@
       ]
     },
     "links": [
-      "https://www.chogangroupspa.com/product_referral/8006/ELS919337",
+      "https://www.chogangroupspa.com/product_referral/14376/ELS919337",
       "https://www.chogangroupspa.com/product_referral/13076/ELS919337"
     ]
   },
@@ -5353,7 +5354,7 @@
     "name": "Sweet Rebel",
     "number": "123W",
     "sex": "Damen",
-    "image": "perfume_women.jpg",
+    "image": "perfume_luxury_white.jpg",
     "classes": [
       "Luxury Line"
     ],

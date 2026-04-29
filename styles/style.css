@@ -320,6 +320,22 @@ button.reset:hover {
   backdrop-filter: blur(5px);
 }
 
+.modal-header {
+  position: relative;
+  padding-right: 80px;
+}
+
+.modal-image {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
 .modal-content {
   background-color: var(--color-bg);
   margin: 5% auto;

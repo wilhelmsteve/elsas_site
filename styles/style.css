@@ -328,7 +328,7 @@ button.reset:hover {
 .modal-image {
   position: absolute;
   top: 0;
-  right: 5%;
+  right: 0;
   width: 100px;
   height: 100px;
   object-fit: cover;

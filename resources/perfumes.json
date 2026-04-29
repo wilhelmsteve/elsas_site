@@ -2340,6 +2340,7 @@
     "name": "Baby Boy - Parfüm für Jungen",
     "number": "45B",
     "sex": "Kinder",
+    "image": "perfume_boy.jpg",
     "classes": [],
     "sizes": [
       "30ml"
@@ -2836,6 +2837,7 @@
     "name": "Baby Girl - Parfüm für Mädchen",
     "number": "58B",
     "sex": "Kinder",
+    "image": "perfume_girl.jpg",
     "classes": [],
     "sizes": [
       "30ml"
@@ -2861,6 +2863,7 @@
     "name": "Baby Joy - Parfüm für Babys",
     "number": "59B",
     "sex": "Kinder",
+    "image": "perfume_baby.jpg",
     "classes": [],
     "sizes": [
       "30ml"

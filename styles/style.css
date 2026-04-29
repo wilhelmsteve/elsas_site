@@ -227,8 +227,12 @@ body {
 }
 
 .filters {
-  position: sticky;
-  top: 70px;
+  display: none;
+  text-align: center;
+  margin: 0 auto 20px auto;
+  max-width: 500px;
+}
+
 }
 
 #filter-sex, #filter-group, #filter-size, #filter-class {

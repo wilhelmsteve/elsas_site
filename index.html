@@ -49,6 +49,7 @@
         </section>
 
         <section id="finder" style="display:none;">
+    
             <div class="card">
                 <h2>Finde jetzt deinen passenden Duft!</h2>
                 <div class="search-wrapper">
@@ -58,25 +59,35 @@
                 </div>
             </div>
 
-            <aside class="filters">
-                <h3>Geschlecht</h3>
-                <div id="filter-sex" class="filter-group-container"></div>
-                
-                <h3>Duftfamilie</h3>
-                <div id="filter-group" class="filter-group-container"></div>
+            <!-- Filter Toggle (nur sichtbar mobil) -->
+            <div class="filter-toggle" onclick="toggleFilters()">
+                🔍 Filter anzeigen
+            </div>
 
-                <h3>Duftlinie</h3>
-                <div id="filter-class" class="filter-group-container"></div>
-                
-                <h3>Parfümgröße</h3>
-                <div id="filter-size" class="filter-group-container"></div>
-                
-                <button class="reset" onclick="resetFilter()">Alle Filter zurücksetzen</button>
-            </aside>
+            <!-- NEUER WRAPPER -->
+            <div class="finder-layout">
 
-            <div id="counter"></div>
+                <aside class="filters" id="filters">
+                    <h3>Geschlecht</h3>
+                    <div id="filter-sex"></div>
             
-            <div id="results"></div>
+                    <h3>Duftfamilie</h3>
+                    <div id="filter-group"></div>
+
+                    <h3>Duftlinie</h3>
+                    <div id="filter-class"></div>
+            
+                    <h3>Parfümgröße</h3>
+                    <div id="filter-size"></div>
+            
+                    <button class="reset" onclick="resetFilter()">Alle Filter zurücksetzen</button>
+                </aside>
+
+                <div class="results-area">
+                    <div id="counter"></div>
+                    <div id="results"></div>
+                </div>
+            </div>
         </section>
 
         <section id="lifestyle" style="display:none;">

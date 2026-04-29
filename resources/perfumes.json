@@ -3,6 +3,7 @@
     "name": "Afrodite",
     "number": "AFRODITE",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [
       "Mytologik"
     ],
@@ -137,6 +138,7 @@
     "name": "Artemide",
     "number": "ARTEMIDE",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [
       "Mytologik"
     ],
@@ -222,6 +224,7 @@
     "name": "Medusa",
     "number": "MEDUSA",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [
       "Mytologik"
     ],
@@ -306,6 +309,7 @@
     "name": "Astral24",
     "number": "ASTRAL24",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [
       "Eventdüfte",
       "Luxury Line",
@@ -449,6 +453,7 @@
     "name": "Séduction",
     "number": "EVENT23W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [
       "Eventdüfte",
       "Luxury Line",
@@ -501,6 +506,7 @@
     "name": "Imperatrix",
     "number": "IMPERATRIX",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [
       "Eventdüfte",
       "Luxury Line",
@@ -592,6 +598,7 @@
     "name": "Scented Love",
     "number": "LOVE22",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [
       "Love",
       "Special Edition"
@@ -636,6 +643,7 @@
     "name": "Scented Love",
     "number": "LOVE24",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [
       "Love",
       "Special Edition"
@@ -682,6 +690,7 @@
     "name": "Scented Love",
     "number": "LOVE25",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [
       "Love",
       "Special Edition"
@@ -931,6 +940,7 @@
     "name": "Addiction",
     "number": "06W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -974,6 +984,7 @@
     "name": "Pure Gold",
     "number": "07W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -1026,6 +1037,7 @@
     "name": "Stranger",
     "number": "10W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -1063,6 +1075,7 @@
     "name": "Aqua Soul For Her",
     "number": "11W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -1159,6 +1172,7 @@
     "name": "Statement",
     "number": "14W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -1355,6 +1369,7 @@
     "name": "Prestige For Her",
     "number": "19W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -1528,6 +1543,7 @@
     "name": "Fatale",
     "number": "23W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -1574,6 +1590,7 @@
     "name": "The Essence",
     "number": "24W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -1623,6 +1640,7 @@
     "name": "Her Secret",
     "number": "25W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -1666,6 +1684,7 @@
     "name": "Wild Poppy",
     "number": "26W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -1711,6 +1730,7 @@
     "name": "L'Amour Rare",
     "number": "27W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -1762,6 +1782,7 @@
     "name": "Etherea",
     "number": "28W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -1823,6 +1844,7 @@
     "name": "Rêve Parisien",
     "number": "29W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -2147,6 +2169,7 @@
     "name": "Darling",
     "number": "39W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -2191,6 +2214,7 @@
     "name": "Magnetic",
     "number": "40W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -2229,6 +2253,7 @@
     "name": "Bonheur Supreme",
     "number": "42W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -2339,6 +2364,7 @@
     "name": "Night Gem",
     "number": "47W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -2443,6 +2469,7 @@
     "name": "Pearl Bloom",
     "number": "49W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -2483,6 +2510,7 @@
     "name": "Miss Bijou",
     "number": "51W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -2577,6 +2605,7 @@
     "name": "Vanité",
     "number": "53W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -2674,6 +2703,7 @@
     "name": "Black Addiction",
     "number": "55W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -2718,6 +2748,7 @@
     "name": "Light & Dark",
     "number": "56W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -2762,6 +2793,7 @@
     "name": "Pure Purple",
     "number": "57W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -2989,6 +3021,7 @@
     "name": "Talisman",
     "number": "64W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -3077,6 +3110,7 @@
     "name": "Victoria",
     "number": "67W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -3204,6 +3238,7 @@
     "name": "Pure Ego For Her",
     "number": "70W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -3250,6 +3285,7 @@
     "name": "Sublime For Her",
     "number": "71W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -3475,6 +3511,7 @@
     "name": "Deep Blue For Her",
     "number": "76W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -3594,6 +3631,7 @@
     "name": "Absolutely",
     "number": "80W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -3635,6 +3673,7 @@
     "name": "Allure Éternelle",
     "number": "81W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -3679,6 +3718,7 @@
     "name": "Jeunesse",
     "number": "82W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -3768,6 +3808,7 @@
     "name": "Serendipity",
     "number": "85W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -3951,6 +3992,7 @@
     "name": "Ville Lumière",
     "number": "89W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -4001,6 +4043,7 @@
     "name": "Femme Fatale",
     "number": "90W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -4096,6 +4139,7 @@
     "name": "Glory For Her",
     "number": "93W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -4192,6 +4236,7 @@
     "name": "The Muse",
     "number": "96W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -4239,6 +4284,7 @@
     "name": "Vita",
     "number": "97W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -4282,6 +4328,7 @@
     "name": "Euphoria",
     "number": "98W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -4648,6 +4695,7 @@
     "name": "Pure Gold",
     "number": "109W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [
       "Luxury Line"
     ],
@@ -4927,6 +4975,7 @@
     "name": "Icon",
     "number": "115W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -4970,6 +5019,7 @@
     "name": "Declare",
     "number": "116W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -5104,6 +5154,7 @@
     "name": "Dark Affair",
     "number": "119W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -5149,6 +5200,7 @@
     "name": "Haute Couture",
     "number": "120W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -5196,6 +5248,7 @@
     "name": "Secret Desire",
     "number": "121W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -5250,6 +5303,7 @@
     "name": "Volare",
     "number": "122W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -5295,6 +5349,7 @@
     "name": "Sweet Rebel",
     "number": "123W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [
       "Luxury Line"
     ],
@@ -5632,6 +5687,7 @@
     "name": "Chica Mala",
     "number": "131W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -5686,6 +5742,7 @@
     "name": "My Rules",
     "number": "132W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -5726,6 +5783,7 @@
     "name": "Enigma",
     "number": "133W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -6270,6 +6328,7 @@
     "name": "Forever Yours",
     "number": "145W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -6387,6 +6446,7 @@
     "name": "Divine Aura",
     "number": "148W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -6472,6 +6532,7 @@
     "name": "To The Edge For Her",
     "number": "151W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -6559,6 +6620,7 @@
     "name": "Rose Dust",
     "number": "153W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -6600,6 +6662,7 @@
     "name": "Liaison Rose",
     "number": "154W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -6699,6 +6762,7 @@
     "name": "Unbending Woman",
     "number": "156W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -6792,6 +6856,7 @@
     "name": "Wild Bloom",
     "number": "158W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -6833,6 +6898,7 @@
     "name": "British Charm For Her",
     "number": "159W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -6924,6 +6990,7 @@
     "name": "Eternal Love For Her",
     "number": "161W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",
@@ -6999,6 +7066,7 @@
     "name": "Blooming Skin",
     "number": "163W",
     "sex": "Damen",
+    "image": "perfume_women.jpg",
     "classes": [],
     "sizes": [
       "15ml Nachfüllflakon",

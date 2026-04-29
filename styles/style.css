@@ -322,17 +322,17 @@ button.reset:hover {
 
 .modal-header {
   position: relative;
-  padding-right: 140px;
+  padding-right: 120px;
 }
 
 .modal-image {
   position: absolute;
   top: 0;
-  right: 10%;
-  width: 120px;
-  height: 120px;
+  right: 5%;
+  width: 100px;
+  height: 100px;
   object-fit: cover;
-  border-radius: 10px;
+  border-radius: 9px;
   border: 1px solid #ddd;
   box-shadow: 0 2px 8px rgba(0,0,0,0.2);
 }

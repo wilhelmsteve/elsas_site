@@ -141,10 +141,20 @@ function showDetails(number) {
     const top = p.pyramid?.top?.join(", ") || "Nicht angegeben";
     const heart = p.pyramid?.heart?.join(", ") || "Nicht angegeben";
     const base = p.pyramid?.base?.join(", ") || "Nicht angegeben";
+    
+    // Bild nur wenn vorhanden
+    const imageHTML = p.image ? `<img src="resources/${p.image}" class="modal-image" alt="${p.name}">` : "";
 
     body.innerHTML = `
-        <h2 style="color: var(--color-dark); text-decoration: underline;">${p.number} ${p.name}</h2>
+        <div class="modal-header">
+            <h2 style="color: var(--color-dark); text-decoration: underline;">
+                ${p.number} ${p.name}
+            </h2>
+            ${imageHTML}
+        </div>
+
         <h3>Duftpyramide</h3>
+
         <div class="pyramid-section">
             <h4>Kopfnote</h4><p>${top}</p>
         </div>
@@ -155,6 +165,7 @@ function showDetails(number) {
             <h4>Basisnote</h4><p>${base}</p>
         </div>
     `;
+    
     modal.style.display = "block";
     document.body.style.overflow = "hidden";
 }

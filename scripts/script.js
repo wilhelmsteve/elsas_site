@@ -256,6 +256,20 @@ function updateDisabledOptions(filteredList) {
     });
 }
 
+function toggleFilters() {
+    const f = document.getElementById("filters");
+    const btn = document.querySelector(".filter-toggle");
+
+    const isOpen = f.style.display === "block";
+
+    f.style.display = isOpen ? "none" : "block";
+    btn.innerText = isOpen 
+        ? "🔍 Filter anzeigen" 
+        : "❌ Filter ausblenden";
+
+    if (!isOpen) window.scrollTo({ top: 200, behavior: "smooth" });
+}
+
 /**
  * Alles zurücksetzen
  */

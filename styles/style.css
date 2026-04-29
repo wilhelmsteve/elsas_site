@@ -219,6 +219,8 @@ body {
   text-align: center;
   margin: 0 auto 20px auto;
   max-width: 500px;
+  width: 100%;
+}
 }
 
 #filter-sex, #filter-group, #filter-size, #filter-class {
@@ -368,3 +370,63 @@ button.reset:hover {
 
 .product-links { margin-top: 15px; font-size: 14px; }
 .product-links a { color: #0000EE; text-decoration: underline; }
+
+/* ===== 7. FINDER LAYOUT ===== */
+
+/* Desktop: 2-Spalten Layout */
+.finder-layout {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.results-area {
+  flex: 1;
+}
+
+/* Filter links */
+@media (min-width: 851px) {
+  .filters {
+    width: 260px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 80px;
+  }
+}
+
+/* ===== Mobile Verhalten ===== */
+@media (max-width: 850px) {
+
+  .finder-layout {
+    flex-direction: column;
+  }
+
+  .filters {
+    display: none; /* wichtig: erstmal versteckt */
+    width: 100%;
+  }
+
+  .filter-toggle {
+    display: block;
+  }
+}
+
+/* ===== Toggle Button ===== */
+.filter-toggle {
+  display: none;
+  text-align: center;
+  cursor: pointer;
+  background: var(--color-dark);
+  color: var(--color-gold);
+  padding: 12px;
+  border-radius: 8px;
+  margin: 10px auto;
+  max-width: 300px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.filter-toggle:hover {
+  background: var(--color-gold);
+  color: var(--color-dark);
+}

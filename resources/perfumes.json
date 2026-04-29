@@ -3,7 +3,7 @@
     "name": "Afrodite",
     "number": "AFRODITE",
     "sex": "Damen",
-    "image": "perfume_women.jpg",
+    "image": "perfume_afrodite.jpg",
     "classes": [
       "Mytologik"
     ],
@@ -48,7 +48,7 @@
     "name": "Apollo",
     "number": "APOLLO",
     "sex": "Herren",
-    "image": "perfume_men.jpg",
+    "image": "perfume_apollo.jpg",
     "classes": [
       "Mytologik"
     ],
@@ -97,6 +97,7 @@
     "name": "Ares",
     "number": "ARES",
     "sex": "Unisex",
+    "image": "perfume_ares.jpg",
     "classes": [
       "Mytologik"
     ],
@@ -138,7 +139,7 @@
     "name": "Artemide",
     "number": "ARTEMIDE",
     "sex": "Damen",
-    "image": "perfume_women.jpg",
+    "image": "perfume_artemide.jpg",
     "classes": [
       "Mytologik"
     ],
@@ -180,7 +181,7 @@
     "name": "Ermes",
     "number": "ERMES",
     "sex": "Herren",
-    "image": "perfume_men.jpg",
+    "image": "perfume_ermes.jpg",
     "classes": [
       "Mytologik"
     ],
@@ -224,7 +225,7 @@
     "name": "Medusa",
     "number": "MEDUSA",
     "sex": "Damen",
-    "image": "perfume_women.jpg",
+    "image": "perfume_medusa.jpg",
     "classes": [
       "Mytologik"
     ],
@@ -267,7 +268,7 @@
     "name": "Zeus",
     "number": "ZEUS",
     "sex": "Herren",
-    "image": "perfume_men.jpg",
+    "image": "perfume_zeus.jpg",
     "classes": [
       "Mytologik"
     ],
@@ -309,7 +310,7 @@
     "name": "Astral24",
     "number": "ASTRAL24",
     "sex": "Damen",
-    "image": "perfume_women.jpg",
+    "image": "perfume_astral24.jpg",
     "classes": [
       "Eventdüfte",
       "Luxury Line",
@@ -354,7 +355,7 @@
     "name": "Multiverse",
     "number": "MULTIVERSE",
     "sex": "Herren",
-    "image": "perfume_men.jpg",
+    "image": "perfume_multiverse.jpg",
     "classes": [
       "Eventdüfte",
       "Luxury Line",
@@ -397,7 +398,7 @@
     "name": "Mystère",
     "number": "EVENT23M",
     "sex": "Herren",
-    "image": "perfume_men.jpg",
+    "image": "perfume_event23m.jpg",
     "classes": [
       "Eventdüfte",
       "Luxury Line",
@@ -453,7 +454,7 @@
     "name": "Séduction",
     "number": "EVENT23W",
     "sex": "Damen",
-    "image": "perfume_women.jpg",
+    "image": "perfume_event23w.jpg",
     "classes": [
       "Eventdüfte",
       "Luxury Line",
@@ -506,7 +507,7 @@
     "name": "Imperatrix",
     "number": "IMPERATRIX",
     "sex": "Damen",
-    "image": "perfume_women.jpg",
+    "image": "perfume_imperatrix.jpg",
     "classes": [
       "Eventdüfte",
       "Luxury Line",
@@ -598,7 +599,7 @@
     "name": "Scented Love",
     "number": "LOVE22",
     "sex": "Damen",
-    "image": "perfume_women.jpg",
+    "image": "perfume_love.jpg",
     "classes": [
       "Love",
       "Special Edition"
@@ -643,7 +644,7 @@
     "name": "Scented Love",
     "number": "LOVE24",
     "sex": "Damen",
-    "image": "perfume_women.jpg",
+    "image": "perfume_love.jpg",
     "classes": [
       "Love",
       "Special Edition"
@@ -690,7 +691,7 @@
     "name": "Scented Love",
     "number": "LOVE25",
     "sex": "Damen",
-    "image": "perfume_women.jpg",
+    "image": "perfume_love.jpg",
     "classes": [
       "Love",
       "Special Edition"

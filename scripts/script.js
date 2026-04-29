@@ -143,7 +143,7 @@ function showDetails(number) {
     const base = p.pyramid?.base?.join(", ") || "Nicht angegeben";
     
     // Bild nur wenn vorhanden
-    const imageHTML = p.image ? `<img src="resources/${p.image}" class="modal-image" alt="${p.name}">` : "";
+    const imageHTML = p.image ? `<img src="resources/perfumes/${p.image}" class="modal-image" alt="${p.name}">` : "";
 
     body.innerHTML = `
         <div class="modal-header">

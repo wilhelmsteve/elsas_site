@@ -274,7 +274,7 @@ function toggleFilters() {
 
     const isOpen = f.style.display === "block";
     f.style.display = isOpen ? "none" : "block";
-    btn.innerText = isOpen ? "🔍 Filter anzeigen" : "❌ Filter ausblenden";
+    btn.innerText = isOpen ? "🔽 Filter anzeigen" : "🔼 Filter ausblenden";
 }
 
 function clearSearchInput() {

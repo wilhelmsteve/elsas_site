@@ -148,7 +148,7 @@ function showDetails(number) {
     body.innerHTML = `
         <div class="modal-header">
             <h2 style="color: var(--color-dark); text-decoration: underline;">
-                ${p.number} ${p.name}
+                ${p.number}<br>${p.name}
             </h2>
             ${imageHTML}
         </div>

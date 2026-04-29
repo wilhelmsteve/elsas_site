@@ -332,8 +332,9 @@ button.reset:hover {
   width: 120px;
   height: 120px;
   object-fit: cover;
-  border-radius: 8px;
+  border-radius: 10px;
   border: 1px solid #ddd;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
 }
 
 .modal-content {

@@ -268,6 +268,15 @@ function resetFilter() {
     filter();
 }
 
+function toggleFilters() {
+    const f = document.getElementById("filters");
+    const btn = document.querySelector(".filter-toggle");
+
+    const isOpen = f.style.display === "block";
+    f.style.display = isOpen ? "none" : "block";
+    btn.innerText = isOpen ? "🔍 Filter anzeigen" : "❌ Filter ausblenden";
+}
+
 function clearSearchInput() {
     const input = document.getElementById("search-input");
     input.value = "";

@@ -114,7 +114,9 @@ body {
     display: flex;
   }
 
-  .nav-links li { width: 100%; }
+  .nav-links li {
+    width: 100%;
+  }
 
   .nav-links button {
     width: 100%;
@@ -144,7 +146,9 @@ body {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
-.card h2 { text-align: center; }
+.card h2 { 
+  text-align: center; 
+}
 
 .card h3 {
   margin-top: 5px;
@@ -370,7 +374,9 @@ button.reset:hover {
   color: var(--color-gold);
 }
 
-.pyramid-section { margin-bottom: 15px; }
+.pyramid-section {
+  margin-bottom: 15px;
+}
 
 .pyramid-section h4 { 
   margin-bottom: 5px; 
@@ -378,5 +384,51 @@ button.reset:hover {
   border-bottom: 1px solid #eee; 
 }
 
-.product-links { margin-top: 15px; font-size: 14px; }
-.product-links a { color: #0000EE; text-decoration: underline; }
+.product-links {
+  margin-top: 15px; 
+  font-size: 14px; 
+}
+
+.product-links a { 
+  color: #0000EE;
+  text-decoration: underline;
+}
+
+/* ===== ACCORDION ===== */
+.accordion {
+  max-width: 500px;
+  margin: 20px auto;
+  box-sizing: border-box;
+}
+
+.accordion-item {
+  margin-bottom: 10px;
+}
+
+.accordion-btn {
+  width: 100%;
+  text-align: left;
+  padding: 15px;
+  font-size: 16px;
+  background: var(--color-dark);
+  color: var(--color-gold);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-family: var(--font-main);
+  transition: 0.3s;
+}
+
+.accordion-btn:hover {
+  background: var(--color-gold);
+  color: var(--color-dark);
+}
+
+.accordion-content {
+  display: none;
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 5px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}

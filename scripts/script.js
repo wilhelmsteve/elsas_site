@@ -283,3 +283,20 @@ function clearSearchInput() {
     filter();
     input.focus();
 }
+
+// Accordion Funktion
+document.addEventListener("click", function(e) {
+    if (e.target.classList.contains("accordion-btn")) {
+        const content = e.target.nextElementSibling;
+
+        const isOpen = content.style.display === "block";
+
+        // Alle schließen
+        document.querySelectorAll(".accordion-content").forEach(c => c.style.display = "none");
+
+        // Nur dieses öffnen (wenn vorher zu)
+        if (!isOpen) {
+            content.style.display = "block";
+        }
+    }
+});
